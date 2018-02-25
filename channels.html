@@ -33,7 +33,16 @@
 </header>
 <section class="container-fluid text-center" id="section">
     <h1 class="h1">TV Channels</h1>
-    <h2 class="h2">Coming Soon</h2>
+    <table class="table">
+        <thead>
+        <tr>
+            <th>#</th>
+            <th>Image</th>
+            <th>Name</th>
+            <th>Country</th>
+        </tr>
+        </thead>
+    </table>
 </section>
 <footer class="footer">
     <div class="container-fluid text-center">
@@ -43,5 +52,19 @@
 <script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script>
+    $.getJSON('channels.json', function (data) {
+        var items = [];
+        $.each(data, function (key, val) {
+            items.push('<tr>');
+            items.push('<td id="'+key+'">'+val.id+'</td>');
+            items.push('<td id="'+key+'"><img src="images/'+val.image+'" alt="Image" class="tv_img"></td>');
+            items.push('<td id="'+key+'">'+val.channel_name+'</td>');
+            items.push('<td id="'+key+'">'+val.country+'</td>');
+            items.push('</tr>');
+        });
+        $('<tbody>', {html: items.join("")}).appendTo("table");
+    });
+</script>
 </body>
 </html>

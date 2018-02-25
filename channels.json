@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "image": "rts_rs_1.png",
+    "channel_name": "RTS1",
+    "country": "Serbia"
+  },
+  {
+    "id": 2,
+    "image": "rts_rs_2.png",
+    "channel_name": "RTS2",
+    "country": "Serbia"
+  },
+  {
+    "id": 3,
+    "image": "rts_rs_3.png",
+    "channel_name": "RTS3",
+    "country": "Serbia"
+  },
+  {
+    "id": 4,
+    "image": "rts-svet-rs.png",
+    "channel_name": "RTS Svet",
+    "country": "Serbia"
+  },
+  {
+    "id": 5,
+    "image": "prva_rs.png",
+    "channel_name": "Prva",
+    "country": "Serbia"
+  },
+  {
+    "id": 6,
+    "image": "o2tv-rs.png",
+    "channel_name": "O2.TV",
+    "country": "Serbia"
+  },
+  {
+    "id": 7,
+    "image": "pink_1_rs.png",
+    "channel_name": "Pink",
+    "country": "Serbia"
+  },
+  {
+    "id": 8,
+    "image": "happy_tv_rs.png",
+    "channel_name": "Happy",
+    "country": "Serbia"
+  },
+  {
+    "id": 9,
+    "image": "rtv_rs_1.png",
+    "channel_name": "RTV1",
+    "country": "Serbia"
+  },
+  {
+    "id": 10,
+    "image": "rtv_rs_2.png",
+    "channel_name": "RTV2",
+    "country": "Serbia"
+  },
+  {
+    "id": 11,
+    "image": "duna_tv.png",
+    "channel_name": "Duna",
+    "country": "Hungary"
+  },
+  {
+    "id": 12,
+    "image": "duna_world.png",
+    "channel_name": "Duna World",
+    "country": "Hungary"
+  },
+  {
+    "id": 13,
+    "image": "magyar_tv1.png",
+    "channel_name": "M1",
+    "country": "Hungary"
+  },
+  {
+    "id": 14,
+    "image": "magyar_tv2.png",
+    "channel_name": "M2/Petőfi",
+    "country": "Hungary"
+  },
+  {
+    "id": 15,
+    "image": "magyar_tv3.png",
+    "channel_name": "M3",
+    "country": "Hungary"
+  },
+  {
+    "id": 16,
+    "image": "magyar_tv4_sport_hu.png",
+    "channel_name": "M4 Sport",
+    "country": "Hungary"
+  },
+  {
+    "id": 17,
+    "image": "magyar_tv5_hu.png",
+    "channel_name": "M5",
+    "country": "Hungary"
+  },
+  {
+    "id": 18,
+    "image": "tv2_hu.png",
+    "channel_name": "TV2",
+    "country": "Hungary"
+  },
+  {
+    "id": 19,
+    "image": "super_tv2_hu.png",
+    "channel_name": "Super TV2",
+    "country": "Hungary"
+  },
+  {
+    "id": 20,
+    "image": "rtl_klub.png",
+    "channel_name": "RTL Klub",
+    "country": "Hungary"
+  },
+  {
+    "id": 21,
+    "image": "rtl2_hu.png",
+    "channel_name": "RTL II",
+    "country": "Hungary"
+  }
+]
