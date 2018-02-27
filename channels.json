@@ -124,5 +124,155 @@
     "image": "rtl2_hu.png",
     "channel_name": "RTL II",
     "country": "Hungary"
+  },
+  {
+    "id": 22,
+    "image": "hrt1.png",
+    "channel_name": "HRT1",
+    "country": "Croatia"
+  },
+  {
+    "id": 23,
+    "image": "hrt2.png",
+    "channel_name": "HRT2",
+    "country": "Croatia"
+  },
+  {
+    "id": 24,
+    "image": "hrt-3-hr.png",
+    "channel_name": "HRT3",
+    "country": "Croatia"
+  },
+  {
+    "id": 25,
+    "image": "hrt-4-hr.png",
+    "channel_name": "HRT4",
+    "country": "Croatia"
+  },
+  {
+    "id": 26,
+    "image": "hrt5-hr.png",
+    "channel_name": "HRT5",
+    "country": "Croatia"
+  },
+  {
+    "id": 27,
+    "image": "nova_tv_hr.png",
+    "channel_name": "Nova TV",
+    "country": "Croatia"
+  },
+  {
+    "id": 28,
+    "image": "doma_tv_hr.png",
+    "channel_name": "Doma TV",
+    "country": "Croatia"
+  },
+  {
+    "id": 29,
+    "image": "rtl_televizija.png",
+    "channel_name": "RTL Televizija",
+    "country": "Croatia"
+  },
+  {
+    "id": 30,
+    "image": "rtl2_hr.png",
+    "channel_name": "RTL 2",
+    "country": "Croatia"
+  },
+  {
+    "id": 31,
+    "image": "rtl_kockica_hr.png",
+    "channel_name": "RTL Kockica",
+    "country": "Croatia"
+  },
+  {
+    "id": 32,
+    "image": "tvp1.png",
+    "channel_name": "TVP1",
+    "country": "Poland"
+  },
+  {
+    "id": 33,
+    "image": "tvp2.png",
+    "channel_name": "TVP2",
+    "country": "Poland"
+  },
+  {
+    "id": 34,
+    "image": "tvp3.png",
+    "channel_name": "TVP3",
+    "country": "Poland"
+  },
+  {
+    "id": 35,
+    "image": "tvp_abc_pl.png",
+    "channel_name": "TVP ABC",
+    "country": "Poland"
+  },
+  {
+    "id": 36,
+    "image": "tvp_historia.png",
+    "channel_name": "TVP Historia",
+    "country": "Poland"
+  },
+  {
+    "id": 37,
+    "image": "tvp_info.png",
+    "channel_name": "TVP Info",
+    "country": "Poland"
+  },
+  {
+    "id": 38,
+    "image": "tvp_kultura.png",
+    "channel_name": "TVP Kultura",
+    "country": "Poland"
+  },
+  {
+    "id": 39,
+    "image": "tvp_polonia.png",
+    "channel_name": "TVP Polonia",
+    "country": "Poland"
+  },
+  {
+    "id": 40,
+    "image": "tvp_rozrywka_pl.png",
+    "channel_name": "TVP Rozrywka",
+    "country": "Poland"
+  },
+  {
+    "id": 41,
+    "image": "tvp_seriale.png",
+    "channel_name": "TVP Seriale",
+    "country": "Poland"
+  },
+  {
+    "id": 42,
+    "image": "tvp_sport.png",
+    "channel_name": "TVP Sport",
+    "country": "Poland"
+  },
+  {
+    "id": 43,
+    "image": "polsat.png",
+    "channel_name": "Polsat",
+    "country": "Poland"
+  },
+  {
+    "id": 44,
+    "image": "tv_4_pl.png",
+    "channel_name": "TV 4",
+    "country": "Poland"
+  },
+  {
+    "id": 45,
+    "image": "tvn_pl.png",
+    "channel_name": "TVN",
+    "country": "Poland"
+  },
+  {
+    "id": 46,
+    "image": "tvn_7_pl.png",
+    "channel_name": "TVN 7",
+    "country": "Poland"
   }
 ]
