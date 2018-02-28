@@ -47,7 +47,7 @@
     $.getJSON('news.json', function (data) {
         var items = [];
         $.each(data, function (key, val) {
-            items.push('<a id="'+key+'" href="news/'+val.id+'.html">'+val.news+'</a><br>');
+            items.push('<a class="a" id="'+key+'" href="news/'+val.id+'.html">'+val.news+'</a><br>');
         });
         $('<div>', {html: items.join("")}).appendTo("section");
     });

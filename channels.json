@@ -274,5 +274,125 @@
     "image": "tvn_7_pl.png",
     "channel_name": "TVN 7",
     "country": "Poland"
+  },
+  {
+    "id": 47,
+    "image": "bht-1-ba.png",
+    "channel_name": "BHT 1",
+    "country": "Bosnia and Herzegovina"
+  },
+  {
+    "id": 48,
+    "image": "ftv_ba.png",
+    "channel_name": "Federalna TV",
+    "country": "Bosnia and Herzegovina"
+  },
+  {
+    "id": 49,
+    "image": "rtrs_tv_ba.png",
+    "channel_name": "RTRS TV",
+    "country": "Bosnia and Herzegovina"
+  },
+  {
+    "id": 50,
+    "image": "rtrs_tv_ba_plus.png",
+    "channel_name": "RTRS Plus",
+    "country": "Bosnia and Herzegovina"
+  },
+  {
+    "id": 51,
+    "image": "hayat_ba.png",
+    "channel_name": "Hayat",
+    "country": "Bosnia and Herzegovina"
+  },
+  {
+    "id": 52,
+    "image": "a_tv_ba.png",
+    "channel_name": "Alternativa TV",
+    "country": "Bosnia and Herzegovina"
+  },
+  {
+    "id": 53,
+    "image": "bn_televizija_sat.png",
+    "channel_name": "BN TV",
+    "country": "Bosnia and Herzegovina"
+  },
+  {
+    "id": 54,
+    "image": "obn_ba.png",
+    "channel_name": "OBN",
+    "country": "Bosnia and Herzegovina"
+  },
+  {
+    "id": 55,
+    "image": "pink_bh.png",
+    "channel_name": "Pink BH",
+    "country": "Bosnia and Herzegovina"
+  },
+  {
+    "id": 56,
+    "image": "tv1_ba.png",
+    "channel_name": "TV 1",
+    "country": "Bosnia and Herzegovina"
+  },
+  {
+    "id": 57,
+    "image": "ceska_televize1.png",
+    "channel_name": "ČT1",
+    "country": "Czech Republic"
+  },
+  {
+    "id": 58,
+    "image": "ceska_televize2.png",
+    "channel_name": "ČT2",
+    "country": "Czech Republic"
+  },
+  {
+    "id": 59,
+    "image": "ceska_televize24.png",
+    "channel_name": "ČT24",
+    "country": "Czech Republic"
+  },
+  {
+    "id": 60,
+    "image": "ceska_televize_d.png",
+    "channel_name": "ČT :D",
+    "country": "Czech Republic"
+  },
+  {
+    "id": 61,
+    "image": "ceska_televize_sport.png",
+    "channel_name": "ČT Sport",
+    "country": "Czech Republic"
+  },
+  {
+    "id": 62,
+    "image": "ceska_televize_art.png",
+    "channel_name": "ČT Art",
+    "country": "Czech Republic"
+  },
+  {
+    "id": 63,
+    "image": "nova_cz_tv.png",
+    "channel_name": "TV Nova",
+    "country": "Czech Republic"
+  },
+  {
+    "id": 64,
+    "image": "nova_cz_tv_2.png",
+    "channel_name": "Nova 2",
+    "country": "Czech Republic"
+  },
+  {
+    "id": 65,
+    "image": "prima_tv_cz.png",
+    "channel_name": "Prima",
+    "country": "Czech Republic"
+  },
+  {
+    "id": 66,
+    "image": "barrandov_cz_tv.png",
+    "channel_name": "TV Barrandov",
+    "country": "Czech Republic"
   }
 ]
