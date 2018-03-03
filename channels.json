@@ -394,5 +394,167 @@
     "image": "barrandov_cz_tv.png",
     "channel_name": "TV Barrandov",
     "country": "Czech Republic"
+  },
+  {
+    "id": 67,
+    "image": "crne_gore_tv_1.png",
+    "channel_name": "TVCG 1",
+    "country": "Montenegro"
+  },
+  {
+    "id": 68,
+    "image": "crne_gore_tv_2.png",
+    "channel_name": "TVCG 2",
+    "country": "Montenegro"
+  },
+  {
+    "id": 69,
+    "image": "crne_gore_tv_sat.png",
+    "channel_name": "TVCG Sat",
+    "country": "Montenegro"
+  },
+  {
+    "id": 70,
+    "image": "pink_m.png",
+    "channel_name": "Pink M",
+    "country": "Montenegro"
+  },
+  {
+    "id": 71,
+    "image": "rtv_atlas.png",
+    "channel_name": "Atlas TV",
+    "country": "Montenegro"
+  },
+  {
+    "id": 72,
+    "image": "tv_vijesti_me.png",
+    "channel_name": "TV Vijesti",
+    "country": "Montenegro"
+  },
+  {
+    "id": 73,
+    "image": "prva_rs_crna_gora.png",
+    "channel_name": "Prva TV Crna Gora",
+    "country": "Montenegro"
+  },
+  {
+    "id": 74,
+    "image": "rtv_sk_1.png",
+    "channel_name": "RTV 1 (Jednotka)",
+    "country": "Slovakia"
+  },
+  {
+    "id": 75,
+    "image": "rtv_sk_2.png",
+    "channel_name": "RTV 2 (Dvojka)",
+    "country": "Slovakia"
+  },
+  {
+    "id": 76,
+    "image": "markiza_tv_sk.png",
+    "channel_name": "TV Markíza",
+    "country": "Slovakia"
+  },
+  {
+    "id": 77,
+    "image": "joj_tv_sk.png",
+    "channel_name": "TV JOJ",
+    "country": "Slovakia"
+  },
+  {
+    "id": 78,
+    "image": "ta_3_sk.png",
+    "channel_name": "TA3",
+    "country": "Slovakia"
+  },
+  {
+    "id": 79,
+    "image": "rtv_slo1.png",
+    "channel_name": "TV Slovenija 1",
+    "country": "Slovenia"
+  },
+  {
+    "id": 80,
+    "image": "rtv_slo2.png",
+    "channel_name": "TV Slovenija 2",
+    "country": "Slovenia"
+  },
+  {
+    "id": 81,
+    "image": "rtv_slo3.png",
+    "channel_name": "TV Slovenija 3",
+    "country": "Slovenia"
+  },
+  {
+    "id": 82,
+    "image": "pop_si_tv.png",
+    "channel_name": "POP TV",
+    "country": "Slovenia"
+  },
+  {
+    "id": 83,
+    "image": "kanal_a_si.png",
+    "channel_name": "Kanal A",
+    "country": "Slovenia"
+  },
+  {
+    "id": 84,
+    "image": "planet_tv_si.png",
+    "channel_name": "Planet TV",
+    "country": "Slovenia"
+  },
+  {
+    "id": 85,
+    "image": "tv3_medias_si.png",
+    "channel_name": "TV3",
+    "country": "Slovenia"
+  },
+  {
+    "id": 86,
+    "image": "tvr1_ro.png",
+    "channel_name": "TVR 1",
+    "country": "Romania"
+  },
+  {
+    "id": 87,
+    "image": "tvr2_ro.png",
+    "channel_name": "TVR 2",
+    "country": "Romania"
+  },
+  {
+    "id": 88,
+    "image": "tvr3_ro.png",
+    "channel_name": "TVR 3",
+    "country": "Romania"
+  },
+  {
+    "id": 89,
+    "image": "tvr_international.png",
+    "channel_name": "TVR International",
+    "country": "Romania"
+  },
+  {
+    "id": 90,
+    "image": "pro-tv-ro.png",
+    "channel_name": "PRO TV",
+    "country": "Romania"
+  },
+  {
+    "id": 91,
+    "image": "pro-2-ro.png",
+    "channel_name": "PRO 2",
+    "country": "Romania"
+  },
+  {
+    "id": 92,
+    "image": "antena1_ro.png",
+    "channel_name": "Antena 1",
+    "country": "Romania"
+  },
+  {
+    "id": 93,
+    "image": "antena3_ro.png",
+    "channel_name": "Antena 3",
+    "country": "Romania"
   }
 ]

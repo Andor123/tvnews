@@ -22,5 +22,21 @@
   {
     "id": 6,
     "news": "Television in the Czech Republic"
+  },
+  {
+    "id": 7,
+    "news": "Television in Montenegro"
+  },
+  {
+    "id": 8,
+    "news": "Television in Slovakia"
+  },
+  {
+    "id": 9,
+    "news": "Television in Slovenia"
+  },
+  {
+    "id": 10,
+    "news": "Television in Romania"
   }
 ]
