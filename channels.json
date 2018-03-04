@@ -556,5 +556,83 @@
     "image": "antena3_ro.png",
     "channel_name": "Antena 3",
     "country": "Romania"
+  },
+  {
+    "id": 94,
+    "image": "mrt_mk_tv_1.png",
+    "channel_name": "MRT 1",
+    "country": "Macedonia"
+  },
+  {
+    "id": 95,
+    "image": "mrt_mk_tv_2_sat.png",
+    "channel_name": "MRT 2",
+    "country": "Macedonia"
+  },
+  {
+    "id": 96,
+    "image": "mrt_mk_tv_1_sat.png",
+    "channel_name": "MRT Sat",
+    "country": "Macedonia"
+  },
+  {
+    "id": 97,
+    "image": "alsat_m.png",
+    "channel_name": "Alsat-M",
+    "country": "Macedonia"
+  },
+  {
+    "id": 98,
+    "image": "kanal5_mk.png",
+    "channel_name": "Kanal 5",
+    "country": "Macedonia"
+  },
+  {
+    "id": 99,
+    "image": "sitel.png",
+    "channel_name": "Sitel TV",
+    "country": "Macedonia"
+  },
+  {
+    "id": 100,
+    "image": "alfa_tv_mk.png",
+    "channel_name": "Alfa TV",
+    "country": "Macedonia"
+  },
+  {
+    "id": 101,
+    "image": "telma_mk.png",
+    "channel_name": "Telma TV",
+    "country": "Macedonia"
+  },
+  {
+    "id": 102,
+    "image": "bnt1_bg.png",
+    "channel_name": "BNT 1",
+    "country": "Bulgaria"
+  },
+  {
+    "id": 103,
+    "image": "bnt2_bg.png",
+    "channel_name": "BNT 2",
+    "country": "Bulgaria"
+  },
+  {
+    "id": 104,
+    "image": "bnt_world.png",
+    "channel_name": "BNT World",
+    "country": "Bulgaria"
+  },
+  {
+    "id": 105,
+    "image": "btv_bg.png",
+    "channel_name": "bTV",
+    "country": "Bulgaria"
+  },
+  {
+    "id": 106,
+    "image": "nova_tv_bg.png",
+    "channel_name": "Nova",
+    "country": "Bulgaria"
   }
 ]

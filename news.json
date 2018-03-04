@@ -38,5 +38,13 @@
   {
     "id": 10,
     "news": "Television in Romania"
+  },
+  {
+    "id": 11,
+    "news": "Television in Macedonia"
+  },
+  {
+    "id": 12,
+    "news": "Television in Bulgaria"
   }
 ]
