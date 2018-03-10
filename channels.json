@@ -634,5 +634,137 @@
     "image": "nova_tv_bg.png",
     "channel_name": "Nova",
     "country": "Bulgaria"
+  },
+  {
+    "id": 107,
+    "image": "rtsh1-al.png",
+    "channel_name": "RTSH 1",
+    "country": "Albania"
+  },
+  {
+    "id": 108,
+    "image": "rtsh2-al.png",
+    "channel_name": "RTSH 2",
+    "country": "Albania"
+  },
+  {
+    "id": 109,
+    "image": "rtsh3-al.png",
+    "channel_name": "RTSH 3",
+    "country": "Albania"
+  },
+  {
+    "id": 110,
+    "image": "rtsh-film-al.png",
+    "channel_name": "RTSH Film",
+    "country": "Albania"
+  },
+  {
+    "id": 111,
+    "image": "rtsh-muzike-al.png",
+    "channel_name": "RTSH Muzike",
+    "country": "Albania"
+  },
+  {
+    "id": 112,
+    "image": "rtsh-shqip-al.png",
+    "channel_name": "RTSH Shqip",
+    "country": "Albania"
+  },
+  {
+    "id": 113,
+    "image": "rtsh-sport-al.png",
+    "channel_name": "RTSH Sport",
+    "country": "Albania"
+  },
+  {
+    "id": 114,
+    "image": "top_channel.png",
+    "channel_name": "Top Channel",
+    "country": "Albania"
+  },
+  {
+    "id": 115,
+    "image": "klan_al_tv_hd.png",
+    "channel_name": "TV Klan",
+    "country": "Albania"
+  },
+  {
+    "id": 116,
+    "image": "vizion_plus.png",
+    "channel_name": "Vizion Plus",
+    "country": "Albania"
+  },
+  {
+    "id": 117,
+    "image": "ert_gr_1.png",
+    "channel_name": "ERT 1",
+    "country": "Greece"
+  },
+  {
+    "id": 118,
+    "image": "ert_gr_2.png",
+    "channel_name": "ERT 2",
+    "country": "Greece"
+  },
+  {
+    "id": 119,
+    "image": "ert_gr_3.png",
+    "channel_name": "ERT 3",
+    "country": "Greece"
+  },
+  {
+    "id": 120,
+    "image": "ert_world_gr.png",
+    "channel_name": "ERT World",
+    "country": "Greece"
+  },
+  {
+    "id": 121,
+    "image": "alpha_tv.png",
+    "channel_name": "Alpha TV",
+    "country": "Greece"
+  },
+  {
+    "id": 122,
+    "image": "antenna1_gr.png",
+    "channel_name": "ANT1",
+    "country": "Greece"
+  },
+  {
+    "id": 123,
+    "image": "art_tv_gr.png",
+    "channel_name": "ART",
+    "country": "Greece"
+  },
+  {
+    "id": 124,
+    "image": "epsilon_tv_gr.png",
+    "channel_name": "Epsilon TV",
+    "country": "Greece"
+  },
+  {
+    "id": 125,
+    "image": "makedonia_tv.png",
+    "channel_name": "Makedonia TV",
+    "country": "Greece"
+  },
+  {
+    "id": 126,
+    "image": "mega_gr.png",
+    "channel_name": "Mega",
+    "country": "Greece"
+  },
+  {
+    "id": 127,
+    "image": "skai_tv.png",
+    "channel_name": "Skai TV",
+    "country": "Greece"
+  },
+  {
+    "id": 128,
+    "image": "star_channel_gr.png",
+    "channel_name": "Star",
+    "country": "Greece"
   }
 ]
