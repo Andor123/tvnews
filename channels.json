@@ -766,5 +766,155 @@
     "image": "star_channel_gr.png",
     "channel_name": "Star",
     "country": "Greece"
+  },
+  {
+    "id": 129,
+    "image": "trt1.png",
+    "channel_name": "TRT 1",
+    "country": "Turkey"
+  },
+  {
+    "id": 130,
+    "image": "trt_arapca_tr.png",
+    "channel_name": "TRT Arapca",
+    "country": "Turkey"
+  },
+  {
+    "id": 131,
+    "image": "trt_avaz_tr.png",
+    "channel_name": "TRT Avaz",
+    "country": "Turkey"
+  },
+  {
+    "id": 132,
+    "image": "trt_belgesel_tr.png",
+    "channel_name": "TRT Belgesel",
+    "country": "Turkey"
+  },
+  {
+    "id": 133,
+    "image": "trt_diyanet_tr.png",
+    "channel_name": "TRT Diyanet",
+    "country": "Turkey"
+  },
+  {
+    "id": 134,
+    "image": "trt_haber.png",
+    "channel_name": "TRT Haber",
+    "country": "Turkey"
+  },
+  {
+    "id": 135,
+    "image": "trt_kurdi_tr.png",
+    "channel_name": "TRT Kurdi",
+    "country": "Turkey"
+  },
+  {
+    "id": 136,
+    "image": "trt_muzik.png",
+    "channel_name": "TRT Müzik",
+    "country": "Turkey"
+  },
+  {
+    "id": 137,
+    "image": "trt_okul.png",
+    "channel_name": "TRT Okul",
+    "country": "Turkey"
+  },
+  {
+    "id": 138,
+    "image": "trt_spor_tr.png",
+    "channel_name": "TRT Spor",
+    "country": "Turkey"
+  },
+  {
+    "id": 139,
+    "image": "trt_turk_tr.png",
+    "channel_name": "TRT Türk",
+    "country": "Turkey"
+  },
+  {
+    "id": 140,
+    "image": "trt_world_tr.png",
+    "channel_name": "TRT World",
+    "country": "Turkey"
+  },
+  {
+    "id": 141,
+    "image": "trt_cocuk.png",
+    "channel_name": "TRT Cocuk",
+    "country": "Turkey"
+  },
+  {
+    "id": 142,
+    "image": "kanal_d_tr.png",
+    "channel_name": "Kanal D",
+    "country": "Turkey"
+  },
+  {
+    "id": 143,
+    "image": "teve_2_tr.png",
+    "channel_name": "Teve 2",
+    "country": "Turkey"
+  },
+  {
+    "id": 144,
+    "image": "star_tv_tr.png",
+    "channel_name": "Star TV",
+    "country": "Turkey"
+  },
+  {
+    "id": 145,
+    "image": "show_tv_tr.png",
+    "channel_name": "Show TV",
+    "country": "Turkey"
+  },
+  {
+    "id": 146,
+    "image": "tv8_tr.png",
+    "channel_name": "TV8",
+    "country": "Turkey"
+  },
+  {
+    "id": 147,
+    "image": "atv_tr.png",
+    "channel_name": "ATV",
+    "country": "Turkey"
+  },
+  {
+    "id": 148,
+    "image": "fox_global.png",
+    "channel_name": "FOX Türkiye",
+    "country": "Turkey"
+  },
+  {
+    "id": 149,
+    "image": "kanal7_tr.png",
+    "channel_name": "Kanal 7",
+    "country": "Turkey"
+  },
+  {
+    "id": 150,
+    "image": "rik-sat-cy.png",
+    "channel_name": "RIK Sat",
+    "country": "Cyprus"
+  },
+  {
+    "id": 151,
+    "image": "alpha-kyprou-gr.png",
+    "channel_name": "Alpha Kyprou",
+    "country": "Cyprus"
+  },
+  {
+    "id": 152,
+    "image": "cy-sports-tv.png",
+    "channel_name": "CYsports TV",
+    "country": "Cyprus"
+  },
+  {
+    "id": 153,
+    "image": "sigma-tv-cy.png",
+    "channel_name": "Sigma TV",
+    "country": "Cyprus"
   }
 ]
