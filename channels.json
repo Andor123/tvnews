@@ -916,5 +916,71 @@
     "image": "sigma-tv-cy.png",
     "channel_name": "Sigma TV",
     "country": "Cyprus"
+  },
+  {
+    "id": 154,
+    "image": "moldova_tv_1_md.png",
+    "channel_name": "Moldova 1",
+    "country": "Moldova"
+  },
+  {
+    "id": 155,
+    "image": "moldova_tv_2_md.png",
+    "channel_name": "Moldova 2",
+    "country": "Moldova"
+  },
+  {
+    "id": 156,
+    "image": "pro-tv-chisinau-ro-md.png",
+    "channel_name": "Pro TV Chisinau",
+    "country": "Moldova"
+  },
+  {
+    "id": 157,
+    "image": "publika_md.png",
+    "channel_name": "Publika TV",
+    "country": "Moldova"
+  },
+  {
+    "id": 158,
+    "image": "tv-8-md.png",
+    "channel_name": "TV 8",
+    "country": "Moldova"
+  },
+  {
+    "id": 159,
+    "image": "lrt_lt_televizija.png",
+    "channel_name": "LRT Televizija",
+    "country": "Lithuania"
+  },
+  {
+    "id": 160,
+    "image": "lrt_lt_kultura.png",
+    "channel_name": "LRT Kultura",
+    "country": "Lithuania"
+  },
+  {
+    "id": 161,
+    "image": "lrt_lt_lituanica.png",
+    "channel_name": "LRT Lituanica",
+    "country": "Lithuania"
+  },
+  {
+    "id": 162,
+    "image": "lnk_lt.png",
+    "channel_name": "LNK",
+    "country": "Lithuania"
+  },
+  {
+    "id": 163,
+    "image": "viasat_tv3_lt.png",
+    "channel_name": "TV3",
+    "country": "Lithuania"
+  },
+  {
+    "id": 164,
+    "image": "lietuvos_rytas_tv.png",
+    "channel_name": "Lietuvos Rytas TV",
+    "country": "Lithuania"
   }
 ]
