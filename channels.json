@@ -982,5 +982,89 @@
     "image": "lietuvos_rytas_tv.png",
     "channel_name": "Lietuvos Rytas TV",
     "country": "Lithuania"
+  },
+  {
+    "id": 165,
+    "image": "ua_pershiy_ua.png",
+    "channel_name": "UA:Pershiy",
+    "country": "Ukraine"
+  },
+  {
+    "id": 166,
+    "image": "ua-kultura-ua.png",
+    "channel_name": "UA:Kultura",
+    "country": "Ukraine"
+  },
+  {
+    "id": 167,
+    "image": "trk_ukraina.png",
+    "channel_name": "Kanal Ukraina",
+    "country": "Ukraine"
+  },
+  {
+    "id": 168,
+    "image": "indigo_tv_ua.png",
+    "channel_name": "Indigo TV",
+    "country": "Ukraine"
+  },
+  {
+    "id": 169,
+    "image": "1_plus_1_ua.png",
+    "channel_name": "1+1",
+    "country": "Ukraine"
+  },
+  {
+    "id": 170,
+    "image": "tet_ua.png",
+    "channel_name": "TET",
+    "country": "Ukraine"
+  },
+  {
+    "id": 171,
+    "image": "inter_ua.png",
+    "channel_name": "Inter",
+    "country": "Ukraine"
+  },
+  {
+    "id": 172,
+    "image": "ntn_ua.png",
+    "channel_name": "NTN",
+    "country": "Ukraine"
+  },
+  {
+    "id": 173,
+    "image": "telekanal_stb_ua.png",
+    "channel_name": "STB",
+    "country": "Ukraine"
+  },
+  {
+    "id": 174,
+    "image": "ictv_ua.png",
+    "channel_name": "ICTV",
+    "country": "Ukraine"
+  },
+  {
+    "id": 175,
+    "image": "latvia1.png",
+    "channel_name": "LTV 1",
+    "country": "Latvia"
+  },
+  {
+    "id": 176,
+    "image": "latvia7.png",
+    "channel_name": "LTV 7",
+    "country": "Latvia"
+  },
+  {
+    "id": 177,
+    "image": "tv3-latvija-lv.png",
+    "channel_name": "TV3",
+    "country": "Latvia"
+  },
+  {
+    "id": 178,
+    "image": "lnt_lv.png",
+    "channel_name": "LNT",
+    "country": "Latvia"
   }
 ]
