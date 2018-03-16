@@ -1066,5 +1066,71 @@
     "image": "lnt_lv.png",
     "channel_name": "LNT",
     "country": "Latvia"
+  },
+  {
+    "id": 179,
+    "image": "belarus_by_1.png",
+    "channel_name": "Belarus-1",
+    "country": "Belarus"
+  },
+  {
+    "id": 180,
+    "image": "belarus_by_24.png",
+    "channel_name": "Belarus-24",
+    "country": "Belarus"
+  },
+  {
+    "id": 181,
+    "image": "ont-by.png",
+    "channel_name": "ONT",
+    "country": "Belarus"
+  },
+  {
+    "id": 182,
+    "image": "stolicnoe_tv.png",
+    "channel_name": "STV",
+    "country": "Belarus"
+  },
+  {
+    "id": 183,
+    "image": "perviy_muzykalnyi_telekanal_hd.png",
+    "channel_name": "First Music Channel",
+    "country": "Belarus"
+  },
+  {
+    "id": 184,
+    "image": "vtv_by.png",
+    "channel_name": "VTV",
+    "country": "Belarus"
+  },
+  {
+    "id": 185,
+    "image": "etv_ee.png",
+    "channel_name": "ETV",
+    "country": "Estonia"
+  },
+  {
+    "id": 186,
+    "image": "etv2_ee.png",
+    "channel_name": "ETV 2",
+    "country": "Estonia"
+  },
+  {
+    "id": 187,
+    "image": "etv_plus_ee.png",
+    "channel_name": "ETV +",
+    "country": "Estonia"
+  },
+  {
+    "id": 188,
+    "image": "kanal2_ee.png",
+    "channel_name": "Kanal 2",
+    "country": "Estonia"
+  },
+  {
+    "id": 189,
+    "image": "tv3-eesti-ee.png",
+    "channel_name": "TV 3",
+    "country": "Estonia"
   }
 ]
