@@ -1132,5 +1132,107 @@
     "image": "tv3-eesti-ee.png",
     "channel_name": "TV 3",
     "country": "Estonia"
+  },
+  {
+    "id": 190,
+    "image": "rossiya1-ru.png",
+    "channel_name": "Russia 1",
+    "country": "Russia"
+  },
+  {
+    "id": 191,
+    "image": "rossiya_24.png",
+    "channel_name": "Russia 24",
+    "country": "Russia"
+  },
+  {
+    "id": 192,
+    "image": "rossiya_kultura.png",
+    "channel_name": "Russia K",
+    "country": "Russia"
+  },
+  {
+    "id": 193,
+    "image": "perviy_1_kanal.png",
+    "channel_name": "Channel One",
+    "country": "Russia"
+  },
+  {
+    "id": 194,
+    "image": "tv_centr_ru.png",
+    "channel_name": "TV Center",
+    "country": "Russia"
+  },
+  {
+    "id": 195,
+    "image": "ntv_ru.png",
+    "channel_name": "NTV",
+    "country": "Russia"
+  },
+  {
+    "id": 196,
+    "image": "tnt_ru.png",
+    "channel_name": "TNT",
+    "country": "Russia"
+  },
+  {
+    "id": 197,
+    "image": "tv_3_ru.png",
+    "channel_name": "TV 3",
+    "country": "Russia"
+  },
+  {
+    "id": 198,
+    "image": "5_kanal_ru.png",
+    "channel_name": "Channel 5",
+    "country": "Russia"
+  },
+  {
+    "id": 199,
+    "image": "ren-tv-ru.png",
+    "channel_name": "REN TV",
+    "country": "Russia"
+  },
+  {
+    "id": 200,
+    "image": "sts-ru.png",
+    "channel_name": "STS",
+    "country": "Russia"
+  },
+  {
+    "id": 201,
+    "image": "domashniy_ru.png",
+    "channel_name": "Domashniy",
+    "country": "Russia"
+  },
+  {
+    "id": 202,
+    "image": "yle_tv1_fi.png",
+    "channel_name": "YLE TV1",
+    "country": "Finland"
+  },
+  {
+    "id": 203,
+    "image": "yle_tv2_fi.png",
+    "channel_name": "YLE TV2",
+    "country": "Finland"
+  },
+  {
+    "id": 204,
+    "image": "yle_teema_fi_fem.png",
+    "channel_name": "YLE Teema & Fem",
+    "country": "Finland"
+  },
+  {
+    "id": 205,
+    "image": "mtv3_fi.png",
+    "channel_name": "MTV3",
+    "country": "Finland"
+  },
+  {
+    "id": 206,
+    "image": "nelonen4_tv.png",
+    "channel_name": "Nelonen",
+    "country": "Finland"
   }
 ]

@@ -86,5 +86,13 @@
   {
     "id": 22,
     "news": "Television in Estonia"
+  },
+  {
+    "id": 23,
+    "news": "Television in Russia"
+  },
+  {
+    "id": 24,
+    "news": "Television in Finland"
   }
 ]
