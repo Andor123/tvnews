@@ -1234,5 +1234,101 @@
     "image": "nelonen4_tv.png",
     "channel_name": "Nelonen",
     "country": "Finland"
+  },
+  {
+    "id": 207,
+    "image": "orf_eins.png",
+    "channel_name": "ORF Eins",
+    "country": "Austria"
+  },
+  {
+    "id": 208,
+    "image": "orf_2_at.png",
+    "channel_name": "ORF 2",
+    "country": "Austria"
+  },
+  {
+    "id": 209,
+    "image": "orf_3_at.png",
+    "channel_name": "ORF III",
+    "country": "Austria"
+  },
+  {
+    "id": 210,
+    "image": "orf_sport_plus.png",
+    "channel_name": "ORF Sport +",
+    "country": "Austria"
+  },
+  {
+    "id": 211,
+    "image": "atv_at.png",
+    "channel_name": "ATV",
+    "country": "Austria"
+  },
+  {
+    "id": 212,
+    "image": "atv2_at.png",
+    "channel_name": "ATV 2",
+    "country": "Austria"
+  },
+  {
+    "id": 213,
+    "image": "puls_4_at.png",
+    "channel_name": "Puls 4",
+    "country": "Austria"
+  },
+  {
+    "id": 214,
+    "image": "svt_1.png",
+    "channel_name": "SVT 1",
+    "country": "Sweden"
+  },
+  {
+    "id": 215,
+    "image": "svt_2.png",
+    "channel_name": "SVT 2",
+    "country": "Sweden"
+  },
+  {
+    "id": 216,
+    "image": "svt_24.png",
+    "channel_name": "SVT 24",
+    "country": "Sweden"
+  },
+  {
+    "id": 217,
+    "image": "svt_barnkanalen.png",
+    "channel_name": "Barnkanalen",
+    "country": "Sweden"
+  },
+  {
+    "id": 218,
+    "image": "svt_kunskapskanalen.png",
+    "channel_name": "Kunskapskanalen",
+    "country": "Sweden"
+  },
+  {
+    "id": 219,
+    "image": "tv4.png",
+    "channel_name": "TV 4",
+    "country": "Sweden"
+  },
+  {
+    "id": 220,
+    "image": "sjuan.png",
+    "channel_name": "Sjuan",
+    "country": "Sweden"
+  },
+  {
+    "id": 221,
+    "image": "viasat_tv3_se.png",
+    "channel_name": "TV3",
+    "country": "Sweden"
+  },
+  {
+    "id": 222,
+    "image": "kanal_5_se.png",
+    "channel_name": "Kanal 5",
+    "country": "Sweden"
   }
 ]
