@@ -1322,7 +1322,7 @@
   {
     "id": 221,
     "image": "viasat_tv3_se.png",
-    "channel_name": "TV3",
+    "channel_name": "TV 3",
     "country": "Sweden"
   },
   {
@@ -1330,5 +1330,113 @@
     "image": "kanal_5_se.png",
     "channel_name": "Kanal 5",
     "country": "Sweden"
+  },
+  {
+    "id": 223,
+    "image": "ard_das_erste.png",
+    "channel_name": "Das Erste",
+    "country": "Germany"
+  },
+  {
+    "id": 224,
+    "image": "zdf_de.png",
+    "channel_name": "ZDF",
+    "country": "Germany"
+  },
+  {
+    "id": 225,
+    "image": "sat1_de.png",
+    "channel_name": "SAT.1",
+    "country": "Germany"
+  },
+  {
+    "id": 226,
+    "image": "pro_sieben_de.png",
+    "channel_name": "ProSieben",
+    "country": "Germany"
+  },
+  {
+    "id": 227,
+    "image": "kabel_eins_de.png",
+    "channel_name": "Kabel Eins",
+    "country": "Germany"
+  },
+  {
+    "id": 228,
+    "image": "rtl_de.png",
+    "channel_name": "RTL",
+    "country": "Germany"
+  },
+  {
+    "id": 229,
+    "image": "rtl2_de.png",
+    "channel_name": "RTL II",
+    "country": "Germany"
+  },
+  {
+    "id": 230,
+    "image": "vox_de.png",
+    "channel_name": "VOX",
+    "country": "Germany"
+  },
+  {
+    "id": 231,
+    "image": "dr1-dk.png",
+    "channel_name": "DR 1",
+    "country": "Denmark"
+  },
+  {
+    "id": 232,
+    "image": "dr2-dk.png",
+    "channel_name": "DR 2",
+    "country": "Denmark"
+  },
+  {
+    "id": 233,
+    "image": "dr3-dk.png",
+    "channel_name": "DR 3",
+    "country": "Denmark"
+  },
+  {
+    "id": 234,
+    "image": "dr-k-dk.png",
+    "channel_name": "DR K",
+    "country": "Denmark"
+  },
+  {
+    "id": 235,
+    "image": "dr-ramasjang-dk.png",
+    "channel_name": "DR Ramasjang",
+    "country": "Denmark"
+  },
+  {
+    "id": 236,
+    "image": "dr-ultra-dk.png",
+    "channel_name": "DR Ultra",
+    "country": "Denmark"
+  },
+  {
+    "id": 237,
+    "image": "tv2_dk.png",
+    "channel_name": "TV 2",
+    "country": "Denmark"
+  },
+  {
+    "id": 238,
+    "image": "viasat_tv3_dk.png",
+    "channel_name": "TV 3",
+    "country": "Denmark"
+  },
+  {
+    "id": 239,
+    "image": "kanal_4_dk.png",
+    "channel_name": "Kanal 4",
+    "country": "Denmark"
+  },
+  {
+    "id": 240,
+    "image": "kanal_5_dk.png",
+    "channel_name": "Kanal 5",
+    "country": "Denmark"
   }
 ]
