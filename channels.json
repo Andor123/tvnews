@@ -1438,5 +1438,101 @@
     "image": "kanal_5_dk.png",
     "channel_name": "Kanal 5",
     "country": "Denmark"
+  },
+  {
+    "id": 241,
+    "image": "srf_1_ch.png",
+    "channel_name": "SRF 1",
+    "country": "Switzerland"
+  },
+  {
+    "id": 242,
+    "image": "srf_2_ch.png",
+    "channel_name": "SRF Zwei",
+    "country": "Switzerland"
+  },
+  {
+    "id": 243,
+    "image": "srf_info_ch.png",
+    "channel_name": "SRF Info",
+    "country": "Switzerland"
+  },
+  {
+    "id": 244,
+    "image": "rts_ch_un.png",
+    "channel_name": "RTS Un",
+    "country": "Switzerland"
+  },
+  {
+    "id": 245,
+    "image": "rts_ch_deux.png",
+    "channel_name": "RTS Deux",
+    "country": "Switzerland"
+  },
+  {
+    "id": 246,
+    "image": "rsi_la1.png",
+    "channel_name": "RSI La 1",
+    "country": "Switzerland"
+  },
+  {
+    "id": 247,
+    "image": "rsi_la2.png",
+    "channel_name": "RSI La 2",
+    "country": "Switzerland"
+  },
+  {
+    "id": 248,
+    "image": "nrk1.png",
+    "channel_name": "NRK 1",
+    "country": "Norway"
+  },
+  {
+    "id": 249,
+    "image": "nrk2.png",
+    "channel_name": "NRK 2",
+    "country": "Norway"
+  },
+  {
+    "id": 250,
+    "image": "nrk3.png",
+    "channel_name": "NRK 3",
+    "country": "Norway"
+  },
+  {
+    "id": 251,
+    "image": "nrk_super_tv.png",
+    "channel_name": "NRK Super",
+    "country": "Norway"
+  },
+  {
+    "id": 252,
+    "image": "nrk_tegnsprak.png",
+    "channel_name": "NRK Tegnspråk",
+    "country": "Norway"
+  },
+  {
+    "id": 253,
+    "image": "tv2_no.png",
+    "channel_name": "TV 2",
+    "country": "Norway"
+  },
+  {
+    "id": 254,
+    "image": "tv_norge.png",
+    "channel_name": "TVNorge",
+    "country": "Norway"
+  },
+  {
+    "id": 255,
+    "image": "viasat_tv3_no.png",
+    "channel_name": "TV3",
+    "country": "Norway"
+  },
+  {
+    "id": 256,
+    "image": "viasat_tv4_no.png",
+    "channel_name": "Viasat 4",
+    "country": "Norway"
   }
 ]
