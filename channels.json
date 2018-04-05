@@ -1534,5 +1534,161 @@
     "image": "viasat_tv4_no.png",
     "channel_name": "Viasat 4",
     "country": "Norway"
+  },
+  {
+    "id": 257,
+    "image": "rai_1.png",
+    "channel_name": "Rai 1",
+    "country": "Italy"
+  },
+  {
+    "id": 258,
+    "image": "rai_2.png",
+    "channel_name": "Rai 2",
+    "country": "Italy"
+  },
+  {
+    "id": 259,
+    "image": "rai_3.png",
+    "channel_name": "Rai 3",
+    "country": "Italy"
+  },
+  {
+    "id": 260,
+    "image": "rai_4.png",
+    "channel_name": "Rai 4",
+    "country": "Italy"
+  },
+  {
+    "id": 261,
+    "image": "rai_5.png",
+    "channel_name": "Rai 5",
+    "country": "Italy"
+  },
+  {
+    "id": 262,
+    "image": "rai_gulp.png",
+    "channel_name": "Rai Gulp",
+    "country": "Italy"
+  },
+  {
+    "id": 263,
+    "image": "rai_italia.png",
+    "channel_name": "Rai Italia",
+    "country": "Italy"
+  },
+  {
+    "id": 264,
+    "image": "rai_movie.png",
+    "channel_name": "Rai Movie",
+    "country": "Italy"
+  },
+  {
+    "id": 265,
+    "image": "rai_news_24.png",
+    "channel_name": "Rai News 24",
+    "country": "Italy"
+  },
+  {
+    "id": 266,
+    "image": "rai_premium.png",
+    "channel_name": "Rai Premium",
+    "country": "Italy"
+  },
+  {
+    "id": 267,
+    "image": "rai_scuola.png",
+    "channel_name": "Rai Scuola",
+    "country": "Italy"
+  },
+  {
+    "id": 268,
+    "image": "rai_sport.png",
+    "channel_name": "Rai Sport",
+    "country": "Italy"
+  },
+  {
+    "id": 269,
+    "image": "rai_storia.png",
+    "channel_name": "Rai Storia",
+    "country": "Italy"
+  },
+  {
+    "id": 270,
+    "image": "rai_world_premium.png",
+    "channel_name": "Rai World Premium",
+    "country": "Italy"
+  },
+  {
+    "id": 271,
+    "image": "rai_yoyo.png",
+    "channel_name": "Rai Yoyo",
+    "country": "Italy"
+  },
+  {
+    "id": 272,
+    "image": "mediaset_rete4.png",
+    "channel_name": "Rete 4",
+    "country": "Italy"
+  },
+  {
+    "id": 273,
+    "image": "mediaset_canale5.png",
+    "channel_name": "Canale 5",
+    "country": "Italy"
+  },
+  {
+    "id": 274,
+    "image": "mediaset_italia1.png",
+    "channel_name": "Italia 1",
+    "country": "Italy"
+  },
+  {
+    "id": 275,
+    "image": "nove_tv_it.png",
+    "channel_name": "Nove",
+    "country": "Italy"
+  },
+  {
+    "id": 276,
+    "image": "la_7_it.png",
+    "channel_name": "La 7",
+    "country": "Italy"
+  },
+  {
+    "id": 277,
+    "image": "tv_8_it.png",
+    "channel_name": "TV 8",
+    "country": "Italy"
+  },
+  {
+    "id": 278,
+    "image": "ruv_is.png",
+    "channel_name": "RÚV",
+    "country": "Iceland"
+  },
+  {
+    "id": 279,
+    "image": "ruv_is_2.png",
+    "channel_name": "RÚV 2",
+    "country": "Iceland"
+  },
+  {
+    "id": 280,
+    "image": "althingi.png",
+    "channel_name": "Althingi",
+    "country": "Iceland"
+  },
+  {
+    "id": 281,
+    "image": "n4_is.png",
+    "channel_name": "N4",
+    "country": "Iceland"
+  },
+  {
+    "id": 282,
+    "image": "omega_is.png",
+    "channel_name": "Omega",
+    "country": "Iceland"
   }
 ]
