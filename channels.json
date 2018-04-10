@@ -1690,5 +1690,131 @@
     "image": "omega_is.png",
     "channel_name": "Omega",
     "country": "Iceland"
+  },
+  {
+    "id": 283,
+    "image": "france2-fr.png",
+    "channel_name": "France 2",
+    "country": "France"
+  },
+  {
+    "id": 284,
+    "image": "france3-fr.png",
+    "channel_name": "France 3",
+    "country": "France"
+  },
+  {
+    "id": 285,
+    "image": "france4-fr.png",
+    "channel_name": "France 4",
+    "country": "France"
+  },
+  {
+    "id": 286,
+    "image": "france5-fr.png",
+    "channel_name": "France 5",
+    "country": "France"
+  },
+  {
+    "id": 287,
+    "image": "france-o-fr.png",
+    "channel_name": "France Ô",
+    "country": "France"
+  },
+  {
+    "id": 288,
+    "image": "france_info_tv.png",
+    "channel_name": "France Info",
+    "country": "France"
+  },
+  {
+    "id": 289,
+    "image": "tf1.png",
+    "channel_name": "TF1",
+    "country": "France"
+  },
+  {
+    "id": 290,
+    "image": "tfx-fr.png",
+    "channel_name": "TFX",
+    "country": "France"
+  },
+  {
+    "id": 291,
+    "image": "m6_fr.png",
+    "channel_name": "M6",
+    "country": "France"
+  },
+  {
+    "id": 292,
+    "image": "w9_fr.png",
+    "channel_name": "W9",
+    "country": "France"
+  },
+  {
+    "id": 293,
+    "image": "npo_01_nl.png",
+    "channel_name": "NPO 1",
+    "country": "Netherlands"
+  },
+  {
+    "id": 294,
+    "image": "npo_02_nl.png",
+    "channel_name": "NPO 2",
+    "country": "Netherlands"
+  },
+  {
+    "id": 295,
+    "image": "npo_03_nl.png",
+    "channel_name": "NPO 3",
+    "country": "Netherlands"
+  },
+  {
+    "id": 296,
+    "image": "npo-1-extra-nl.png",
+    "channel_name": "NPO 1 Extra",
+    "country": "Netherlands"
+  },
+  {
+    "id": 297,
+    "image": "npo_nieuws.png",
+    "channel_name": "NPO Nieuws",
+    "country": "Netherlands"
+  },
+  {
+    "id": 298,
+    "image": "npo_politiek.png",
+    "channel_name": "NPO Politiek",
+    "country": "Netherlands"
+  },
+  {
+    "id": 299,
+    "image": "npo_zapp_xtra.png",
+    "channel_name": "NPO Zapp Xtra",
+    "country": "Netherlands"
+  },
+  {
+    "id": 300,
+    "image": "sbs_6_nl.png",
+    "channel_name": "SBS 6",
+    "country": "Netherlands"
+  },
+  {
+    "id": 301,
+    "image": "sbs_9_nl.png",
+    "channel_name": "SBS 9",
+    "country": "Netherlands"
+  },
+  {
+    "id": 302,
+    "image": "rtl4_nl.png",
+    "channel_name": "RTL 4",
+    "country": "Netherlands"
+  },
+  {
+    "id": 303,
+    "image": "rtl5-nl.png",
+    "channel_name": "RTL 5",
+    "country": "Netherlands"
   }
 ]
