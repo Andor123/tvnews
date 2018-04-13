@@ -1816,5 +1816,143 @@
     "image": "rtl5-nl.png",
     "channel_name": "RTL 5",
     "country": "Netherlands"
+  },
+  {
+    "id": 304,
+    "image": "tve1_es.png",
+    "channel_name": "TVE La 1",
+    "country": "Spain"
+  },
+  {
+    "id": 305,
+    "image": "tve2.png",
+    "channel_name": "TVE La 2",
+    "country": "Spain"
+  },
+  {
+    "id": 306,
+    "image": "tve_clan.png",
+    "channel_name": "Clan",
+    "country": "Spain"
+  },
+  {
+    "id": 307,
+    "image": "tve_teledeporte.png",
+    "channel_name": "Teledeporte",
+    "country": "Spain"
+  },
+  {
+    "id": 308,
+    "image": "tve_canal_24horas.png",
+    "channel_name": "24 Horas",
+    "country": "Spain"
+  },
+  {
+    "id": 309,
+    "image": "tve_internacional_eu.png",
+    "channel_name": "TVE Internacional",
+    "country": "Spain"
+  },
+  {
+    "id": 310,
+    "image": "tve_star_hd_es.png",
+    "channel_name": "Star TVE",
+    "country": "Spain"
+  },
+  {
+    "id": 311,
+    "image": "cuatro_es.png",
+    "channel_name": "Cuatro",
+    "country": "Spain"
+  },
+  {
+    "id": 312,
+    "image": "telecinco.png",
+    "channel_name": "Telecinco",
+    "country": "Spain"
+  },
+  {
+    "id": 313,
+    "image": "antena3.png",
+    "channel_name": "Antena 3",
+    "country": "Spain"
+  },
+  {
+    "id": 314,
+    "image": "la_sexta_es.png",
+    "channel_name": "La Sexta",
+    "country": "Spain"
+  },
+  {
+    "id": 315,
+    "image": "vrt_een_be.png",
+    "channel_name": "Één",
+    "country": "Belgium"
+  },
+  {
+    "id": 316,
+    "image": "vrt_canvas_be.png",
+    "channel_name": "Canvas",
+    "country": "Belgium"
+  },
+  {
+    "id": 317,
+    "image": "vrt_ketnet_be.png",
+    "channel_name": "Ketnet",
+    "country": "Belgium"
+  },
+  {
+    "id": 318,
+    "image": "rtbf_la_une.png",
+    "channel_name": "La Une",
+    "country": "Belgium"
+  },
+  {
+    "id": 319,
+    "image": "rtbf_la_deux.png",
+    "channel_name": "La Deux",
+    "country": "Belgium"
+  },
+  {
+    "id": 320,
+    "image": "rtbf_la_trois.png",
+    "channel_name": "La Trois",
+    "country": "Belgium"
+  },
+  {
+    "id": 321,
+    "image": "vtm_be.png",
+    "channel_name": "VTM",
+    "country": "Belgium"
+  },
+  {
+    "id": 322,
+    "image": "q2_be.png",
+    "channel_name": "Q2",
+    "country": "Belgium"
+  },
+  {
+    "id": 323,
+    "image": "vier_be.png",
+    "channel_name": "VIER",
+    "country": "Belgium"
+  },
+  {
+    "id": 324,
+    "image": "vijf_tv.png",
+    "channel_name": "VIJF",
+    "country": "Belgium"
+  },
+  {
+    "id": 325,
+    "image": "ab3.png",
+    "channel_name": "AB3",
+    "country": "Belgium"
+  },
+  {
+    "id": 326,
+    "image": "rtl_tvi.png",
+    "channel_name": "RTL TVI",
+    "country": "Belgium"
   }
 ]
