@@ -142,5 +142,21 @@
   {
     "id": 36,
     "news": "Television in Belgium"
+  },
+  {
+    "id": 37,
+    "news": "Television in Portugal"
+  },
+  {
+    "id": 38,
+    "news": "Television in Luxembourg"
+  },
+  {
+    "id": 39,
+    "news": "Television in the United Kingdom"
+  },
+  {
+    "id": 40,
+    "news": "Television in the Republic of Ireland"
   }
 ]

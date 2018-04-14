@@ -1954,5 +1954,209 @@
     "image": "rtl_tvi.png",
     "channel_name": "RTL TVI",
     "country": "Belgium"
+  },
+  {
+    "id": 327,
+    "image": "rtp_1_pt.png",
+    "channel_name": "RTP1",
+    "country": "Portugal"
+  },
+  {
+    "id": 328,
+    "image": "rtp_2_pt.png",
+    "channel_name": "RTP2",
+    "country": "Portugal"
+  },
+  {
+    "id": 329,
+    "image": "rtp_3_pt.png",
+    "channel_name": "RTP3",
+    "country": "Portugal"
+  },
+  {
+    "id": 330,
+    "image": "rtp_memoria.png",
+    "channel_name": "RTP Memória",
+    "country": "Portugal"
+  },
+  {
+    "id": 331,
+    "image": "rtp_madeira.png",
+    "channel_name": "RTP Madeira",
+    "country": "Portugal"
+  },
+  {
+    "id": 332,
+    "image": "rtp_acores.png",
+    "channel_name": "RTP Açores",
+    "country": "Portugal"
+  },
+  {
+    "id": 333,
+    "image": "rtp_africa.png",
+    "channel_name": "RTP África",
+    "country": "Portugal"
+  },
+  {
+    "id": 334,
+    "image": "rtp_internacional.png",
+    "channel_name": "RTP Internacional",
+    "country": "Portugal"
+  },
+  {
+    "id": 335,
+    "image": "sic_pt.png",
+    "channel_name": "SIC",
+    "country": "Portugal"
+  },
+  {
+    "id": 336,
+    "image": "tvi_pt.png",
+    "channel_name": "TVI",
+    "country": "Portugal"
+  },
+  {
+    "id": 337,
+    "image": "rtl_tele_letzebuerg.png",
+    "channel_name": "RTL",
+    "country": "Luxembourg"
+  },
+  {
+    "id": 338,
+    "image": "rtl2_tele_letzeburg.png",
+    "channel_name": "2. RTL",
+    "country": "Luxembourg"
+  },
+  {
+    "id": 339,
+    "image": "bbc_one.png",
+    "channel_name": "BBC One",
+    "country": "United Kingdom"
+  },
+  {
+    "id": 340,
+    "image": "bbc_two_uk.png",
+    "channel_name": "BBC Two",
+    "country": "United Kingdom"
+  },
+  {
+    "id": 341,
+    "image": "bbc_four_uk.png",
+    "channel_name": "BBC Four",
+    "country": "United Kingdom"
+  },
+  {
+    "id": 342,
+    "image": "bbc_news.png",
+    "channel_name": "BBC News",
+    "country": "United Kingdom"
+  },
+  {
+    "id": 343,
+    "image": "bbc_parliament.png",
+    "channel_name": "BBC Parliament",
+    "country": "United Kingdom"
+  },
+  {
+    "id": 344,
+    "image": "bbc_cbbc.png",
+    "channel_name": "CBBC",
+    "country": "United Kingdom"
+  },
+  {
+    "id": 345,
+    "image": "bbc_cbeebies_uk.png",
+    "channel_name": "CBeebies",
+    "country": "United Kingdom"
+  },
+  {
+    "id": 346,
+    "image": "s4c_uk.png",
+    "channel_name": "S4C",
+    "country": "United Kingdom"
+  },
+  {
+    "id": 347,
+    "image": "bbc_alba.png",
+    "channel_name": "BBC Alba",
+    "country": "United Kingdom"
+  },
+  {
+    "id": 348,
+    "image": "bbc_world_news_uk.png",
+    "channel_name": "BBC World News",
+    "country": "United Kingdom"
+  },
+  {
+    "id": 349,
+    "image": "itv_uk.png",
+    "channel_name": "ITV",
+    "country": "United Kingdom"
+  },
+  {
+    "id": 350,
+    "image": "itv_uk_2.png",
+    "channel_name": "ITV 2",
+    "country": "United Kingdom"
+  },
+  {
+    "id": 351,
+    "image": "itv_uk_3.png",
+    "channel_name": "ITV 3",
+    "country": "United Kingdom"
+  },
+  {
+    "id": 352,
+    "image": "itv_uk_4.png",
+    "channel_name": "ITV 4",
+    "country": "United Kingdom"
+  },
+  {
+    "id": 353,
+    "image": "channel_4_uk.png",
+    "channel_name": "Channel 4",
+    "country": "United Kingdom"
+  },
+  {
+    "id": 354,
+    "image": "channel-5-uk.png",
+    "channel_name": "Channel 5",
+    "country": "United Kingdom"
+  },
+  {
+    "id": 355,
+    "image": "rte_one.png",
+    "channel_name": "RTÉ One",
+    "country": "Republic of Ireland"
+  },
+  {
+    "id": 356,
+    "image": "rte_2_ie.png",
+    "channel_name": "RTÉ 2",
+    "country": "Republic of Ireland"
+  },
+  {
+    "id": 357,
+    "image": "rte_news_now.png",
+    "channel_name": "RTÉ News Now",
+    "country": "Republic of Ireland"
+  },
+  {
+    "id": 358,
+    "image": "rte_jr_tv.png",
+    "channel_name": "RTÉ Jr",
+    "country": "Republic of Ireland"
+  },
+  {
+    "id": 359,
+    "image": "tg4.png",
+    "channel_name": "TG4",
+    "country": "Republic of Ireland"
+  },
+  {
+    "id": 360,
+    "image": "tv3_ie.png",
+    "channel_name": "TV3",
+    "country": "Republic of Ireland"
   }
 ]
