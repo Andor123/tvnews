@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="This is a website dedicated to TV stations.">
+    <meta name="keywords" content="TV,news,stations,website">
+    <meta name="author" content="Salamon Andor">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta http-equiv="refresh" content="30">
+    <title>TV News</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="../css/index.css">
+</head>
+<body>
+<header>
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="nav">
+        <a class="navbar-brand" href="../index.html">TV NEWS</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar"
+                aria-controls="navbar" aria-expanded="false" aria-label="Toggle Navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbar">
+            <ul class="navbar-nav mr-auto">
+                <li class="navbar-item active">
+                    <a class="nav-link" href="../news.html">Latest News</a>
+                </li>
+                <li class="navbar-item">
+                    <a class="nav-link" href="../channels.html">TV Channels</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<section class="container-fluid text-center" id="section">
+    <h1 class="h1">Television in Ukraine</h1>
+    <p class="lead">Source: <em>Wikipedia</em></p>
+    <p class="lead">Television has a long history in Ukraine,
+        with regular television broadcasting started during the
+        former USSR years in 1951.
+        However the first ever TV broadcast took place on the
+        1st February 1939 in Kyiv. Since then TV broadcasting has expanded,
+        particularly after the fall of Communism in 1989,
+        and now there are many different channels and groups
+        in the Ukrainian TV market.</p>
+    <h2 class="h2">Digital television</h2>
+    <p class="lead">In 2007 and 2008, experimental DVB-T broadcasts of
+        few channels started in Kyiv and Odesa.
+        Those turned out to be successful.
+        Yet the DTT National Program is not approved by the government,
+        thus the process is stuck. Because there are two versions of the
+        program submitted: from the Ministry of Transport and Communications as
+        well as from the State Committee of Television and Radio,
+        there is no particular progress in 2008.</p>
+    <p class="lead">On 26 November 2008, the National Program of the Ministry
+        was approved, but the final version and the public announcement of
+        this fact is still on hold. Current version of the program does not take
+        into notice any kind of Government financing, and the budget
+        is to be private only, which will highly affect the
+        TV industry and commercial broadcasters.</p>
+    <p class="lead">Besides there are 3rd parties, such as Television Industry Committee
+        and National Association of Broadcasters which represent the communities
+        of National and regional broadcasters respectively.
+        Both organizations help the switchover not to affect the business
+        of over 20 National and over 150 regional broadcasters.</p>
+    <p class="lead">The International Forum 'Digital Broadcasting in Ukraine'
+        is the annual event that takes place in Kyiv, Ukraine.
+        Its mission is to gather the most of international consultants and
+        Ukrainian specialists to solve industry's problems in the DTT field.
+        In 2008 the 2nd International Forum took place in Kyiv also. BBC,
+        Deloitte and the Ministry of Communications of Finland representatives
+        share the vision of possible plan of DTT implementation in Ukraine,
+        delivering the best experiences from UK, Finland, France and US.
+        Still none was taken into notice yet. It is now confirmed that Ukraine's national
+        terrestrial TV network, which is scheduled to be launched in September 2011,
+        will use the DVB-T2 standard for all four nationwide FTA multiplexes,
+        for both SD and HD broadcasts. Before settling for DVB-T2, Ukraine was
+        testing both DVB-T/MPEG-2 and DVB-T/MPEG-4 options, and some experimental
+        transmitters operating in those standards are still live.</p>
+    <h2 class="h2">Other technologies</h2>
+    <p class="lead">Commercial MMDS digital TV services work
+        in Kyiv and some other cities.</p>
+    <p class="lead">DVB-C services delivering premium channels
+        (in addition to standard analogue channels) launched in
+        cable networks of Kiev, Odesa, Kremenchuk, Poltava, Donetsk
+        and some other cities.</p>
+</section>
+<footer class="footer">
+    <div class="container-fluid text-center">
+        <span class="text-muted" id="date"></span>
+    </div>
+</footer>
+<script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script>
+    let today = new Date();
+    document.getElementById("date").innerHTML = "&copy; " + today.getFullYear() + ", Andor Salamon";
+</script>
+</body>
+</html>

@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="This is a website dedicated to TV stations.">
+    <meta name="keywords" content="TV,news,stations,website">
+    <meta name="author" content="Salamon Andor">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta http-equiv="refresh" content="30">
+    <title>TV News</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="../css/index.css">
+</head>
+<body>
+<header>
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="nav">
+        <a class="navbar-brand" href="../index.html">TV NEWS</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar"
+                aria-controls="navbar" aria-expanded="false" aria-label="Toggle Navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbar">
+            <ul class="navbar-nav mr-auto">
+                <li class="navbar-item active">
+                    <a class="nav-link" href="../news.html">Latest News</a>
+                </li>
+                <li class="navbar-item">
+                    <a class="nav-link" href="../channels.html">TV Channels</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<section class="container-fluid text-center" id="section">
+    <h1 class="h1">Television in Cyprus</h1>
+    <p class="lead">Source: <em>Wikipedia</em></p>
+    <p class="lead">Television in Cyprus was introduced in 1956.
+        Private TV was introduced on 26 April 1992, by Logos TV which started
+        its transmissions in STEREO and TELETEXT from day one.
+        The first private TV station of Cyprus was owned and operated by
+        the Church of Cyprus. In August, 1995, the same station
+        introduced the first ISP in Cyprus, LOGOSNET. The Republic of Cyprus
+        currently uses the PAL colour system, and has converted terrestrial
+        transmissions to digital on 1 July 2011, in line with EU policy.
+        Because of the political division of the island,
+        television companies are also divided.</p>
+    <p class="lead">Terrestrial digital transmission is now available in Cyprus
+        (parallel analogue transmissions ended finally on 1 July 2011).
+        Satellite digital transmission is available through the NOVA Cyprus platform.
+        Athina Sat, another provider, was launched in May 2005 but ceased operations
+        in 2008. CytaVision and PrimeTel both offer digital TV through IPTV transmission
+        and Cablenet through its privately owned cable network (in certain urban areas).</p>
+    <h2 class="h2">Public Stations</h2>
+    <ul class="list-group">
+        <li class="list-group-item">RIK1 (Aglandjia)</li>
+        <li class="list-group-item">RIK2 (Aglandjia)</li>
+        <li class="list-group-item">RIK HD (Aglandjia)</li>
+        <li class="list-group-item">ERT World (Athens)</li>
+        <li class="list-group-item">Euronews (Lyon)</li>
+    </ul>
+    <h2 class="h2">Private Channels</h2>
+    <ul class="list-group">
+        <li class="list-group-item">Alpha TV (Latsia)</li>
+        <li class="list-group-item">ANT1 (Strovolos)</li>
+        <li class="list-group-item">Capital TV (Limassol)</li>
+        <li class="list-group-item">CBC TV Mall (Limassol)</li>
+        <li class="list-group-item">CYsports (Nicosia)</li>
+        <li class="list-group-item">MAD TV (Engomi)</li>
+        <li class="list-group-item">Movies Best (Strovolos)</li>
+        <li class="list-group-item">New Extra TV (Limassol)</li>
+        <li class="list-group-item">Plus TV (Nicosia)</li>
+        <li class="list-group-item">Sigma TV (Strovolos)</li>
+        <li class="list-group-item">Smile TV (Limassol)</li>
+        <li class="list-group-item">TVOne (Strovolos)</li>
+    </ul>
+</section>
+<footer class="footer">
+    <div class="container-fluid text-center">
+        <span class="text-muted" id="date"></span>
+    </div>
+</footer>
+<script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script>
+    let today = new Date();
+    document.getElementById("date").innerHTML = "&copy; " + today.getFullYear() + ", Andor Salamon";
+</script>
+</body>
+</html>

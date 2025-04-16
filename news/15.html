@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="This is a website dedicated to TV stations.">
+    <meta name="keywords" content="TV,news,stations,website">
+    <meta name="author" content="Salamon Andor">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta http-equiv="refresh" content="30">
+    <title>TV News</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="../css/index.css">
+</head>
+<body>
+<header>
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="nav">
+        <a class="navbar-brand" href="../index.html">TV NEWS</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar"
+                aria-controls="navbar" aria-expanded="false" aria-label="Toggle Navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbar">
+            <ul class="navbar-nav mr-auto">
+                <li class="navbar-item active">
+                    <a class="nav-link" href="../news.html">Latest News</a>
+                </li>
+                <li class="navbar-item">
+                    <a class="nav-link" href="../channels.html">TV Channels</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<section class="container-fluid text-center" id="section">
+    <h1 class="h1">Television in Turkey</h1>
+    <p class="lead">Source: <em>Wikipedia</em></p>
+    <p class="lead">Television in Turkey was introduced in 1964 by the government media provider TRT.
+        The first Turkish television channel, ITU TV, was launched in 1952.
+        First national television is TRT 1. Color television was introduced in 1981.
+        Back then it was the only channel with the name of TRT 1,
+        and it broadcast in several times of the dateline.
+        Turkey's first private television channel Star
+        started it broadcast on 26 May 1989.</p>
+    <p class="lead">Until the 1990s, there was only one television channel controlled by the state,
+        but with the wave of liberalization, privately owned broadcasting began.
+        Turkey's television market is defined by a handful of big channels,
+        led by Kanal D, ATV and Show, with 14%, 10% and 9.6% market share, respectively.</p>
+    <p class="lead">The most important reception platforms are terrestrial and satellite,
+        with almost 50% of homes using satellite (of these 15% were pay services)
+        at the end of 2009. Three services dominate the multi-channel market:
+        the satellite platforms Digitürk and D-Smart and the cable TV service Türksat.</p>
+    <h2 class="h2">Digital</h2>
+    <p class="lead">As of 2013, pay television services in Turkey include
+        Digiturk, D-Smart, TeleDünya, Türksat KabloTV and Tivibu.</p>
+    <p class="lead">The Uzan Group made the first digital television transmissions
+        in Turkey with Turkey's first television channel Star TV. As they were
+        on the lead with their channels Star, TeleOn and Kral, the Uzan Group launched
+        Star Digital on Turksat in late 1999. In 2003, the platform's name was
+        changed as DigiFun Club, but it was short lived before became defunct.</p>
+    <p class="lead">Turkey's first pay television provider, CINE5 from MultiCanal
+        (owned by Erol Aksoy) launched in late 1994. It held the rights to the latest
+        movie premieres, series and especially sports such as the Turkish Football League.
+        In 2000, CINE5 launched CINE+Digital on Turksat with some specialty channels,
+        but again in 2003 this platform was taken down.</p>
+</section>
+<footer class="footer">
+    <div class="container-fluid text-center">
+        <span class="text-muted" id="date"></span>
+    </div>
+</footer>
+<script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script>
+    let today = new Date();
+    document.getElementById("date").innerHTML = "&copy; " + today.getFullYear() + ", Andor Salamon";
+</script>
+</body>
+</html>

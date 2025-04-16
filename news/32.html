@@ -9,12 +9,12 @@
     <meta http-equiv="refresh" content="30">
     <title>TV News</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-    <link rel="stylesheet" href="css/index.css">
+    <link rel="stylesheet" href="../css/index.css">
 </head>
 <body>
 <header>
     <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="nav">
-        <a class="navbar-brand" href="index.html">TV NEWS</a>
+        <a class="navbar-brand" href="../index.html">TV NEWS</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar"
                 aria-controls="navbar" aria-expanded="false" aria-label="Toggle Navigation">
             <span class="navbar-toggler-icon"></span>
@@ -22,18 +22,52 @@
         <div class="collapse navbar-collapse" id="navbar">
             <ul class="navbar-nav mr-auto">
                 <li class="navbar-item active">
-                    <a class="nav-link" href="news.html">Latest News</a>
+                    <a class="nav-link" href="../news.html">Latest News</a>
                 </li>
                 <li class="navbar-item">
-                    <a class="nav-link" href="channels.html">TV Channels</a>
+                    <a class="nav-link" href="../channels.html">TV Channels</a>
                 </li>
             </ul>
         </div>
     </nav>
 </header>
 <section class="container-fluid text-center" id="section">
-    <h1 class="h1">Latest News</h1>
-    <div></div>
+    <h1 class="h1">Television in Iceland</h1>
+    <p class="lead">Source: <em>Wikipedia</em></p>
+    <p class="lead">Television in Iceland began in September 1966.
+        Channels can be received via DVB-T, broadband with the Skjárinn
+        service from Síminn, IPTV or Digital Ísland (DVB-T) from Vodafone Iceland.</p>
+    <h2 class="h2">Free-to-air channels</h2>
+    <ul class="list-group">
+        <li class="list-group-item">RÚV</li>
+        <li class="list-group-item">RÚV HD</li>
+        <li class="list-group-item">RÚV +</li>
+        <li class="list-group-item">RÚV 2</li>
+        <li class="list-group-item">Tónlist TV</li>
+        <li class="list-group-item">Sjónvarp Símans</li>
+        <li class="list-group-item">Alþingi</li>
+        <li class="list-group-item">Hringbraut</li>
+        <li class="list-group-item">N4</li>
+        <li class="list-group-item">ÍNN</li>
+        <li class="list-group-item">iSTV</li>
+        <li class="list-group-item">Omega Christian television</li>
+    </ul>
+    <h2 class="h2">Subscription channels</h2>
+    <ul class="list-group">
+        <li class="list-group-item">Sjónvarp Símans Premium (Subscription VOD service)</li>
+        <li class="list-group-item">Stöð 2</li>
+        <li class="list-group-item">Stöð 2 Sport</li>
+        <li class="list-group-item">Stöð 2 Sport 2</li>
+        <li class="list-group-item">Stöð 2 Sport 3</li>
+        <li class="list-group-item">Stöð 2 Sport 4</li>
+        <li class="list-group-item">Stöð 2 Sport 5</li>
+        <li class="list-group-item">Stöð 2 Sport 6</li>
+        <li class="list-group-item">Stöð 2 Sport HD</li>
+        <li class="list-group-item">Stöð 3</li>
+        <li class="list-group-item">Bíóstöðin</li>
+        <li class="list-group-item">Skjarkrakkar</li>
+        <li class="list-group-item">Golfstöðin / Krakkastöðin</li>
+    </ul>
 </section>
 <footer class="footer">
     <div class="container-fluid text-center">
@@ -43,15 +77,6 @@
 <script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
-<script>
-    $.getJSON('news.json', function (data) {
-        var items = [];
-        $.each(data, function (key, val) {
-            items.push('<a class="a" id="'+key+'" href="news/'+val.id+'.html">'+val.news+'</a><br>');
-        });
-        $('<div>', {html: items.join("")}).appendTo("section");
-    });
-</script>
 <script>
     let today = new Date();
     document.getElementById("date").innerHTML = "&copy; " + today.getFullYear() + ", Andor Salamon";

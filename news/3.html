@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="This is a website dedicated to TV stations.">
+    <meta name="keywords" content="TV,news,stations,website">
+    <meta name="author" content="Salamon Andor">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta http-equiv="refresh" content="30">
+    <title>TV News</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="../css/index.css">
+</head>
+<body>
+<header>
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="nav">
+        <a class="navbar-brand" href="../index.html">TV NEWS</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar"
+                aria-controls="navbar" aria-expanded="false" aria-label="Toggle Navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbar">
+            <ul class="navbar-nav mr-auto">
+                <li class="navbar-item active">
+                    <a class="nav-link" href="../news.html">Latest News</a>
+                </li>
+                <li class="navbar-item">
+                    <a class="nav-link" href="../channels.html">TV Channels</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<section class="container-fluid text-center" id="section">
+    <h1 class="h1">Television in Croatia</h1>
+    <p class="lead">Source: <em>Wikipedia</em></p>
+    <p class="lead">Television in Croatia was first introduced in 1956.
+        As of 2012 there are 10 nationwide and 21 regional DVB-T
+        (Digital Video Broadcasting – Terrestrial) television channels,
+        and more than 30 other channels either produced in the
+        Republic of Croatia or produced for the Croatian market
+        and broadcast via IPTV (Internet Protocol television),
+        cable or satellite television.
+        The electronic communications market in Croatia is
+        regulated by the Croatian Regulatory Authority for Network Industries (HAKOM),
+        which issues broadcast licenses and monitors the market.
+        The DVB-T and satellite transmission infrastructure is developed
+        and maintained by the state-owned company Odašiljači i veze (OiV).</p>
+    <h2 class="h2">Nationwide channels</h2>
+    <p class="lead">As of May 2014, there are eleven nationwide free-to-air DVB-T television channels,
+        with HRT's four channels, RTL Televizija operating three,
+        Nova TV operating two and the remaining two operated by the
+        Croatian Olympic Committee and Author d.o.o. companies and the government's
+        Central State Administrative Office for e-Croatia.
+        All ten DVB-T television channels are free-to-air and privately owned,
+        except for HRT's channels and the Moja uprava channel
+        (which are publicly owned broadcasters).
+        Doma TV is part of the Nova TV group.
+        Since 2007 television audience measurement is conducted by
+        the Nielsen Company using 1,086 peoplemeters,
+        and it is applied to terrestrial, cable and satellite TV.
+        As of January 2012 HRT, RTL Televizija and Nova TV are using the service.</p>
+    <p class="lead">HRT 1, Nova TV and RTL Televizija channels' programmes are not specialized
+        and comprise news, a variety of scripted and unscripted entertainment,
+        as well as documentaries. HRT2, Doma TV and RTL 2 channels, carry similar
+        type of programmes, except for absence of news.
+        In addition, Croatian Radiotelevision is legally required to
+        produce and broadcast programmes covering education of youths,
+        aimed at the Croatian diaspora, national minorities in Croatia,
+        preservation of cultural and natural heritage,
+        protection of the environment, promotion of democracy and civil society,
+        and support national production of films, television programme and music.
+        Other nationwide channels are specialized providing informational programmes,
+        covering sports or music.</p>
+</section>
+<footer class="footer">
+    <div class="container-fluid text-center">
+        <span class="text-muted" id="date"></span>
+    </div>
+</footer>
+<script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script>
+    let today = new Date();
+    document.getElementById("date").innerHTML = "&copy; " + today.getFullYear() + ", Andor Salamon";
+</script>
+</body>
+</html>

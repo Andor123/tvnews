@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="This is a website dedicated to TV stations.">
+    <meta name="keywords" content="TV,news,stations,website">
+    <meta name="author" content="Salamon Andor">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta http-equiv="refresh" content="30">
+    <title>TV News</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="../css/index.css">
+</head>
+<body>
+<header>
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="nav">
+        <a class="navbar-brand" href="../index.html">TV NEWS</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar"
+                aria-controls="navbar" aria-expanded="false" aria-label="Toggle Navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbar">
+            <ul class="navbar-nav mr-auto">
+                <li class="navbar-item active">
+                    <a class="nav-link" href="../news.html">Latest News</a>
+                </li>
+                <li class="navbar-item">
+                    <a class="nav-link" href="../channels.html">TV Channels</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<section class="container-fluid text-center" id="section">
+    <h1 class="h1">Television in Estonia</h1>
+    <p class="lead">Source: <em>Wikipedia</em></p>
+    <p class="lead">Television in Estonia was introduced in 1955,
+        following the Soviet government's decision to establish
+        a television station in 1953.
+        The National TV Channel ETV has maintained an archive since 1955
+        in which broadcasts of unique aspects of Estonian culture are held.</p>
+    <p class="lead">Northern Estonia receives television signals from Finland.
+        During the 1970s and 1980s, Finnish broadcasts were more popular than
+        Soviet-Estonian offerings until the Singing Revolution,
+        with many Estonians enjoying Dallas and other programs
+        portraying non-Communist lifestyles.</p>
+    <p class="lead">Digital television was officially launched on December 15, 2006
+        when the operator Eesti Digitaaltelevisiooni AS launched its pay service
+        ZUUMtv, operated by Starman, on two multiplexes. In 2006,
+        only ETV was available for free, but as of March 2009,
+        there are already 7 free channels in digital broadcast.
+        Digital television signal (DVB-T and DVB-H) is broadcast by Levira.
+        DVB-C is provided by cable operators Starman, STV, Telset, telecommunications
+        company Elion (also offering IPTV).
+        Analog transmitters were turned off in July 2010.</p>
+    <h2 class="h2">State-owned Channels</h2>
+    <ul class="list-group">
+        <li class="list-group-item">ETV – news, current affairs,
+            culture, sports and general entertainment.</li>
+        <li class="list-group-item">ETV 2 – general entertainment,
+            sports, news and children's programming.</li>
+        <li class="list-group-item">ETV+
+            – Russian language programming.</li>
+    </ul>
+    <h2 class="h2">Commercial Channels</h2>
+    <ul class="list-group">
+        <li class="list-group-item">Kanal 2 – news, current affairs
+            and general entertainment.</li>
+        <li class="list-group-item">Kanal 11 – general entertainment.
+            Mostly for women.</li>
+        <li class="list-group-item">Kanal 12 – general entertainment.
+            Mostly for men.</li>
+        <li class="list-group-item">Seitse – culture and music channel.</li>
+        <li class="list-group-item">TV 3 – news, current affairs
+            and general entertainment channel.</li>
+        <li class="list-group-item">TV6 – general entertainment channel.
+            Mostly for men.</li>
+        <li class="list-group-item">TV8 – general entertainment.
+            Mostly for women</li>
+        <li class="list-group-item">Fox Life
+            – general entertainment channel.</li>
+        <li class="list-group-item">FOX
+            – general entertainment channel.</li>
+        <li class="list-group-item">Sony Channel (Estonia)
+            – general entertainment channel.</li>
+        <li class="list-group-item">Sony Turbo – general entertainment channel.</li>
+    </ul>
+</section>
+<footer class="footer">
+    <div class="container-fluid text-center">
+        <span class="text-muted" id="date"></span>
+    </div>
+</footer>
+<script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script>
+    let today = new Date();
+    document.getElementById("date").innerHTML = "&copy; " + today.getFullYear() + ", Andor Salamon";
+</script>
+</body>
+</html>

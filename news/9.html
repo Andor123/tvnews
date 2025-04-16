@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="This is a website dedicated to TV stations.">
+    <meta name="keywords" content="TV,news,stations,website">
+    <meta name="author" content="Salamon Andor">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta http-equiv="refresh" content="30">
+    <title>TV News</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="../css/index.css">
+</head>
+<body>
+<header>
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="nav">
+        <a class="navbar-brand" href="../index.html">TV NEWS</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar"
+                aria-controls="navbar" aria-expanded="false" aria-label="Toggle Navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbar">
+            <ul class="navbar-nav mr-auto">
+                <li class="navbar-item active">
+                    <a class="nav-link" href="../news.html">Latest News</a>
+                </li>
+                <li class="navbar-item">
+                    <a class="nav-link" href="../channels.html">TV Channels</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<section class="container-fluid text-center" id="section">
+    <h1 class="h1">Television in Slovenia</h1>
+    <p class="lead">Source: <em>Wikipedia</em></p>
+    <h2 class="h2">Analog television</h2>
+    <p class="lead">Television in Slovenia was first introduced in 1958.
+        The first TV station in Slovenia was launched by JRT RTV Ljubljana
+        (now RTV Slovenija) in 1958 as TV Ljubljana 1 (now TV Slovenija 1).
+        In 1970 TV Ljubljana 2 (now TV Slovenija 2) was launched and TV Slovenija 3 in 2008.
+        The first private TV station Kanal A was launched in May 1991.
+        The second private channel POP TV was launched by the company PRO PLUS d.o.o.
+        in December 1995. TV3 was also launched in 1995, and was originally owned by
+        the Roman Catholic Church. It had a poor viewership until Ivan Caleta,
+        a businessman from Croatia, purchased 75% ownership of the channel in 2003,
+        and started to offer more popular programming. Kanal A became the sister channel
+        of POP TV in 2001, when Pro Plus took over the channel. TV3 became the new player
+        on the market, when Swedish company MTG bought it in 2006. On 29 February 2012,
+        it ceased broadcasting due to uncompetitive environment and unresponsiveness of Slovenian authorities.
+        Slovenia used the analogue PAL standard until December 1, 2010
+        when analog broadcasting ceased and was replaced with DVB-T.</p>
+    <h2 class="h2">DVB-T</h2>
+    <p class="lead">Experimental DVB-T broadcasts began in 2001 using the MPEG-2 standard.
+        In 2007 the Slovenian government decided to test DVB-T transmission in
+        Ljubljana using the MPEG-4 standard, following the approval of the APEK
+        (Agency for Post and Telecommunications Republic of Slovenia).
+        After that Radiotelevizija Slovenija had to determine which transmitter
+        would be used for the 3-month test. They settled on the transmitters made by a
+        Slovene company, Elti, who produces analog and digital TV transmitters.
+        After the test, the RTV SLO decided to expand transmissions to TV SLO 2.
+        In 2008, the RTV SLO launched a new channel: TV SLO 3 (a public affairs broadcast)
+        to its digital offering. High-definition broadcast with AC-3 was experimented
+        during the Beijing 2008 Summer Olympic Games. The 2010 Winter Olympic Games were also broadcast in HD.
+        Currently, there are two multiplexes operating, Mux A and Mux C.</p>
+</section>
+<footer class="footer">
+    <div class="container-fluid text-center">
+        <span class="text-muted" id="date"></span>
+    </div>
+</footer>
+<script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script>
+    let today = new Date();
+    document.getElementById("date").innerHTML = "&copy; " + today.getFullYear() + ", Andor Salamon";
+</script>
+</body>
+</html>
