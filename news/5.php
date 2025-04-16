@@ -1,0 +1,55 @@
+<?php
+include_once("header.html");
+?>
+<section class="container-fluid text-center" id="section">
+    <h1 class="h1">Television in Bosnia and Herzegovina</h1>
+    <p class="lead">Source: <em>Wikipedia</em></p>
+    <p class="lead">Television in Bosnia and Herzegovina was first introduced in 1956.
+        First broadcasting in Bosnia and Herzegovina started in 1961 when Televizija Sarajevo began
+        its programme although without its own TV studio at that time (it used Radio Sarajevo's premises for this purpose).</p>
+    <p class="lead">Today there are 150 licensed TV broadcasters in Bosnia and Herzegovina (23 Public and 127 Private).
+        The process of digitization is still going on in Bosnia and it is expected to
+        leave the analog frequency bands. There are plans to establish a public TV corporation
+        that would operate, consolidate and improve quality of all Bosnian public broadcasters.</p>
+    <h2 class="h2">Analog television</h2>
+    <p class="lead">Bosnia and Herzegovina has 3 public broadcasters financed from radio and television fees
+        (RTV pretplata/pristojba). The amount of television fees in BiH is 7.5 BAM per month
+        (collected along with the bill for landline telephony service).</p>
+    <p class="lead">The national public broadcaster for Bosnia and Herzegovina is BHRT
+        (Radio televizija Bosne i Hercegovine). With one television and one
+        radio channel it covers more than 97% of the country.
+        BHRT is the only Bosnian member of the European Broadcasting Union.</p>
+    <p class="lead">The entity broadcaster for Federation of Bosnia and Herzegovina is
+        RTVFBiH (Radio televizija Federacije Bosne i Hercegovine).
+        The program is broadcast on one radio and one television channel.
+        The entity broadcaster for Republika Srpska is RTRS (Radio televizija Republike Srpske).
+        The program is broadcast via one radio and two television channels (one channel is via cable systems).</p>
+    <p class="lead">There are 23 other public TV stations which broadcast only locally at the municipal,
+        local, and regional levels, such as 5 cantonal TV stations (TVSA, RTV TK, RTV USK, RTV ZE, and RTV BPK).</p>
+    <p class="lead">Private TV stations with a nationwide coverage are OBN and Pink BH.</p>
+    <p class="lead">Out of 30 private TV stations, the majority are only locally available,
+        either on a municipal level (e.g. TV KISS from Kiseljak or TV Maglaj from Maglaj)
+        or on a near national level (e.g. Hayat in the FBiH entity or Alternativna TV in
+        the Republika Srpska entity). These broadcasters are primarily focused on the entitiy markets,
+        but they also broadcast a joint program known as "Program Plus" on 85% of the
+        territory of Bosnia and Herzegovina.</p>
+    <p class="lead">Several local and regional private TV stations broadcast a joint program known as "Mreža TV".
+        These broadcasters provide a common advertising space (on country, entity, or regional level)
+        that is more attractive to major advertisers. Local TV networks share local news
+        (e.g. PRIMA network in the RS entity).</p>
+    <h2 class="h2">Digital television</h2>
+    <p class="lead">The process of digitization is still going on in Bosnia and Herzegovina.
+        One analog transmitter was shut down in June 2015 by request of neighboring Serbia,
+        affecting one of the public broadcast channels, but the signal was reestablished within days.</p>
+    <p class="lead">Communications Regulatory Agency of BiH issued the first licenses for
+        digital broadcasting in BiH to broadcasters BHRT, RTVFBIH and RTRS.
+        Permits are valid from March 1, 2016 year.
+        A DVB-T test signal on MUX-A was expected by the end of 2016
+        in some parts of the country, and the tender procedure for completing
+        MUX-A for the whole territory of the country ("second phase") has started.
+        As of August 2016, there are no news about MUX-B, which is intended
+        for privately owned and regional TV stations.</p>
+</section>
+<?php
+include_once("footer.html");
+?>
