@@ -31,8 +31,8 @@
   },
   {
     "id": 6,
-    "image": "o2tv-rs.png",
-    "channel_name": "O2.TV",
+    "image": "b92-rs.png",
+    "channel_name": "B92",
     "country": "Serbia"
   },
   {
@@ -115,14 +115,14 @@
   },
   {
     "id": 20,
-    "image": "rtl_klub.png",
-    "channel_name": "RTL Klub",
+    "image": "rtl_hu.png",
+    "channel_name": "RTL",
     "country": "Hungary"
   },
   {
     "id": 21,
     "image": "rtl2_hu.png",
-    "channel_name": "RTL II",
+    "channel_name": "RTL Kettő",
     "country": "Hungary"
   },
   {
@@ -151,8 +151,8 @@
   },
   {
     "id": 26,
-    "image": "hrt5-hr.png",
-    "channel_name": "HRT5",
+    "image": "hrt-int-hr.png",
+    "channel_name": "HRT International",
     "country": "Croatia"
   },
   {
@@ -169,8 +169,8 @@
   },
   {
     "id": 29,
-    "image": "rtl_televizija.png",
-    "channel_name": "RTL Televizija",
+    "image": "rtl_hr.png",
+    "channel_name": "RTL",
     "country": "Croatia"
   },
   {
@@ -259,8 +259,8 @@
   },
   {
     "id": 44,
-    "image": "tv_4_pl.png",
-    "channel_name": "TV 4",
+    "image": "tv4_pl.png",
+    "channel_name": "TV4",
     "country": "Poland"
   },
   {
@@ -505,7 +505,7 @@
   },
   {
     "id": 85,
-    "image": "tv3_medias_si.png",
+    "image": "tv3_si.png",
     "channel_name": "TV3",
     "country": "Slovenia"
   },
@@ -1370,7 +1370,7 @@
   {
     "id": 229,
     "image": "rtl2_de.png",
-    "channel_name": "RTL II",
+    "channel_name": "RTL Zwei",
     "country": "Germany"
   },
   {
