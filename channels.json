@@ -1,2162 +1,2174 @@
 [
   {
     "id": 1,
-    "image": "rts_rs_1.png",
+    "image": "https://upload.wikimedia.org/wikipedia/sr/b/b3/%D0%A0%D0%A2%D0%A1_1_%282014%29.svg",
     "channel_name": "RTS1",
     "country": "Serbia"
   },
   {
     "id": 2,
-    "image": "rts_rs_2.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2c/RTS2_logo_%282014%29.png",
     "channel_name": "RTS2",
     "country": "Serbia"
   },
   {
     "id": 3,
-    "image": "rts_rs_3.png",
+    "image": "https://upload.wikimedia.org/wikipedia/sr/4/44/%D0%A0%D0%A2%D0%A1_3_%282015%29.svg",
     "channel_name": "RTS3",
     "country": "Serbia"
   },
   {
     "id": 4,
-    "image": "rts-svet-rs.png",
+    "image": "https://upload.wikimedia.org/wikipedia/sr/9/9d/%D0%A0%D0%A2%D0%A1_%D0%A1%D0%B2%D0%B5%D1%82_%282018%29.svg",
     "channel_name": "RTS Svet",
     "country": "Serbia"
   },
   {
     "id": 5,
-    "image": "prva_rs.png",
+    "image": "https://upload.wikimedia.org/wikipedia/sr/6/64/%D0%9F%D1%80%D0%B2%D0%B0_%D0%BB%D0%BE%D0%B3%D0%BE_%282023%29.svg",
     "channel_name": "Prva",
     "country": "Serbia"
   },
   {
     "id": 6,
-    "image": "b92-rs.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Logo_of_B92_%282020-present%29.svg",
     "channel_name": "B92",
     "country": "Serbia"
   },
   {
     "id": 7,
-    "image": "pink_1_rs.png",
+    "image": "https://upload.wikimedia.org/wikipedia/en/5/59/Pink_TV_logo.png",
     "channel_name": "Pink",
     "country": "Serbia"
   },
   {
     "id": 8,
-    "image": "happy_tv_rs.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f1/HappyTV_Logo.png",
     "channel_name": "Happy",
     "country": "Serbia"
   },
   {
     "id": 9,
-    "image": "rtv_rs_1.png",
+    "image": "https://upload.wikimedia.org/wikipedia/sr/a/ab/%D0%A0%D0%A2%D0%92_1_%282023%29.svg",
     "channel_name": "RTV1",
     "country": "Serbia"
   },
   {
     "id": 10,
-    "image": "rtv_rs_2.png",
+    "image": "https://upload.wikimedia.org/wikipedia/sr/a/a0/%D0%A0%D0%A2%D0%92_2_%282023%29.svg",
     "channel_name": "RTV2",
     "country": "Serbia"
   },
   {
     "id": 11,
-    "image": "duna_tv.png",
+    "image": "https://upload.wikimedia.org/wikipedia/hu/d/d3/Dunatv_logo.png",
     "channel_name": "Duna",
     "country": "Hungary"
   },
   {
     "id": 12,
-    "image": "duna_world.png",
+    "image": "https://upload.wikimedia.org/wikipedia/hu/b/bd/Duna_world_log%C3%B3.png",
     "channel_name": "Duna World",
     "country": "Hungary"
   },
   {
     "id": 13,
-    "image": "magyar_tv1.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f1/M1_2020.png",
     "channel_name": "M1",
     "country": "Hungary"
   },
   {
     "id": 14,
-    "image": "magyar_tv2.png",
-    "channel_name": "M2/Petőfi",
+    "image": "https://upload.wikimedia.org/wikipedia/hu/b/b5/M2_gyerekcsatorna_log%C3%B3ja.png",
+    "channel_name": "M2",
     "country": "Hungary"
   },
   {
     "id": 15,
-    "image": "magyar_tv3.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/bd/M3_HU_logo.png",
     "channel_name": "M3",
     "country": "Hungary"
   },
   {
     "id": 16,
-    "image": "magyar_tv4_sport_hu.png",
+    "image": "https://upload.wikimedia.org/wikipedia/hu/f/fd/M4_logo.png",
     "channel_name": "M4 Sport",
     "country": "Hungary"
   },
   {
     "id": 17,
-    "image": "magyar_tv5_hu.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b4/M5logo.png",
     "channel_name": "M5",
     "country": "Hungary"
   },
   {
     "id": 18,
-    "image": "tv2_hu.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b4/TV2_2008.svg",
     "channel_name": "TV2",
     "country": "Hungary"
   },
   {
     "id": 19,
-    "image": "super_tv2_hu.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Super_TV2_logo.png",
     "channel_name": "Super TV2",
     "country": "Hungary"
   },
   {
     "id": 20,
-    "image": "rtl_hu.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/RTL_%28Hungary%29_%282022%29.svg",
     "channel_name": "RTL",
     "country": "Hungary"
   },
   {
     "id": 21,
-    "image": "rtl2_hu.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/66/RTL_Kett%C5%91_%282022%2C_stacked%29.svg",
     "channel_name": "RTL Kettő",
     "country": "Hungary"
   },
   {
     "id": 22,
-    "image": "hrt1.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1f/HRT1-logo.png",
     "channel_name": "HRT1",
     "country": "Croatia"
   },
   {
     "id": 23,
-    "image": "hrt2.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Htv2-logo.png",
     "channel_name": "HRT2",
     "country": "Croatia"
   },
   {
     "id": 24,
-    "image": "hrt-3-hr.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/96/HRT3_Logo_aktuell.png",
     "channel_name": "HRT3",
     "country": "Croatia"
   },
   {
     "id": 25,
-    "image": "hrt-4-hr.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/76/HRT4-logo.png",
     "channel_name": "HRT4",
     "country": "Croatia"
   },
   {
     "id": 26,
-    "image": "hrt-int-hr.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/HRT_International_logo.png",
     "channel_name": "HRT International",
     "country": "Croatia"
   },
   {
     "id": 27,
-    "image": "nova_tv_hr.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Nova_TV_Croatia_logo.png",
     "channel_name": "Nova TV",
     "country": "Croatia"
   },
   {
     "id": 28,
-    "image": "doma_tv_hr.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Doma_TV_logo.png",
     "channel_name": "Doma TV",
     "country": "Croatia"
   },
   {
     "id": 29,
-    "image": "rtl_hr.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/Rtl-logo.svg",
     "channel_name": "RTL",
     "country": "Croatia"
   },
   {
     "id": 30,
-    "image": "rtl2_hr.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/RTL_2_Logo.svg",
     "channel_name": "RTL 2",
     "country": "Croatia"
   },
   {
     "id": 31,
-    "image": "rtl_kockica_hr.png",
+    "image": "https://upload.wikimedia.org/wikipedia/hr/d/d9/RTL-Kockica-Logo.png",
     "channel_name": "RTL Kockica",
     "country": "Croatia"
   },
   {
     "id": 32,
-    "image": "tvp1.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Telewizja_Polska_-_TVP1_logo_2003.svg",
     "channel_name": "TVP1",
     "country": "Poland"
   },
   {
     "id": 33,
-    "image": "tvp2.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Telewizja_Polska_-_TVP2_logo_2003.svg",
     "channel_name": "TVP2",
     "country": "Poland"
   },
   {
     "id": 34,
-    "image": "tvp3.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/Telewizja_Polska_-_TVP3_logo_2016.svg",
     "channel_name": "TVP3",
     "country": "Poland"
   },
   {
     "id": 35,
-    "image": "tvp_abc_pl.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_TVP_ABC.svg",
     "channel_name": "TVP ABC",
     "country": "Poland"
   },
   {
     "id": 36,
-    "image": "tvp_historia.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/TVP_Historia_logo.svg",
     "channel_name": "TVP Historia",
     "country": "Poland"
   },
   {
     "id": 37,
-    "image": "tvp_info.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/TVP_Info_%282024%29.svg",
     "channel_name": "TVP Info",
     "country": "Poland"
   },
   {
     "id": 38,
-    "image": "tvp_kultura.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/TVP_Kultura_%282015%29.svg",
     "channel_name": "TVP Kultura",
     "country": "Poland"
   },
   {
     "id": 39,
-    "image": "tvp_polonia.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/TVP_Polonia_Logo_2020.svg",
     "channel_name": "TVP Polonia",
     "country": "Poland"
   },
   {
     "id": 40,
-    "image": "tvp_rozrywka_pl.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/TVP_Rozrywka_%282013%29.svg",
     "channel_name": "TVP Rozrywka",
     "country": "Poland"
   },
   {
     "id": 41,
-    "image": "tvp_seriale.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/59/TVP_Seriale_%282010%29.svg",
     "channel_name": "TVP Seriale",
     "country": "Poland"
   },
   {
     "id": 42,
-    "image": "tvp_sport.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/TVP_Sport_%282021%29.svg",
     "channel_name": "TVP Sport",
     "country": "Poland"
   },
   {
     "id": 43,
-    "image": "polsat.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Polsat_2021_gradient.svg",
     "channel_name": "Polsat",
     "country": "Poland"
   },
   {
     "id": 44,
-    "image": "tv4_pl.png",
-    "channel_name": "TV4",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Super_Polsat_2021_gradient.svg",
+    "channel_name": "Super Polsat",
     "country": "Poland"
   },
   {
     "id": 45,
-    "image": "tvn_pl.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/TVN_logo_2024.svg",
     "channel_name": "TVN",
     "country": "Poland"
   },
   {
     "id": 46,
-    "image": "tvn_7_pl.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/TVN7_logo_2021.svg",
     "channel_name": "TVN 7",
     "country": "Poland"
   },
   {
     "id": 47,
-    "image": "bht-1-ba.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/93/Logo_of_BHT_1_%282003-2012%29.png",
     "channel_name": "BHT 1",
     "country": "Bosnia and Herzegovina"
   },
   {
     "id": 48,
-    "image": "ftv_ba.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/76/FederalnaTV_2014-present.jpg",
     "channel_name": "Federalna TV",
     "country": "Bosnia and Herzegovina"
   },
   {
     "id": 49,
-    "image": "rtrs_tv_ba.png",
+    "image": "https://upload.wikimedia.org/wikipedia/sr/c/c5/Rtrs-logo.png",
     "channel_name": "RTRS TV",
     "country": "Bosnia and Herzegovina"
   },
   {
     "id": 50,
-    "image": "rtrs_tv_ba_plus.png",
+    "image": "https://upload.wikimedia.org/wikipedia/en/c/cf/RTRS_PLUS_logo.png",
     "channel_name": "RTRS Plus",
     "country": "Bosnia and Herzegovina"
   },
   {
     "id": 51,
-    "image": "hayat_ba.png",
+    "image": "https://upload.wikimedia.org/wikipedia/bs/a/a4/Ntv_hayat_bosnia_and_herzegovina.jpg",
     "channel_name": "Hayat",
     "country": "Bosnia and Herzegovina"
   },
   {
     "id": 52,
-    "image": "a_tv_ba.png",
+    "image": "https://upload.wikimedia.org/wikipedia/sr/5/53/%D0%90%D0%BB%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%B0_%D0%A2%D0%92_%28%D0%BB%D0%BE%D0%B3%D0%BE%29.png",
     "channel_name": "Alternativa TV",
     "country": "Bosnia and Herzegovina"
   },
   {
     "id": 53,
-    "image": "bn_televizija_sat.png",
+    "image": "https://upload.wikimedia.org/wikipedia/en/6/69/BN_televizija_logo.png",
     "channel_name": "BN TV",
     "country": "Bosnia and Herzegovina"
   },
   {
     "id": 54,
-    "image": "obn_ba.png",
+    "image": "https://upload.wikimedia.org/wikipedia/en/a/a5/OBN_televizija_logo.PNG",
     "channel_name": "OBN",
     "country": "Bosnia and Herzegovina"
   },
   {
     "id": 55,
-    "image": "pink_bh.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Pink_BH_logo.png",
     "channel_name": "Pink BH",
     "country": "Bosnia and Herzegovina"
   },
   {
     "id": 56,
-    "image": "tv1_ba.png",
-    "channel_name": "TV 1",
+    "image": "https://upload.wikimedia.org/wikipedia/bs/f/fa/O_Kanal.png",
+    "channel_name": "O Kanal",
     "country": "Bosnia and Herzegovina"
   },
   {
     "id": 57,
-    "image": "ceska_televize1.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/%C4%8CT1_logo_2012.svg",
     "channel_name": "ČT1",
     "country": "Czech Republic"
   },
   {
     "id": 58,
-    "image": "ceska_televize2.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/%C4%8CT2_logo_2012.svg",
     "channel_name": "ČT2",
     "country": "Czech Republic"
   },
   {
     "id": 59,
-    "image": "ceska_televize24.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/%C4%8CT24_logo.png",
     "channel_name": "ČT24",
     "country": "Czech Republic"
   },
   {
     "id": 60,
-    "image": "ceska_televize_d.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/ab/%C4%8CT-D_logo.svg",
     "channel_name": "ČT :D",
     "country": "Czech Republic"
   },
   {
     "id": 61,
-    "image": "ceska_televize_sport.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/%C4%8CT_sport_logo.png",
     "channel_name": "ČT Sport",
     "country": "Czech Republic"
   },
   {
     "id": 62,
-    "image": "ceska_televize_art.png",
+    "image": "https://upload.wikimedia.org/wikipedia/en/6/6f/%C4%8CT_art.svg",
     "channel_name": "ČT Art",
     "country": "Czech Republic"
   },
   {
     "id": 63,
-    "image": "nova_cz_tv.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/TV_Nova_Logo_2024.svg",
     "channel_name": "TV Nova",
     "country": "Czech Republic"
   },
   {
     "id": 64,
-    "image": "nova_cz_tv_2.png",
-    "channel_name": "Nova 2",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Logo_Nova_FUN.png",
+    "channel_name": "Nova Fun",
     "country": "Czech Republic"
   },
   {
     "id": 65,
-    "image": "prima_tv_cz.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Prima_2013.svg",
     "channel_name": "Prima",
     "country": "Czech Republic"
   },
   {
     "id": 66,
-    "image": "barrandov_cz_tv.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/ef/TV_Barrandov_logo_2025.png",
     "channel_name": "TV Barrandov",
     "country": "Czech Republic"
   },
   {
     "id": 67,
-    "image": "crne_gore_tv_1.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/TVCG_1_Logo_2024.svg",
     "channel_name": "TVCG 1",
     "country": "Montenegro"
   },
   {
     "id": 68,
-    "image": "crne_gore_tv_2.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/ee/TVCG_2_Logo_2024.svg",
     "channel_name": "TVCG 2",
     "country": "Montenegro"
   },
   {
     "id": 69,
-    "image": "crne_gore_tv_sat.png",
-    "channel_name": "TVCG Sat",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c9/TVCG_3_Logo_2024.svg",
+    "channel_name": "TVCG 3",
     "country": "Montenegro"
   },
   {
     "id": 70,
-    "image": "pink_m.png",
+    "image": "https://upload.wikimedia.org/wikipedia/sr/5/59/Pink_M_logo.png",
     "channel_name": "Pink M",
     "country": "Montenegro"
   },
   {
     "id": 71,
-    "image": "rtv_atlas.png",
-    "channel_name": "Atlas TV",
+    "image": "https://upload.wikimedia.org/wikipedia/sr/c/ce/A1_TV_logo.png",
+    "channel_name": "A1 TV",
     "country": "Montenegro"
   },
   {
     "id": 72,
-    "image": "tv_vijesti_me.png",
+    "image": "https://upload.wikimedia.org/wikipedia/en/f/f3/Tvvijesti.jpg",
     "channel_name": "TV Vijesti",
     "country": "Montenegro"
   },
   {
     "id": 73,
-    "image": "prva_rs_crna_gora.png",
+    "image": "https://upload.wikimedia.org/wikipedia/sr/6/64/%D0%9F%D1%80%D0%B2%D0%B0_%D0%BB%D0%BE%D0%B3%D0%BE_%282023%29.svg",
     "channel_name": "Prva TV Crna Gora",
     "country": "Montenegro"
   },
   {
     "id": 74,
-    "image": "rtv_sk_1.png",
-    "channel_name": "RTV 1 (Jednotka)",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Jednotka_logo.svg",
+    "channel_name": "Jednotka",
     "country": "Slovakia"
   },
   {
     "id": 75,
-    "image": "rtv_sk_2.png",
-    "channel_name": "RTV 2 (Dvojka)",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Dvojka_logo.svg",
+    "channel_name": "Dvojka",
     "country": "Slovakia"
   },
   {
     "id": 76,
-    "image": "markiza_tv_sk.png",
-    "channel_name": "TV Markíza",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Mark%C3%ADza_%282022%29.svg",
+    "channel_name": "Markíza",
     "country": "Slovakia"
   },
   {
     "id": 77,
-    "image": "joj_tv_sk.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Logo_TV_JOJ_-_2020.svg",
     "channel_name": "TV JOJ",
     "country": "Slovakia"
   },
   {
     "id": 78,
-    "image": "ta_3_sk.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/TA3_%282021%29.svg",
     "channel_name": "TA3",
     "country": "Slovakia"
   },
   {
     "id": 79,
-    "image": "rtv_slo1.png",
-    "channel_name": "TV Slovenija 1",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Logo_of_TV_SLO_1_HD_%282012-%29.png",
+    "channel_name": "TV SLO 1",
     "country": "Slovenia"
   },
   {
     "id": 80,
-    "image": "rtv_slo2.png",
-    "channel_name": "TV Slovenija 2",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Logo_of_TV_SLO_2_HD_%282012-%29.png",
+    "channel_name": "TV SLO 2",
     "country": "Slovenia"
   },
   {
     "id": 81,
-    "image": "rtv_slo3.png",
-    "channel_name": "TV Slovenija 3",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/Slo3.png",
+    "channel_name": "TV SLO 3",
     "country": "Slovenia"
   },
   {
     "id": 82,
-    "image": "pop_si_tv.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Pop-TV-Logo.svg",
     "channel_name": "POP TV",
     "country": "Slovenia"
   },
   {
     "id": 83,
-    "image": "kanal_a_si.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Kanal_A_logo_2020.svg",
     "channel_name": "Kanal A",
     "country": "Slovenia"
   },
   {
     "id": 84,
-    "image": "planet_tv_si.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Planet-tv_big.png",
     "channel_name": "Planet TV",
     "country": "Slovenia"
   },
   {
     "id": 85,
-    "image": "tv3_si.png",
+    "image": "https://upload.wikimedia.org/wikipedia/sl/a/af/Tv3-2020.png",
     "channel_name": "TV3",
     "country": "Slovenia"
   },
   {
     "id": 86,
-    "image": "tvr1_ro.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/TVR_1_Logo_2022.svg",
     "channel_name": "TVR 1",
     "country": "Romania"
   },
   {
     "id": 87,
-    "image": "tvr2_ro.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/TVR_2_Logo_2022.svg",
     "channel_name": "TVR 2",
     "country": "Romania"
   },
   {
     "id": 88,
-    "image": "tvr3_ro.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/TVR_3_Logo_2022.svg",
     "channel_name": "TVR 3",
     "country": "Romania"
   },
   {
     "id": 89,
-    "image": "tvr_international.png",
-    "channel_name": "TVR International",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/TVRi_Logo_2022.svg",
+    "channel_name": "TVRi",
     "country": "Romania"
   },
   {
     "id": 90,
-    "image": "pro-tv-ro.png",
-    "channel_name": "PRO TV",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Logo_Pro_TV_%282017%29.svg",
+    "channel_name": "Pro TV",
     "country": "Romania"
   },
   {
     "id": 91,
-    "image": "pro-2-ro.png",
-    "channel_name": "PRO 2",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/49/Acasa_2022_flat.png",
+    "channel_name": "Acasă",
     "country": "Romania"
   },
   {
     "id": 92,
-    "image": "antena1_ro.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Antena_1_Logo_%282022-present%29.svg",
     "channel_name": "Antena 1",
     "country": "Romania"
   },
   {
     "id": 93,
-    "image": "antena3_ro.png",
-    "channel_name": "Antena 3",
+    "image": "https://upload.wikimedia.org/wikipedia/en/6/6e/Antena_3_CNN_logo.svg",
+    "channel_name": "Antena 3 CNN",
     "country": "Romania"
   },
   {
     "id": 94,
-    "image": "mrt_mk_tv_1.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/97/Logo_of_MRT_1_%282012-%29.svg",
     "channel_name": "MRT 1",
     "country": "North Macedonia"
   },
   {
     "id": 95,
-    "image": "mrt_mk_tv_2_sat.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Logo_of_MRT_2_%282012-%29.svg",
     "channel_name": "MRT 2",
     "country": "North Macedonia"
   },
   {
     "id": 96,
-    "image": "mrt_mk_tv_1_sat.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/Logo_of_MRT_SAT_%282012-%29.svg",
     "channel_name": "MRT Sat",
     "country": "North Macedonia"
   },
   {
     "id": 97,
-    "image": "alsat_m.png",
-    "channel_name": "Alsat-M",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/Logo_of_Alsat_TV_%282020-%29.svg",
+    "channel_name": "Alsat",
     "country": "North Macedonia"
   },
   {
     "id": 98,
-    "image": "kanal5_mk.png",
+    "image": "https://upload.wikimedia.org/wikipedia/en/1/14/Kanal5_mk_logo.jpg",
     "channel_name": "Kanal 5",
     "country": "North Macedonia"
   },
   {
     "id": 99,
-    "image": "sitel.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Logo_of_Sitel.svg",
     "channel_name": "Sitel TV",
     "country": "North Macedonia"
   },
   {
     "id": 100,
-    "image": "alfa_tv_mk.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Logo_of_Alfa_TV_%282020-%29.svg",
     "channel_name": "Alfa TV",
     "country": "North Macedonia"
   },
   {
     "id": 101,
-    "image": "telma_mk.png",
-    "channel_name": "Telma TV",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/33/Logo_of_Telma_%282016-%29.svg",
+    "channel_name": "Telma",
     "country": "North Macedonia"
   },
   {
     "id": 102,
-    "image": "bnt1_bg.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Logo_of_BNT_1_%282018-%29.svg",
     "channel_name": "BNT 1",
     "country": "Bulgaria"
   },
   {
     "id": 103,
-    "image": "bnt2_bg.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Logo_of_BNT_2_%282018-%29.svg",
     "channel_name": "BNT 2",
     "country": "Bulgaria"
   },
   {
     "id": 104,
-    "image": "bnt_world.png",
-    "channel_name": "BNT World",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Logo_of_BNT_3_%282018-%29.svg",
+    "channel_name": "BNT 3",
     "country": "Bulgaria"
   },
   {
     "id": 105,
-    "image": "btv_bg.png",
-    "channel_name": "bTV",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo_of_BNT_4_%282018-%29.svg",
+    "channel_name": "BNT 4",
     "country": "Bulgaria"
   },
   {
     "id": 106,
-    "image": "nova_tv_bg.png",
-    "channel_name": "Nova",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/BTV-2025-new.svg",
+    "channel_name": "bTV",
     "country": "Bulgaria"
   },
   {
     "id": 107,
-    "image": "rtsh1-al.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/NOVA_logo.svg",
+    "channel_name": "Nova",
+    "country": "Bulgaria"
+  },
+  {
+    "id": 108,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/30/RTSH_1_HD_%282020_Logo%29.svg",
     "channel_name": "RTSH 1",
     "country": "Albania"
   },
   {
-    "id": 108,
-    "image": "rtsh2-al.png",
+    "id": 109,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/ce/RTSH_2_HD_%282020_Logo%29.svg",
     "channel_name": "RTSH 2",
     "country": "Albania"
   },
   {
-    "id": 109,
-    "image": "rtsh3-al.png",
+    "id": 110,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/da/RTSH_3_%282020_Logo%29.svg",
     "channel_name": "RTSH 3",
     "country": "Albania"
   },
   {
-    "id": 110,
-    "image": "rtsh-film-al.png",
+    "id": 111,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/94/RTSH_Film_%282020_Logo%29.svg",
     "channel_name": "RTSH Film",
     "country": "Albania"
   },
   {
-    "id": 111,
-    "image": "rtsh-muzike-al.png",
-    "channel_name": "RTSH Muzike",
-    "country": "Albania"
-  },
-  {
     "id": 112,
-    "image": "rtsh-shqip-al.png",
-    "channel_name": "RTSH Shqip",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/49/RTSH_Muzik%C3%AB_%282020_Logo%29.svg",
+    "channel_name": "RTSH Muzikë",
     "country": "Albania"
   },
   {
     "id": 113,
-    "image": "rtsh-sport-al.png",
-    "channel_name": "RTSH Sport",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/46/RTSH_Shqip_%282020_Logo%29.svg",
+    "channel_name": "RTSH Shqip",
     "country": "Albania"
   },
   {
     "id": 114,
-    "image": "top_channel.png",
-    "channel_name": "Top Channel",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/RTSH_Sport_%282020_Logo%29.svg",
+    "channel_name": "RTSH Sport",
     "country": "Albania"
   },
   {
     "id": 115,
-    "image": "klan_al_tv_hd.png",
-    "channel_name": "TV Klan",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Top_Channel.svg",
+    "channel_name": "Top Channel",
     "country": "Albania"
   },
   {
     "id": 116,
-    "image": "vizion_plus.png",
-    "channel_name": "Vizion Plus",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/TV_Klan.svg",
+    "channel_name": "TV Klan",
     "country": "Albania"
   },
   {
     "id": 117,
-    "image": "ert_gr_1.png",
-    "channel_name": "ERT 1",
-    "country": "Greece"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Vizionplus.svg",
+    "channel_name": "Vizion Plus",
+    "country": "Albania"
   },
   {
     "id": 118,
-    "image": "ert_gr_2.png",
-    "channel_name": "ERT 2",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/38/ERT1_logo_2020.svg",
+    "channel_name": "ERT1",
     "country": "Greece"
   },
   {
     "id": 119,
-    "image": "ert_gr_3.png",
-    "channel_name": "ERT 3",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/ERT2_logo_2020.svg",
+    "channel_name": "ERT2",
     "country": "Greece"
   },
   {
     "id": 120,
-    "image": "ert_world_gr.png",
-    "channel_name": "ERT World",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/ERT3_logo_2020.svg",
+    "channel_name": "ERT3",
     "country": "Greece"
   },
   {
     "id": 121,
-    "image": "alpha_tv.png",
-    "channel_name": "Alpha TV",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/ChannelLogo-ERTWORLD1.png",
+    "channel_name": "ERT World",
     "country": "Greece"
   },
   {
     "id": 122,
-    "image": "antenna1_gr.png",
-    "channel_name": "ANT1",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Alpha_TV_logo.svg",
+    "channel_name": "Alpha TV",
     "country": "Greece"
   },
   {
     "id": 123,
-    "image": "art_tv_gr.png",
-    "channel_name": "ART",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/ANT1_logo.svg",
+    "channel_name": "ANT1",
     "country": "Greece"
   },
   {
     "id": 124,
-    "image": "epsilon_tv_gr.png",
-    "channel_name": "Epsilon TV",
+    "image": "https://upload.wikimedia.org/wikipedia/el/e/e5/Open_TV_logo.png",
+    "channel_name": "Open TV",
     "country": "Greece"
   },
   {
     "id": 125,
-    "image": "makedonia_tv.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Makedonia_TV_2023.svg",
     "channel_name": "Makedonia TV",
     "country": "Greece"
   },
   {
     "id": 126,
-    "image": "mega_gr.png",
-    "channel_name": "Mega",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/41/Mega_channel_logo.svg",
+    "channel_name": "Mega Channel",
     "country": "Greece"
   },
   {
     "id": 127,
-    "image": "skai_tv.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Skai_TV_logo.svg",
     "channel_name": "Skai TV",
     "country": "Greece"
   },
   {
     "id": 128,
-    "image": "star_channel_gr.png",
-    "channel_name": "Star",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/Star_Channel_Greece_logo.svg",
+    "channel_name": "Star Channel",
     "country": "Greece"
   },
   {
     "id": 129,
-    "image": "trt1.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/TRT_1_logo_%282021-%29.svg",
     "channel_name": "TRT 1",
     "country": "Turkey"
   },
   {
     "id": 130,
-    "image": "trt_arapca_tr.png",
-    "channel_name": "TRT Arapca",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/19/TRT_2_logo.svg",
+    "channel_name": "TRT 2",
     "country": "Turkey"
   },
   {
     "id": 131,
-    "image": "trt_avaz_tr.png",
-    "channel_name": "TRT Avaz",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/TRT_3_logo_%282021%29.svg",
+    "channel_name": "TRT 3",
     "country": "Turkey"
   },
   {
     "id": 132,
-    "image": "trt_belgesel_tr.png",
-    "channel_name": "TRT Belgesel",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/TRT_4K.svg",
+    "channel_name": "TRT 4K",
     "country": "Turkey"
   },
   {
     "id": 133,
-    "image": "trt_diyanet_tr.png",
-    "channel_name": "TRT Diyanet",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/TRT_Belgesel_logo_%282019-%29.svg",
+    "channel_name": "TRT Belgesel",
     "country": "Turkey"
   },
   {
     "id": 134,
-    "image": "trt_haber.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/TRT_Haber_Eyl%C3%BCl_2020_Logo.svg",
     "channel_name": "TRT Haber",
     "country": "Turkey"
   },
   {
     "id": 135,
-    "image": "trt_kurdi_tr.png",
-    "channel_name": "TRT Kurdi",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/TRT_Kurd%C3%AE_logo.svg",
+    "channel_name": "TRT Kurdî",
     "country": "Turkey"
   },
   {
     "id": 136,
-    "image": "trt_muzik.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/TRT_M%C3%BCzik.svg",
     "channel_name": "TRT Müzik",
     "country": "Turkey"
   },
   {
     "id": 137,
-    "image": "trt_okul.png",
-    "channel_name": "TRT Okul",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/54/TRT_Avaz_logo.svg",
+    "channel_name": "TRT Avaz",
     "country": "Turkey"
   },
   {
     "id": 138,
-    "image": "trt_spor_tr.png",
-    "channel_name": "TRT Spor",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b1/TRT_Arabi_logo.svg",
+    "channel_name": "TRT Arabi",
     "country": "Turkey"
   },
   {
     "id": 139,
-    "image": "trt_turk_tr.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d2/TRT_T%C3%BCrk_logo.svg",
     "channel_name": "TRT Türk",
     "country": "Turkey"
   },
   {
     "id": 140,
-    "image": "trt_world_tr.png",
-    "channel_name": "TRT World",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/78/TRTGLOBAL.svg",
+    "channel_name": "TRT Global",
     "country": "Turkey"
   },
   {
     "id": 141,
-    "image": "trt_cocuk.png",
-    "channel_name": "TRT Cocuk",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg",
+    "channel_name": "TRT Çocuk",
     "country": "Turkey"
   },
   {
     "id": 142,
-    "image": "kanal_d_tr.png",
+    "image": "https://upload.wikimedia.org/wikipedia/tr/4/4e/Kanal_D.png",
     "channel_name": "Kanal D",
     "country": "Turkey"
   },
   {
     "id": 143,
-    "image": "teve_2_tr.png",
-    "channel_name": "Teve 2",
+    "image": "https://upload.wikimedia.org/wikipedia/en/c/ca/Teve2_logo.png",
+    "channel_name": "Teve2",
     "country": "Turkey"
   },
   {
     "id": 144,
-    "image": "star_tv_tr.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a4/StarTV.svg",
     "channel_name": "Star TV",
     "country": "Turkey"
   },
   {
     "id": 145,
-    "image": "show_tv_tr.png",
+    "image": "https://upload.wikimedia.org/wikipedia/en/4/4b/Show_TV.svg",
     "channel_name": "Show TV",
     "country": "Turkey"
   },
   {
     "id": 146,
-    "image": "tv8_tr.png",
+    "image": "https://upload.wikimedia.org/wikipedia/en/3/35/Tv8_new_logo.png",
     "channel_name": "TV8",
     "country": "Turkey"
   },
   {
     "id": 147,
-    "image": "atv_tr.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Atv_logo_2010.svg",
     "channel_name": "ATV",
     "country": "Turkey"
   },
   {
     "id": 148,
-    "image": "fox_global.png",
-    "channel_name": "FOX Türkiye",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg",
+    "channel_name": "NOW",
     "country": "Turkey"
   },
   {
     "id": 149,
-    "image": "kanal7_tr.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Kanal_7_2002-%3F_logosu.webp",
     "channel_name": "Kanal 7",
     "country": "Turkey"
   },
   {
     "id": 150,
-    "image": "rik-sat-cy.png",
-    "channel_name": "RIK Sat",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_RIK_1_2017.svg",
+    "channel_name": "RIK 1",
     "country": "Cyprus"
   },
   {
     "id": 151,
-    "image": "alpha-kyprou-gr.png",
-    "channel_name": "Alpha Kyprou",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_RIK_2_2017.svg",
+    "channel_name": "RIK 2",
     "country": "Cyprus"
   },
   {
     "id": 152,
-    "image": "cy-sports-tv.png",
-    "channel_name": "CYsports TV",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Logo_RIK_Sat_2017.svg",
+    "channel_name": "RIK Sat",
     "country": "Cyprus"
   },
   {
     "id": 153,
-    "image": "sigma-tv-cy.png",
-    "channel_name": "Sigma TV",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg",
+    "channel_name": "Alpha TV Cyprus",
     "country": "Cyprus"
   },
   {
     "id": 154,
-    "image": "moldova_tv_1_md.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/ANT1_logo.svg",
+    "channel_name": "ANT1 TV Cyprus",
+    "country": "Cyprus"
+  },
+  {
+    "id": 155,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/41/Omega_Transparent.png",
+    "channel_name": "Omega TV",
+    "country": "Cyprus"
+  },
+  {
+    "id": 156,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Plus_Channel_02_-_Grey.png",
+    "channel_name": "Plus",
+    "country": "Cyprus"
+  },
+  {
+    "id": 157,
+    "image": "https://upload.wikimedia.org/wikipedia/en/5/55/Sigma_TV_Logo.png",
+    "channel_name": "Sigma TV",
+    "country": "Cyprus"
+  },
+  {
+    "id": 158,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/TV_Moldova_1_2025.svg",
     "channel_name": "Moldova 1",
     "country": "Moldova"
   },
   {
-    "id": 155,
-    "image": "moldova_tv_2_md.png",
+    "id": 159,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/TV_Moldova_2_2025.svg",
     "channel_name": "Moldova 2",
     "country": "Moldova"
   },
   {
-    "id": 156,
-    "image": "pro-tv-chisinau-ro-md.png",
-    "channel_name": "Pro TV Chisinau",
+    "id": 160,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/Logo_Pro_TV_Chi%C8%99in%C4%83u_%282017%29.svg",
+    "channel_name": "Pro TV Chișinău",
     "country": "Moldova"
   },
   {
-    "id": 157,
-    "image": "publika_md.png",
+    "id": 161,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Publika_logo_%282017%29.png",
     "channel_name": "Publika TV",
     "country": "Moldova"
   },
   {
-    "id": 158,
-    "image": "tv-8-md.png",
+    "id": 162,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Logo_TV8_%282017%2C_positive_space%29.svg",
     "channel_name": "TV 8",
     "country": "Moldova"
   },
   {
-    "id": 159,
-    "image": "lrt_lt_televizija.png",
+    "id": 163,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/LRT_TV_Logo_2022.svg",
     "channel_name": "LRT Televizija",
     "country": "Lithuania"
   },
   {
-    "id": 160,
-    "image": "lrt_lt_kultura.png",
-    "channel_name": "LRT Kultura",
-    "country": "Lithuania"
-  },
-  {
-    "id": 161,
-    "image": "lrt_lt_lituanica.png",
-    "channel_name": "LRT Lituanica",
-    "country": "Lithuania"
-  },
-  {
-    "id": 162,
-    "image": "lnk_lt.png",
-    "channel_name": "LNK",
-    "country": "Lithuania"
-  },
-  {
-    "id": 163,
-    "image": "viasat_tv3_lt.png",
-    "channel_name": "TV3",
-    "country": "Lithuania"
-  },
-  {
     "id": 164,
-    "image": "lietuvos_rytas_tv.png",
-    "channel_name": "Lietuvos Rytas TV",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/LRT_Plius_Logo_2022.svg",
+    "channel_name": "LRT Plius",
     "country": "Lithuania"
   },
   {
     "id": 165,
-    "image": "ua_pershiy_ua.png",
-    "channel_name": "UA:Pershiy",
-    "country": "Ukraine"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d2/LRT_Lituanica_Logo_2022.svg",
+    "channel_name": "LRT Lituanica",
+    "country": "Lithuania"
   },
   {
     "id": 166,
-    "image": "ua-kultura-ua.png",
-    "channel_name": "UA:Kultura",
-    "country": "Ukraine"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1e/LNK_logotipas.png",
+    "channel_name": "LNK",
+    "country": "Lithuania"
   },
   {
     "id": 167,
-    "image": "trk_ukraina.png",
-    "channel_name": "Kanal Ukraina",
-    "country": "Ukraine"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/TV3_Baltics_%282019%29.svg",
+    "channel_name": "TV3",
+    "country": "Lithuania"
   },
   {
     "id": 168,
-    "image": "indigo_tv_ua.png",
-    "channel_name": "Indigo TV",
-    "country": "Ukraine"
+    "image": "https://upload.wikimedia.org/wikipedia/en/f/f8/Lrytas_tv_logo.png",
+    "channel_name": "Lietuvos Rytas TV",
+    "country": "Lithuania"
   },
   {
     "id": 169,
-    "image": "1_plus_1_ua.png",
-    "channel_name": "1+1",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Pershyi_%282022%29.svg",
+    "channel_name": "Pershiy",
     "country": "Ukraine"
   },
   {
     "id": 170,
-    "image": "tet_ua.png",
-    "channel_name": "TET",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/27/Suspilne_Kultura_%282022%29.svg",
+    "channel_name": "Suspilne Kultura",
     "country": "Ukraine"
   },
   {
     "id": 171,
-    "image": "inter_ua.png",
-    "channel_name": "Inter",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Suspilne_Sport_%282022%29.svg",
+    "channel_name": "Suspilne Sport",
     "country": "Ukraine"
   },
   {
     "id": 172,
-    "image": "ntn_ua.png",
-    "channel_name": "NTN",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/1%2B1_logo.svg",
+    "channel_name": "1+1",
     "country": "Ukraine"
   },
   {
     "id": 173,
-    "image": "telekanal_stb_ua.png",
-    "channel_name": "STB",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a4/2%2B2_logo_2017.svg",
+    "channel_name": "2+2",
     "country": "Ukraine"
   },
   {
     "id": 174,
-    "image": "ictv_ua.png",
-    "channel_name": "ICTV",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/31/TET_logo.svg",
+    "channel_name": "TET",
     "country": "Ukraine"
   },
   {
     "id": 175,
-    "image": "latvia1.png",
-    "channel_name": "LTV 1",
-    "country": "Latvia"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/05/Inter_TV-Channel_logo.svg",
+    "channel_name": "Inter",
+    "country": "Ukraine"
   },
   {
     "id": 176,
-    "image": "latvia7.png",
-    "channel_name": "LTV 7",
-    "country": "Latvia"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/NTNUA_logo_%282013%29.svg",
+    "channel_name": "NTN",
+    "country": "Ukraine"
   },
   {
     "id": 177,
-    "image": "tv3-latvija-lv.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/STB_logo.svg",
+    "channel_name": "STB",
+    "country": "Ukraine"
+  },
+  {
+    "id": 178,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/ICTV_2017_horizontal.svg",
+    "channel_name": "ICTV",
+    "country": "Ukraine"
+  },
+  {
+    "id": 179,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/LTV1_%282022%29.svg",
+    "channel_name": "LTV1",
+    "country": "Latvia"
+  },
+  {
+    "id": 180,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/LTV7_Logo_2021.svg",
+    "channel_name": "LTV7",
+    "country": "Latvia"
+  },
+  {
+    "id": 181,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/TV3_Baltics_%282019%29.svg",
     "channel_name": "TV3",
     "country": "Latvia"
   },
   {
-    "id": 178,
-    "image": "lnt_lv.png",
-    "channel_name": "LNT",
+    "id": 182,
+    "image": "https://upload.wikimedia.org/wikipedia/lv/c/c1/360TV_2024.svg",
+    "channel_name": "360TV",
     "country": "Latvia"
   },
   {
-    "id": 179,
-    "image": "belarus_by_1.png",
+    "id": 183,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Belarus_1_logo.svg",
     "channel_name": "Belarus-1",
     "country": "Belarus"
   },
   {
-    "id": 180,
-    "image": "belarus_by_24.png",
+    "id": 184,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/Belarus_24_logo.svg",
     "channel_name": "Belarus-24",
     "country": "Belarus"
   },
   {
-    "id": 181,
-    "image": "ont-by.png",
+    "id": 185,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%C2%AB%D0%9E%D0%9D%D0%A2%C2%BB.svg",
     "channel_name": "ONT",
     "country": "Belarus"
   },
   {
-    "id": 182,
-    "image": "stolicnoe_tv.png",
+    "id": 186,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/33/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%B1%D0%B5%D0%BB%D0%BE%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%C2%AB%D0%A1%D0%A2%D0%92%C2%BB.svg",
     "channel_name": "STV",
     "country": "Belarus"
   },
   {
-    "id": 183,
-    "image": "perviy_muzykalnyi_telekanal_hd.png",
-    "channel_name": "First Music Channel",
-    "country": "Belarus"
-  },
-  {
-    "id": 184,
-    "image": "vtv_by.png",
-    "channel_name": "VTV",
-    "country": "Belarus"
-  },
-  {
-    "id": 185,
-    "image": "etv_ee.png",
+    "id": 187,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Eesti_Televisioon_Logo.svg",
     "channel_name": "ETV",
     "country": "Estonia"
   },
   {
-    "id": 186,
-    "image": "etv2_ee.png",
-    "channel_name": "ETV 2",
-    "country": "Estonia"
-  },
-  {
-    "id": 187,
-    "image": "etv_plus_ee.png",
-    "channel_name": "ETV +",
-    "country": "Estonia"
-  },
-  {
     "id": 188,
-    "image": "kanal2_ee.png",
-    "channel_name": "Kanal 2",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/ETV2_logo_%282018%29.svg",
+    "channel_name": "ETV2",
     "country": "Estonia"
   },
   {
     "id": 189,
-    "image": "tv3-eesti-ee.png",
-    "channel_name": "TV 3",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/ETV%2B_logo.png",
+    "channel_name": "ETV+",
     "country": "Estonia"
   },
   {
     "id": 190,
-    "image": "rossiya1-ru.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/Kanal_2_Logo.svg",
+    "channel_name": "Kanal 2",
+    "country": "Estonia"
+  },
+  {
+    "id": 191,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/TV3_Baltics_%282019%29.svg",
+    "channel_name": "TV3",
+    "country": "Estonia"
+  },
+  {
+    "id": 192,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Russia-1.svg",
     "channel_name": "Russia 1",
     "country": "Russia"
   },
   {
-    "id": 191,
-    "image": "rossiya_24.png",
+    "id": 193,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/66/Rossiya-24_Logo.svg",
     "channel_name": "Russia 24",
     "country": "Russia"
   },
   {
-    "id": 192,
-    "image": "rossiya_kultura.png",
+    "id": 194,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Russia-Cultura.svg",
     "channel_name": "Russia K",
     "country": "Russia"
   },
   {
-    "id": 193,
-    "image": "perviy_1_kanal.png",
+    "id": 195,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/1%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5.svg",
     "channel_name": "Channel One",
     "country": "Russia"
   },
   {
-    "id": 194,
-    "image": "tv_centr_ru.png",
+    "id": 196,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/TV_Tsentr_Logo.svg",
     "channel_name": "TV Center",
     "country": "Russia"
   },
   {
-    "id": 195,
-    "image": "ntv_ru.png",
+    "id": 197,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/NTV_logo_2003.svg",
     "channel_name": "NTV",
     "country": "Russia"
   },
   {
-    "id": 196,
-    "image": "tnt_ru.png",
+    "id": 198,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_tnt.png",
     "channel_name": "TNT",
     "country": "Russia"
   },
   {
-    "id": 197,
-    "image": "tv_3_ru.png",
-    "channel_name": "TV 3",
-    "country": "Russia"
-  },
-  {
-    "id": 198,
-    "image": "5_kanal_ru.png",
-    "channel_name": "Channel 5",
-    "country": "Russia"
-  },
-  {
     "id": 199,
-    "image": "ren-tv-ru.png",
-    "channel_name": "REN TV",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/%D0%A2V3_logo_2023.svg",
+    "channel_name": "TV-3",
     "country": "Russia"
   },
   {
     "id": 200,
-    "image": "sts-ru.png",
-    "channel_name": "STS",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/5-tv_logo_%282023%29.svg",
+    "channel_name": "5TV",
     "country": "Russia"
   },
   {
     "id": 201,
-    "image": "domashniy_ru.png",
-    "channel_name": "Domashniy",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/df/REN_TV_logo_2017.svg",
+    "channel_name": "REN TV",
     "country": "Russia"
   },
   {
     "id": 202,
-    "image": "yle_tv1_fi.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/86/Logo_%D0%A1%D0%A2%D0%A1_23-10-2017.png",
+    "channel_name": "STS",
+    "country": "Russia"
+  },
+  {
+    "id": 203,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Domashniy_tv_logo.svg",
+    "channel_name": "Domashny",
+    "country": "Russia"
+  },
+  {
+    "id": 204,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Yle_TV1_logo.svg",
     "channel_name": "YLE TV1",
     "country": "Finland"
   },
   {
-    "id": 203,
-    "image": "yle_tv2_fi.png",
+    "id": 205,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Yle_TV2_logo.svg",
     "channel_name": "YLE TV2",
     "country": "Finland"
   },
   {
-    "id": 204,
-    "image": "yle_teema_fi_fem.png",
+    "id": 206,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/Yle_Teema_%26_Fem.svg",
     "channel_name": "YLE Teema & Fem",
     "country": "Finland"
   },
   {
-    "id": 205,
-    "image": "mtv3_fi.png",
+    "id": 207,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f6/MTV3_Logo_2022.svg",
     "channel_name": "MTV3",
     "country": "Finland"
   },
   {
-    "id": 206,
-    "image": "nelonen4_tv.png",
+    "id": 208,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/38/Nelonen_color_RGB.png",
     "channel_name": "Nelonen",
     "country": "Finland"
   },
   {
-    "id": 207,
-    "image": "orf_eins.png",
-    "channel_name": "ORF Eins",
-    "country": "Austria"
-  },
-  {
-    "id": 208,
-    "image": "orf_2_at.png",
-    "channel_name": "ORF 2",
-    "country": "Austria"
-  },
-  {
     "id": 209,
-    "image": "orf_3_at.png",
-    "channel_name": "ORF III",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/ORF_1_2019.svg",
+    "channel_name": "ORF 1",
     "country": "Austria"
   },
   {
     "id": 210,
-    "image": "orf_sport_plus.png",
-    "channel_name": "ORF Sport +",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/ORF2_logo_n.svg",
+    "channel_name": "ORF 2",
     "country": "Austria"
   },
   {
     "id": 211,
-    "image": "atv_at.png",
-    "channel_name": "ATV",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/ORF_III_Logo_Monochrom.svg",
+    "channel_name": "ORF III",
     "country": "Austria"
   },
   {
     "id": 212,
-    "image": "atv2_at.png",
-    "channel_name": "ATV 2",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/00/ORF_Sport_%2B_Logo_2024.svg",
+    "channel_name": "ORF Sport +",
     "country": "Austria"
   },
   {
     "id": 213,
-    "image": "puls_4_at.png",
-    "channel_name": "Puls 4",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/ATV.svg",
+    "channel_name": "ATV",
     "country": "Austria"
   },
   {
     "id": 214,
-    "image": "svt_1.png",
-    "channel_name": "SVT 1",
-    "country": "Sweden"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Logo_ATV2.svg",
+    "channel_name": "ATV2",
+    "country": "Austria"
   },
   {
     "id": 215,
-    "image": "svt_2.png",
-    "channel_name": "SVT 2",
-    "country": "Sweden"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/Puls4.svg",
+    "channel_name": "Puls 4",
+    "country": "Austria"
   },
   {
     "id": 216,
-    "image": "svt_24.png",
-    "channel_name": "SVT 24",
-    "country": "Sweden"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/28/ServusTV_Logo.svg",
+    "channel_name": "ServusTV",
+    "country": "Austria"
   },
   {
     "id": 217,
-    "image": "svt_barnkanalen.png",
-    "channel_name": "Barnkanalen",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/SVT1_logo_2016.svg",
+    "channel_name": "SVT1",
     "country": "Sweden"
   },
   {
     "id": 218,
-    "image": "svt_kunskapskanalen.png",
-    "channel_name": "Kunskapskanalen",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/SVT2_logo_2016.svg",
+    "channel_name": "SVT2",
     "country": "Sweden"
   },
   {
     "id": 219,
-    "image": "tv4.png",
-    "channel_name": "TV 4",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4f/SVT24_logotyp.png",
+    "channel_name": "SVT24",
     "country": "Sweden"
   },
   {
     "id": 220,
-    "image": "sjuan.png",
-    "channel_name": "Sjuan",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/SVT_Barn_logo_2019.svg",
+    "channel_name": "SVT Barn",
     "country": "Sweden"
   },
   {
     "id": 221,
-    "image": "viasat_tv3_se.png",
-    "channel_name": "TV 3",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/Kunskapskanalen_2017.svg",
+    "channel_name": "Kunskapskanalen",
     "country": "Sweden"
   },
   {
     "id": 222,
-    "image": "kanal_5_se.png",
-    "channel_name": "Kanal 5",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/TV4sweden_logo.svg",
+    "channel_name": "TV4",
     "country": "Sweden"
   },
   {
     "id": 223,
-    "image": "ard_das_erste.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Sjuan_2018.svg",
+    "channel_name": "Sjuan",
+    "country": "Sweden"
+  },
+  {
+    "id": 224,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/TV3_Sweden_2009.svg",
+    "channel_name": "TV3",
+    "country": "Sweden"
+  },
+  {
+    "id": 225,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Kanal_5_%26_TV5_Logo_2024.svg",
+    "channel_name": "Kanal 5",
+    "country": "Sweden"
+  },
+  {
+    "id": 226,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Das_Erste_2014.svg",
     "channel_name": "Das Erste",
     "country": "Germany"
   },
   {
-    "id": 224,
-    "image": "zdf_de.png",
+    "id": 227,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/ZDF_logo.svg",
     "channel_name": "ZDF",
     "country": "Germany"
   },
   {
-    "id": 225,
-    "image": "sat1_de.png",
+    "id": 228,
+    "image": "https://upload.wikimedia.org/wikipedia/en/a/a3/SAT.1_logo_2016.png",
     "channel_name": "SAT.1",
     "country": "Germany"
   },
   {
-    "id": 226,
-    "image": "pro_sieben_de.png",
+    "id": 229,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/ProSieben_Logo_2015.svg",
     "channel_name": "ProSieben",
     "country": "Germany"
   },
   {
-    "id": 227,
-    "image": "kabel_eins_de.png",
+    "id": 230,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/Kabel_eins_Logo_2015.svg",
     "channel_name": "Kabel Eins",
     "country": "Germany"
   },
   {
-    "id": 228,
-    "image": "rtl_de.png",
+    "id": 231,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/65/RTL_Logo_2021.svg",
     "channel_name": "RTL",
     "country": "Germany"
   },
   {
-    "id": 229,
-    "image": "rtl2_de.png",
+    "id": 232,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f1/RTLZWEI_Logo_2019.svg",
     "channel_name": "RTL Zwei",
     "country": "Germany"
   },
   {
-    "id": 230,
-    "image": "vox_de.png",
+    "id": 233,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/ab/VOX_Logo_2013.svg",
     "channel_name": "VOX",
     "country": "Germany"
   },
   {
-    "id": 231,
-    "image": "dr1-dk.png",
-    "channel_name": "DR 1",
-    "country": "Denmark"
-  },
-  {
-    "id": 232,
-    "image": "dr2-dk.png",
-    "channel_name": "DR 2",
-    "country": "Denmark"
-  },
-  {
-    "id": 233,
-    "image": "dr3-dk.png",
-    "channel_name": "DR 3",
-    "country": "Denmark"
-  },
-  {
     "id": 234,
-    "image": "dr-k-dk.png",
-    "channel_name": "DR K",
+    "image": "https://upload.wikimedia.org/wikipedia/en/4/44/DR1_logo_2020.svg",
+    "channel_name": "DR1",
     "country": "Denmark"
   },
   {
     "id": 235,
-    "image": "dr-ramasjang-dk.png",
-    "channel_name": "DR Ramasjang",
+    "image": "https://upload.wikimedia.org/wikipedia/en/0/07/DR2_logo_2020.svg",
+    "channel_name": "DR2",
     "country": "Denmark"
   },
   {
     "id": 236,
-    "image": "dr-ultra-dk.png",
-    "channel_name": "DR Ultra",
+    "image": "https://upload.wikimedia.org/wikipedia/en/8/82/DR_Ramasjang_2020.svg",
+    "channel_name": "DR Ramasjang",
     "country": "Denmark"
   },
   {
     "id": 237,
-    "image": "tv2_dk.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/62/TV_2_%282023%29.svg",
     "channel_name": "TV 2",
     "country": "Denmark"
   },
   {
     "id": 238,
-    "image": "viasat_tv3_dk.png",
-    "channel_name": "TV 3",
+    "image": "https://upload.wikimedia.org/wikipedia/en/6/64/TV3_Danmark_logo_2014.png",
+    "channel_name": "TV3",
     "country": "Denmark"
   },
   {
     "id": 239,
-    "image": "kanal_4_dk.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/50/Kanal_4_Logo_2024.svg",
     "channel_name": "Kanal 4",
     "country": "Denmark"
   },
   {
     "id": 240,
-    "image": "kanal_5_dk.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Kanal_5_%26_TV5_Logo_2024.svg",
     "channel_name": "Kanal 5",
     "country": "Denmark"
   },
   {
     "id": 241,
-    "image": "srf_1_ch.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Logo_SRF_1.svg",
     "channel_name": "SRF 1",
     "country": "Switzerland"
   },
   {
     "id": 242,
-    "image": "srf_2_ch.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/42/Logo_SRF_zwei.svg",
     "channel_name": "SRF Zwei",
     "country": "Switzerland"
   },
   {
     "id": 243,
-    "image": "srf_info_ch.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Logo_SRF_info.svg",
     "channel_name": "SRF Info",
     "country": "Switzerland"
   },
   {
     "id": 244,
-    "image": "rts_ch_un.png",
-    "channel_name": "RTS Un",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f7/RTS_1_Logo_2023.svg",
+    "channel_name": "RTS 1",
     "country": "Switzerland"
   },
   {
     "id": 245,
-    "image": "rts_ch_deux.png",
-    "channel_name": "RTS Deux",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5c/RTS_2_Logo_2023.svg",
+    "channel_name": "RTS 2",
     "country": "Switzerland"
   },
   {
     "id": 246,
-    "image": "rsi_la1.png",
-    "channel_name": "RSI La 1",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/fa/RTS_Info_Logo_2023.svg",
+    "channel_name": "RTS Info",
     "country": "Switzerland"
   },
   {
     "id": 247,
-    "image": "rsi_la2.png",
-    "channel_name": "RSI La 2",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/RSI_La_1_2012.svg",
+    "channel_name": "RSI La 1",
     "country": "Switzerland"
   },
   {
     "id": 248,
-    "image": "nrk1.png",
-    "channel_name": "NRK 1",
-    "country": "Norway"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f4/RSI_La_2_2012.svg",
+    "channel_name": "RSI La 2",
+    "country": "Switzerland"
   },
   {
     "id": 249,
-    "image": "nrk2.png",
-    "channel_name": "NRK 2",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/NRK1_Logo_2024.svg",
+    "channel_name": "NRK1",
     "country": "Norway"
   },
   {
     "id": 250,
-    "image": "nrk3.png",
-    "channel_name": "NRK 3",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/NRK2_Logo_2024.svg",
+    "channel_name": "NRK2",
     "country": "Norway"
   },
   {
     "id": 251,
-    "image": "nrk_super_tv.png",
-    "channel_name": "NRK Super",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/NRK3_Logo_2024.svg",
+    "channel_name": "NRK3",
     "country": "Norway"
   },
   {
     "id": 252,
-    "image": "nrk_tegnsprak.png",
-    "channel_name": "NRK Tegnspråk",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/42/NRK_Super_logo_%282022%2C_stacked%29.svg",
+    "channel_name": "NRK Super",
     "country": "Norway"
   },
   {
     "id": 253,
-    "image": "tv2_no.png",
-    "channel_name": "TV 2",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b4/NRK_Tegnspr%C3%A5k_logo.png",
+    "channel_name": "NRK Tegnspråk",
     "country": "Norway"
   },
   {
     "id": 254,
-    "image": "tv_norge.png",
-    "channel_name": "TVNorge",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/53/TV_2_Direkte_%282022-%29.svg",
+    "channel_name": "TV 2 Direkte",
     "country": "Norway"
   },
   {
     "id": 255,
-    "image": "viasat_tv3_no.png",
-    "channel_name": "TV3",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/TVNorge_Logo_2024.svg",
+    "channel_name": "TVNorge",
     "country": "Norway"
   },
   {
     "id": 256,
-    "image": "viasat_tv4_no.png",
-    "channel_name": "Viasat 4",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/TV3_Norway_logo_2016.svg",
+    "channel_name": "TV3",
     "country": "Norway"
   },
   {
     "id": 257,
-    "image": "rai_1.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Rai_1_-_Logo_2016.svg",
     "channel_name": "Rai 1",
     "country": "Italy"
   },
   {
     "id": 258,
-    "image": "rai_2.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Rai_2_-_Logo_2016.svg",
     "channel_name": "Rai 2",
     "country": "Italy"
   },
   {
     "id": 259,
-    "image": "rai_3.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/Rai_3_-_Logo_2016.svg",
     "channel_name": "Rai 3",
     "country": "Italy"
   },
   {
     "id": 260,
-    "image": "rai_4.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Rai_4_-_Logo_2016.svg",
     "channel_name": "Rai 4",
     "country": "Italy"
   },
   {
     "id": 261,
-    "image": "rai_5.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Rai_5_-_Logo_2017.svg",
     "channel_name": "Rai 5",
     "country": "Italy"
   },
   {
     "id": 262,
-    "image": "rai_gulp.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Rai_Gulp_-_Logo_2017.svg",
     "channel_name": "Rai Gulp",
     "country": "Italy"
   },
   {
     "id": 263,
-    "image": "rai_italia.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Rai_Italia_-_Logo_2017.svg",
     "channel_name": "Rai Italia",
     "country": "Italy"
   },
   {
     "id": 264,
-    "image": "rai_movie.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/Rai_Movie_-_Logo_2017.svg",
     "channel_name": "Rai Movie",
     "country": "Italy"
   },
   {
     "id": 265,
-    "image": "rai_news_24.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Rai_News_24_logo_%282022%29.svg",
     "channel_name": "Rai News 24",
     "country": "Italy"
   },
   {
     "id": 266,
-    "image": "rai_premium.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Rai_Premium_-_Logo_2017.svg",
     "channel_name": "Rai Premium",
     "country": "Italy"
   },
   {
     "id": 267,
-    "image": "rai_scuola.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Rai_Scuola_-_Logo_2017.svg",
     "channel_name": "Rai Scuola",
     "country": "Italy"
   },
   {
     "id": 268,
-    "image": "rai_sport.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Rai_Sport_-_Logo_2022.svg",
     "channel_name": "Rai Sport",
     "country": "Italy"
   },
   {
     "id": 269,
-    "image": "rai_storia.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Rai_Storia_-_Logo_2017.svg",
     "channel_name": "Rai Storia",
     "country": "Italy"
   },
   {
     "id": 270,
-    "image": "rai_world_premium.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Rai_World_Premium_-_Logo_2017.svg",
     "channel_name": "Rai World Premium",
     "country": "Italy"
   },
   {
     "id": 271,
-    "image": "rai_yoyo.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/01/Rai_Yoyo_-_Logo_2017.svg",
     "channel_name": "Rai Yoyo",
     "country": "Italy"
   },
   {
     "id": 272,
-    "image": "mediaset_rete4.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Rete_4_-_Logo_2018.svg",
     "channel_name": "Rete 4",
     "country": "Italy"
   },
   {
     "id": 273,
-    "image": "mediaset_canale5.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/02/Canale_5_-_2018_logo.svg",
     "channel_name": "Canale 5",
     "country": "Italy"
   },
   {
     "id": 274,
-    "image": "mediaset_italia1.png",
+    "image": "https://upload.wikimedia.org/wikipedia/en/e/e2/Italia_1.svg",
     "channel_name": "Italia 1",
     "country": "Italy"
   },
   {
     "id": 275,
-    "image": "nove_tv_it.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Nove_-_Logo_2017.svg",
     "channel_name": "Nove",
     "country": "Italy"
   },
   {
     "id": 276,
-    "image": "la_7_it.png",
-    "channel_name": "La 7",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/02/LA7_-_Logo_2011.svg",
+    "channel_name": "La7",
     "country": "Italy"
   },
   {
     "id": 277,
-    "image": "tv_8_it.png",
-    "channel_name": "TV 8",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/TV8_logo.png",
+    "channel_name": "TV8",
     "country": "Italy"
   },
   {
     "id": 278,
-    "image": "ruv_is.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/R%C3%9AV_2019_logo.svg",
     "channel_name": "RÚV",
     "country": "Iceland"
   },
   {
     "id": 279,
-    "image": "ruv_is_2.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/55/R%C3%9AV_2_2019_logo.svg",
     "channel_name": "RÚV 2",
     "country": "Iceland"
   },
   {
     "id": 280,
-    "image": "althingi.png",
-    "channel_name": "Althingi",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/S%C3%BDn2025.svg",
+    "channel_name": "Sýn",
     "country": "Iceland"
   },
   {
     "id": 281,
-    "image": "n4_is.png",
-    "channel_name": "N4",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Sj%C3%B3nvarp_S%C3%ADmans.svg",
+    "channel_name": "Sjónvarp Símans",
     "country": "Iceland"
   },
   {
     "id": 282,
-    "image": "omega_is.png",
-    "channel_name": "Omega",
-    "country": "Iceland"
-  },
-  {
-    "id": 283,
-    "image": "france2-fr.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/France_2_-_logo_2018.svg",
     "channel_name": "France 2",
     "country": "France"
   },
   {
-    "id": 284,
-    "image": "france3-fr.png",
+    "id": 283,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/France_3_-_logo_2018.svg",
     "channel_name": "France 3",
     "country": "France"
   },
   {
-    "id": 285,
-    "image": "france4-fr.png",
+    "id": 284,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/France_4_-_logo_2018.svg",
     "channel_name": "France 4",
     "country": "France"
   },
   {
-    "id": 286,
-    "image": "france5-fr.png",
+    "id": 285,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/France_5_-_logo_2018.svg",
     "channel_name": "France 5",
     "country": "France"
   },
   {
-    "id": 287,
-    "image": "france-o-fr.png",
-    "channel_name": "France Ô",
-    "country": "France"
-  },
-  {
-    "id": 288,
-    "image": "france_info_tv.png",
+    "id": 286,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Franceinfo.svg",
     "channel_name": "France Info",
     "country": "France"
   },
   {
-    "id": 289,
-    "image": "tf1.png",
+    "id": 287,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Logo_TF1_2013.svg",
     "channel_name": "TF1",
     "country": "France"
   },
   {
-    "id": 290,
-    "image": "tfx-fr.png",
+    "id": 288,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/TFX_logo.svg",
     "channel_name": "TFX",
     "country": "France"
   },
   {
-    "id": 291,
-    "image": "m6_fr.png",
+    "id": 289,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Logo_M6_%282020%2C_fond_clair%29.svg",
     "channel_name": "M6",
     "country": "France"
   },
   {
-    "id": 292,
-    "image": "w9_fr.png",
+    "id": 290,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/40/W9_2018.svg",
     "channel_name": "W9",
     "country": "France"
   },
   {
-    "id": 293,
-    "image": "npo_01_nl.png",
+    "id": 291,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/02/NPO_1_logo_2014.svg",
     "channel_name": "NPO 1",
     "country": "Netherlands"
   },
   {
-    "id": 294,
-    "image": "npo_02_nl.png",
+    "id": 292,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f3/NPO_2_logo_2014.svg",
     "channel_name": "NPO 2",
     "country": "Netherlands"
   },
   {
-    "id": 295,
-    "image": "npo_03_nl.png",
+    "id": 293,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/93/NPO_3_logo_2018.svg",
     "channel_name": "NPO 3",
     "country": "Netherlands"
   },
   {
-    "id": 296,
-    "image": "npo-1-extra-nl.png",
+    "id": 294,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1e/NPO_1_Extra_logo_2018.svg",
     "channel_name": "NPO 1 Extra",
     "country": "Netherlands"
   },
   {
+    "id": 295,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/NPO_2_Extra_logo_2018.svg",
+    "channel_name": "NPO 2 Extra",
+    "country": "Netherlands"
+  },
+  {
+    "id": 296,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/62/NPO_Politiek_en_Nieuws_logo.svg",
+    "channel_name": "NPO Politiek en Nieuws",
+    "country": "Netherlands"
+  },
+  {
     "id": 297,
-    "image": "npo_nieuws.png",
-    "channel_name": "NPO Nieuws",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/SBS6_%282023%29.svg",
+    "channel_name": "SBS6",
     "country": "Netherlands"
   },
   {
     "id": 298,
-    "image": "npo_politiek.png",
-    "channel_name": "NPO Politiek",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/ab/SBS9_2018.png",
+    "channel_name": "SBS9",
     "country": "Netherlands"
   },
   {
     "id": 299,
-    "image": "npo_zapp_xtra.png",
-    "channel_name": "NPO Zapp Xtra",
-    "country": "Netherlands"
-  },
-  {
-    "id": 300,
-    "image": "sbs_6_nl.png",
-    "channel_name": "SBS 6",
-    "country": "Netherlands"
-  },
-  {
-    "id": 301,
-    "image": "sbs_9_nl.png",
-    "channel_name": "SBS 9",
-    "country": "Netherlands"
-  },
-  {
-    "id": 302,
-    "image": "rtl4_nl.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d0/RTL4_2023.svg",
     "channel_name": "RTL 4",
     "country": "Netherlands"
   },
   {
-    "id": 303,
-    "image": "rtl5-nl.png",
+    "id": 300,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/07/RTL5_2023.svg",
     "channel_name": "RTL 5",
     "country": "Netherlands"
   },
   {
-    "id": 304,
-    "image": "tve1_es.png",
-    "channel_name": "TVE La 1",
+    "id": 301,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Logo_La_1.svg",
+    "channel_name": "La 1",
     "country": "Spain"
   },
   {
-    "id": 305,
-    "image": "tve2.png",
-    "channel_name": "TVE La 2",
+    "id": 302,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Logo_La_2.svg",
+    "channel_name": "La 2",
     "country": "Spain"
   },
   {
-    "id": 306,
-    "image": "tve_clan.png",
+    "id": 303,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/81/Clan_logo.svg",
     "channel_name": "Clan",
     "country": "Spain"
   },
   {
-    "id": 307,
-    "image": "tve_teledeporte.png",
+    "id": 304,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Teledeporte.svg",
     "channel_name": "Teledeporte",
     "country": "Spain"
   },
   {
-    "id": 308,
-    "image": "tve_canal_24horas.png",
+    "id": 305,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Logo_Canal_24_horas.svg",
     "channel_name": "24 Horas",
     "country": "Spain"
   },
   {
-    "id": 309,
-    "image": "tve_internacional_eu.png",
+    "id": 306,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/Logo_TVE-Internacional.svg",
     "channel_name": "TVE Internacional",
     "country": "Spain"
   },
   {
-    "id": 310,
-    "image": "tve_star_hd_es.png",
-    "channel_name": "Star TVE",
+    "id": 307,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png",
+    "channel_name": "Star TVE HD",
     "country": "Spain"
   },
   {
-    "id": 311,
-    "image": "cuatro_es.png",
+    "id": 308,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Cuatro.svg",
     "channel_name": "Cuatro",
     "country": "Spain"
   },
   {
-    "id": 312,
-    "image": "telecinco.png",
+    "id": 309,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Telecinco_2024_Logo.svg",
     "channel_name": "Telecinco",
     "country": "Spain"
   },
   {
-    "id": 313,
-    "image": "antena3.png",
+    "id": 310,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Logo_Antena_3_2025_%28Naranja%29.svg",
     "channel_name": "Antena 3",
     "country": "Spain"
   },
   {
-    "id": 314,
-    "image": "la_sexta_es.png",
+    "id": 311,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/LaSexta_2024_Logo.svg",
     "channel_name": "La Sexta",
     "country": "Spain"
   },
   {
-    "id": 315,
-    "image": "vrt_een_be.png",
-    "channel_name": "Één",
+    "id": 312,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/65/VRT_1_2023.svg",
+    "channel_name": "VRT 1",
     "country": "Belgium"
   },
   {
-    "id": 316,
-    "image": "vrt_canvas_be.png",
-    "channel_name": "Canvas",
+    "id": 313,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/VRT_Canvas_2023.svg",
+    "channel_name": "VRT Canvas",
     "country": "Belgium"
   },
   {
-    "id": 317,
-    "image": "vrt_ketnet_be.png",
+    "id": 314,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/KETNET-K-2024.svg",
     "channel_name": "Ketnet",
     "country": "Belgium"
   },
   {
-    "id": 318,
-    "image": "rtbf_la_une.png",
+    "id": 315,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/RTBF_La_Une_logo.svg",
     "channel_name": "La Une",
     "country": "Belgium"
   },
   {
-    "id": 319,
-    "image": "rtbf_la_deux.png",
-    "channel_name": "La Deux",
+    "id": 316,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Tipikrtbf.png",
+    "channel_name": "Tipik",
     "country": "Belgium"
   },
   {
-    "id": 320,
-    "image": "rtbf_la_trois.png",
+    "id": 317,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/RTBF_La_Trois_logo.svg",
     "channel_name": "La Trois",
     "country": "Belgium"
   },
   {
-    "id": 321,
-    "image": "vtm_be.png",
+    "id": 318,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/VTM_logo_2024_%28solid_colour%29.svg",
     "channel_name": "VTM",
     "country": "Belgium"
   },
   {
+    "id": 319,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/VTM_2_logo_2024.svg",
+    "channel_name": "VTM 2",
+    "country": "Belgium"
+  },
+  {
+    "id": 320,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Play4_2021.svg",
+    "channel_name": "Play4",
+    "country": "Belgium"
+  },
+  {
+    "id": 321,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/93/Play5_2021.svg",
+    "channel_name": "Play5",
+    "country": "Belgium"
+  },
+  {
     "id": 322,
-    "image": "q2_be.png",
-    "channel_name": "Q2",
-    "country": "Belgium"
-  },
-  {
-    "id": 323,
-    "image": "vier_be.png",
-    "channel_name": "VIER",
-    "country": "Belgium"
-  },
-  {
-    "id": 324,
-    "image": "vijf_tv.png",
-    "channel_name": "VIJF",
-    "country": "Belgium"
-  },
-  {
-    "id": 325,
-    "image": "ab3.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/AB3_logo.svg",
     "channel_name": "AB3",
     "country": "Belgium"
   },
   {
-    "id": 326,
-    "image": "rtl_tvi.png",
+    "id": 323,
+    "image": "https://upload.wikimedia.org/wikipedia/en/b/b1/RTL-TVI_logo_2023.svg",
     "channel_name": "RTL TVI",
     "country": "Belgium"
   },
   {
-    "id": 327,
-    "image": "rtp_1_pt.png",
+    "id": 324,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/RTP1_-_Logo_2016.svg",
     "channel_name": "RTP1",
     "country": "Portugal"
   },
   {
-    "id": 328,
-    "image": "rtp_2_pt.png",
+    "id": 325,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/RTP2_logo_2016.svg",
     "channel_name": "RTP2",
     "country": "Portugal"
   },
   {
-    "id": 329,
-    "image": "rtp_3_pt.png",
+    "id": 326,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/RTP3_logo.svg",
     "channel_name": "RTP3",
     "country": "Portugal"
   },
   {
-    "id": 330,
-    "image": "rtp_memoria.png",
+    "id": 327,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/RtpMemoria_positivo_horiz_RGB.png",
     "channel_name": "RTP Memória",
     "country": "Portugal"
   },
   {
-    "id": 331,
-    "image": "rtp_madeira.png",
+    "id": 328,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/RTP_Madeira_%282017%29.svg",
     "channel_name": "RTP Madeira",
     "country": "Portugal"
   },
   {
-    "id": 332,
-    "image": "rtp_acores.png",
+    "id": 329,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/aa/RTP_A%C3%A7ores_%282016%29.svg",
     "channel_name": "RTP Açores",
     "country": "Portugal"
   },
   {
-    "id": 333,
-    "image": "rtp_africa.png",
+    "id": 330,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/RTP_%C3%81frica_%282016%29.svg",
     "channel_name": "RTP África",
     "country": "Portugal"
   },
   {
-    "id": 334,
-    "image": "rtp_internacional.png",
+    "id": 331,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f7/RTP_Internacional_2016_%28Reduced_Version%29.svg",
     "channel_name": "RTP Internacional",
     "country": "Portugal"
   },
   {
-    "id": 335,
-    "image": "sic_pt.png",
+    "id": 332,
+    "image": "https://upload.wikimedia.org/wikipedia/en/4/4d/Sociedade_Independente_de_Comunica%C3%A7%C3%A3o_Logo_2018.png",
     "channel_name": "SIC",
     "country": "Portugal"
   },
   {
-    "id": 336,
-    "image": "tvi_pt.png",
+    "id": 333,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Log%C3%B3tipo_TVI.png",
     "channel_name": "TVI",
     "country": "Portugal"
   },
   {
-    "id": 337,
-    "image": "rtl_tele_letzebuerg.png",
-    "channel_name": "RTL",
+    "id": 334,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/RTL_Luxembourg_2023.svg",
+    "channel_name": "RTL Lëtzebuerg",
     "country": "Luxembourg"
   },
   {
-    "id": 338,
-    "image": "rtl2_tele_letzeburg.png",
-    "channel_name": "2. RTL",
+    "id": 335,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/RTL_Zwee_2023.svg",
+    "channel_name": "RTL Zwee",
     "country": "Luxembourg"
   },
   {
-    "id": 339,
-    "image": "bbc_one.png",
+    "id": 336,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/BBC_One_logo_2021.svg",
     "channel_name": "BBC One",
     "country": "United Kingdom"
   },
   {
-    "id": 340,
-    "image": "bbc_two_uk.png",
+    "id": 337,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/BBC_Two_logo_2021.svg",
     "channel_name": "BBC Two",
     "country": "United Kingdom"
   },
   {
-    "id": 341,
-    "image": "bbc_four_uk.png",
+    "id": 338,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/76/BBC_Three_2022.svg",
+    "channel_name": "BBC Three",
+    "country": "United Kingdom"
+  },
+  {
+    "id": 339,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/BBC_Four_logo_2021.svg",
     "channel_name": "BBC Four",
     "country": "United Kingdom"
   },
   {
-    "id": 342,
-    "image": "bbc_news.png",
+    "id": 340,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/BBC_News_2022_%28Alt%29.svg",
     "channel_name": "BBC News",
     "country": "United Kingdom"
   },
   {
-    "id": 343,
-    "image": "bbc_parliament.png",
+    "id": 341,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/BBC_Parliament_2022.svg",
     "channel_name": "BBC Parliament",
     "country": "United Kingdom"
   },
   {
-    "id": 344,
-    "image": "bbc_cbbc.png",
+    "id": 342,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/CBBC_%282023%29.svg",
     "channel_name": "CBBC",
     "country": "United Kingdom"
   },
   {
-    "id": 345,
-    "image": "bbc_cbeebies_uk.png",
+    "id": 343,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b5/CBeebies_2023.svg",
     "channel_name": "CBeebies",
     "country": "United Kingdom"
   },
   {
+    "id": 344,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/BBC_Alba_2021.svg",
+    "channel_name": "BBC Alba",
+    "country": "United Kingdom"
+  },
+  {
+    "id": 345,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/66/BBC_Scotland_2021_%28channel%29.svg",
+    "channel_name": "BBC Scotland",
+    "country": "United Kingdom"
+  },
+  {
     "id": 346,
-    "image": "s4c_uk.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/S4C_logo_2014.svg",
     "channel_name": "S4C",
     "country": "United Kingdom"
   },
   {
     "id": 347,
-    "image": "bbc_alba.png",
-    "channel_name": "BBC Alba",
+    "image": "https://upload.wikimedia.org/wikipedia/en/1/1f/ITV1_logo_%282022%29.svg",
+    "channel_name": "ITV1",
     "country": "United Kingdom"
   },
   {
     "id": 348,
-    "image": "bbc_world_news_uk.png",
-    "channel_name": "BBC World News",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/ITV2_logo_2022.svg",
+    "channel_name": "ITV2",
     "country": "United Kingdom"
   },
   {
     "id": 349,
-    "image": "itv_uk.png",
-    "channel_name": "ITV",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/ITV3_logo_2022.svg",
+    "channel_name": "ITV3",
     "country": "United Kingdom"
   },
   {
     "id": 350,
-    "image": "itv_uk_2.png",
-    "channel_name": "ITV 2",
+    "image": "https://upload.wikimedia.org/wikipedia/en/5/57/ITV4_logo_%282022%29.svg",
+    "channel_name": "ITV4",
     "country": "United Kingdom"
   },
   {
     "id": 351,
-    "image": "itv_uk_3.png",
-    "channel_name": "ITV 3",
-    "country": "United Kingdom"
-  },
-  {
-    "id": 352,
-    "image": "itv_uk_4.png",
-    "channel_name": "ITV 4",
-    "country": "United Kingdom"
-  },
-  {
-    "id": 353,
-    "image": "channel_4_uk.png",
+    "image": "https://upload.wikimedia.org/wikipedia/en/9/9b/Channel_4_%28On_Demand%29_2023.svg",
     "channel_name": "Channel 4",
     "country": "United Kingdom"
   },
   {
-    "id": 354,
-    "image": "channel-5-uk.png",
-    "channel_name": "Channel 5",
+    "id": 352,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Channel_5_2025.svg",
+    "channel_name": "5",
     "country": "United Kingdom"
   },
   {
-    "id": 355,
-    "image": "rte_one.png",
+    "id": 353,
+    "image": "https://upload.wikimedia.org/wikipedia/en/e/e4/RT%C3%89_One_2014.svg",
     "channel_name": "RTÉ One",
     "country": "Republic of Ireland"
   },
   {
-    "id": 356,
-    "image": "rte_2_ie.png",
+    "id": 354,
+    "image": "https://upload.wikimedia.org/wikipedia/en/1/11/RT%C3%892_logo.svg",
     "channel_name": "RTÉ 2",
     "country": "Republic of Ireland"
   },
   {
+    "id": 355,
+    "image": "https://upload.wikimedia.org/wikipedia/en/7/78/Updated_RT%C3%89_News_and_Current_Affairs_Logo.png",
+    "channel_name": "RTÉ News",
+    "country": "Republic of Ireland"
+  },
+  {
+    "id": 356,
+    "image": "https://upload.wikimedia.org/wikipedia/en/f/fa/RT%C3%89jr_logo.png",
+    "channel_name": "RTÉJr",
+    "country": "Republic of Ireland"
+  },
+  {
     "id": 357,
-    "image": "rte_news_now.png",
-    "channel_name": "RTÉ News Now",
-    "country": "Republic of Ireland"
-  },
-  {
-    "id": 358,
-    "image": "rte_jr_tv.png",
-    "channel_name": "RTÉ Jr",
-    "country": "Republic of Ireland"
-  },
-  {
-    "id": 359,
-    "image": "tg4.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/TG4_logo.svg",
     "channel_name": "TG4",
     "country": "Republic of Ireland"
   },
   {
+    "id": 358,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Cula4_Purple_2022_%281%29.svg",
+    "channel_name": "Cúla4",
+    "country": "Republic of Ireland"
+  },
+  {
+    "id": 359,
+    "image": "https://upload.wikimedia.org/wikipedia/en/4/4a/Virgin_Media_One_logo_2018.svg",
+    "channel_name": "Virgin Media One",
+    "country": "Republic of Ireland"
+  },
+  {
     "id": 360,
-    "image": "tv3_ie.png",
-    "channel_name": "TV3",
+    "image": "https://upload.wikimedia.org/wikipedia/en/c/c5/Virgin_Media_Two_logo_2018.svg",
+    "channel_name": "Virgin Media Two",
+    "country": "Republic of Ireland"
+  },
+  {
+    "id": 361,
+    "image": "https://upload.wikimedia.org/wikipedia/en/2/2f/Virgin_Media_Three_logo_2018.svg",
+    "channel_name": "Virgin Media Three",
+    "country": "Republic of Ireland"
+  },
+  {
+    "id": 362,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/Virgin_Media_Four_logo.svg",
+    "channel_name": "Virgin Media Four",
     "country": "Republic of Ireland"
   }
 ]

@@ -6,7 +6,6 @@
     <meta name="keywords" content="TV,news,stations,website">
     <meta name="author" content="Salamon Andor">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta http-equiv="refresh" content="30">
     <title>TV News</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     <link rel="stylesheet" href="css/index.css">
@@ -36,12 +35,12 @@
     <div class="table-responsive">
         <table class="table">
             <thead>
-            <tr>
-                <th>#</th>
-                <th>Image</th>
-                <th>Name</th>
-                <th>Country</th>
-            </tr>
+                <tr>
+                    <th>#</th>
+                    <th>Image</th>
+                    <th>Name</th>
+                    <th>Country</th>
+                </tr>
             </thead>
         </table>
     </div>
@@ -58,11 +57,11 @@
     $.getJSON('channels.json', function (data) {
         var items = [];
         $.each(data, function (key, val) {
-            items.push('<tr>');
-            items.push('<td id="'+key+'">'+val.id+'</td>');
-            items.push('<td id="'+key+'"><img src="images/'+val.image+'" alt="Image" class="tv_img img-fluid"></td>');
-            items.push('<td id="'+key+'">'+val.channel_name+'</td>');
-            items.push('<td id="'+key+'">'+val.country+'</td>');
+            items.push('<tr id="'+key+'">');
+            items.push('<td>'+val.id+'</td>');
+            items.push('<td><img id="img'+key+'" src="'+val.image+'" alt="Image" class="tv_img img-fluid"></td>');
+            items.push('<td>'+val.channel_name+'</td>');
+            items.push('<td>'+val.country+'</td>');
             items.push('</tr>');
         });
         $('<tbody>', {html: items.join("")}).appendTo("table");
