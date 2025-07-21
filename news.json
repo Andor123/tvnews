@@ -158,5 +158,37 @@
   {
     "id": 40,
     "news": "Television in the Republic of Ireland"
+  },
+  {
+    "id": 41,
+    "news": "Television in Andorra"
+  },
+  {
+    "id": 42,
+    "news": "Television in Monaco"
+  },
+  {
+    "id": 43,
+    "news": "Television in Liechtenstein"
+  },
+  {
+    "id": 44,
+    "news": "Television in San Marino"
+  },
+  {
+    "id": 45,
+    "news": "Television in Malta"
+  },
+  {
+    "id": 46,
+    "news": "Television in the Vatican"
+  },
+  {
+    "id": 47,
+    "news": "Television in Kazakhstan"
+  },
+  {
+    "id": 48,
+    "news": "Television in Georgia"
   }
 ]
