@@ -8,13 +8,12 @@
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <title>TV News</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-    <link rel="stylesheet" href="css/index.css">
-    <link rel="stylesheet" href="https://pagination.js.org/dist/2.1.4/pagination.css"/>
+    <link rel="stylesheet" href="../css/index.css">
 </head>
 <body>
 <header>
     <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="nav">
-        <a class="navbar-brand" href="index.html">TV NEWS</a>
+        <a class="navbar-brand" href="../index.html">TV NEWS</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar"
                 aria-controls="navbar" aria-expanded="false" aria-label="Toggle Navigation">
             <span class="navbar-toggler-icon"></span>
@@ -22,18 +21,35 @@
         <div class="collapse navbar-collapse" id="navbar">
             <ul class="navbar-nav mr-auto">
                 <li class="navbar-item active">
-                    <a class="nav-link" href="news.html">Latest News</a>
+                    <a class="nav-link" href="../news.html">Latest News</a>
                 </li>
                 <li class="navbar-item">
-                    <a class="nav-link" href="channels.html">TV Channels</a>
+                    <a class="nav-link" href="../channels.html">TV Channels</a>
                 </li>
             </ul>
         </div>
     </nav>
 </header>
 <section class="container-fluid text-center" id="section">
-    <h1 class="h1">Latest News</h1>
-    <div id="list"><div class="wrapper"></div></div>
+    <h1 class="h1">Television in Kyrgyzstan</h1>
+    <p class="lead">Source: <em>Wikipedia</em></p>
+    <p class="lead">Television in Kyrgyzstan was introduced in 1958, when Kyrgyzstan was still known 
+        as the Kirghiz SSR. KTR launched that year and broadcast in Russian language.</p>
+    <h2 class="h2">History</h2>
+    <p class="lead">The Kyrgyz SSR started its own television broadcasts in December 1958, 
+        after the completion of construction for a television twoer and studio 
+        at the Drezhensky street in Frunze (the current Bishkek). 
+        Construction work on the 196 meter tower began in 1956 and after its conclusion it became 
+        one of the tallest buildings of the city. In its initial phase, Kyrgyz Television broadcast 
+        four hours a week. The emergence and development of television in the Kyrgyz SSR was facilitated 
+        by television directors J. Moldobaev, D. Varivada, T. Uraliev, editors Sh Smatov, D. Abramova, 
+        A. Cheremushkina, M. Ronkin, camera operators G. Kim, A. .Kim, announcers S. Zhunushalieva, 
+        T. Bakieva (Dzhamanbaeva), L. Tulmenko, R. Ryskeldinova and G. Subbotin.</p>
+    <p class="lead">The first president of the Radio and Television Committee, Rabiya Menseyitova, 
+        in one of the internal documents in 1960, appointed the lack of qualified personnel for 
+        television broadcasts and the lack of feedback from viewers. A key component of broadcasts 
+        in the 1960s was the topic of agriculture. Development of the topic was facilitated by 
+        the creation of a separate team led by K. Chukuldukov.</p>
 </section>
 <footer class="footer">
     <div class="container-fluid text-center">
@@ -43,21 +59,6 @@
 <script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
-<script src="https://pagination.js.org/dist/2.1.4/pagination.min.js"></script>
-<script>
-    $.getJSON('news.json', function (data) {
-        $('#list').pagination({
-            dataSource: data,
-            pageSize: 20,
-            callback: function (content, pagination) {
-                var wrapper = $('#list .wrapper').empty();
-                $.each(content, function (key, val) {
-                    $('#list .wrapper').append('<a class="a" id="'+key+'" href="news/'+val.id+'.html">'+val.news+'</a><br>');
-                });
-            }
-        });
-    });
-</script>
 <script>
     let today = new Date();
     document.getElementById("date").innerHTML = "&copy; " + today.getFullYear() + ", Andor Salamon";

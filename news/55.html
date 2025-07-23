@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="This is a website dedicated to TV stations.">
+    <meta name="keywords" content="TV,news,stations,website">
+    <meta name="author" content="Salamon Andor">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>TV News</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="../css/index.css">
+</head>
+<body>
+<header>
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="nav">
+        <a class="navbar-brand" href="../index.html">TV NEWS</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar"
+                aria-controls="navbar" aria-expanded="false" aria-label="Toggle Navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbar">
+            <ul class="navbar-nav mr-auto">
+                <li class="navbar-item active">
+                    <a class="nav-link" href="../news.html">Latest News</a>
+                </li>
+                <li class="navbar-item">
+                    <a class="nav-link" href="../channels.html">TV Channels</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<section class="container-fluid text-center" id="section">
+    <h1 class="h1">Television in Syria</h1>
+    <p class="lead">Source: <em>Wikipedia</em></p>
+    <p class="lead">Television in Syria was introduced in 1960, with the establishment of Channel 1 
+        when Syria and Egypt (which adopted television that same year) were part of the United Arab Republic. 
+        Syrian channels are mostly owned and controlled by the Syrian General Organization of Radio and TV (ORTAS) 
+        which is connected to the Ministry of Information. It has 4,800 staff; both government employees and freelancers.</p>
+    <h2 class="h2">History</h2>
+    <p class="lead">Prior to 1976, all television broadcasts were aired in black and white. 
+        In 1985 a second channel was established and in 1995 Syrian television rented a channel 
+        on Arabsat and it started broadcasting eight hours daily via satellite in 1996.</p>
+    <p class="lead">Since the start of the Syrian Civil War in 2011, the state has been engaging in a "media war" 
+        to combat the criticisms broadcast from other popular media outlets viewed in the Arab World and internationally, 
+        such as Al Arabiya and Al Jazeera. In Ba'athist Syria television coverage championed the government 
+        against Syrian opposition islamist rebel forces such as Al-Nusra Front, Free Syrian Army and the Islamic Front. 
+        According to BBC Arabic, it also tended to omit or downplay reports of civilian casualties in 
+        its coverage of confrontations with what the Assadist government labeled as terrorist groups. 
+        The Arab League officially asked the satellite operators Arabsat and Nilesat to stop broadcasting 
+        Syrian media in June 2012. On April 27, 2013, Al Jazeera Media Network announced that it was suspending 
+        indefinitely its activities throughout Syria because of alleged intimidation and threats against its staff.</p>
+    <p class="lead">The collapse of Ba'athist and Assad family rule in late 2024 brought challenges 
+        to the media landscape in Syria as it is unclear whether the 
+        new Islamist-led Syrian government would relax censorship and allow more press freedom.</p>
+</section>
+<footer class="footer">
+    <div class="container-fluid text-center">
+        <span class="text-muted" id="date"></span>
+    </div>
+</footer>
+<script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script>
+    let today = new Date();
+    document.getElementById("date").innerHTML = "&copy; " + today.getFullYear() + ", Andor Salamon";
+</script>
+</body>
+</html>

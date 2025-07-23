@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="This is a website dedicated to TV stations.">
+    <meta name="keywords" content="TV,news,stations,website">
+    <meta name="author" content="Salamon Andor">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>TV News</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="../css/index.css">
+</head>
+<body>
+<header>
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="nav">
+        <a class="navbar-brand" href="../index.html">TV NEWS</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar"
+                aria-controls="navbar" aria-expanded="false" aria-label="Toggle Navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbar">
+            <ul class="navbar-nav mr-auto">
+                <li class="navbar-item active">
+                    <a class="nav-link" href="../news.html">Latest News</a>
+                </li>
+                <li class="navbar-item">
+                    <a class="nav-link" href="../channels.html">TV Channels</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<section class="container-fluid text-center" id="section">
+    <h1 class="h1">Television in Lebanon</h1>
+    <p class="lead">Source: <em>Wikipedia</em></p>
+    <p class="lead">Television in Lebanon arose as a private initiative and not a state-institution. 
+        Lebanon was the first country in the Middle East & the Arab world to have 
+        indigenous television broadcasting. Various Arab televisions emulated the Lebanese model.</p>
+    <p class="lead">There are two significant television platforms in Lebanon: 
+        analogue terrestrial (14% of households) and free satellite (83% of households). 
+        There is also a relatively high penetration of cable television, 
+        but because of the high prevalence of cable theft the official penetration rate is low, 
+        at less than 5%. More than 90% of Lebanese households have access to satellite television.</p>
+    <h2 class="h2">History</h2>
+    <p class="lead">While television in the Arab world was a government monopoly, 
+        Lebanon was an exception. In 1956, the Lebanese government granted broadcast licenses to two private companies, 
+        La Compagnie Libanaise de Télévision (CLT) and Compagnie de Télévision du Liban et du Proche-Orient (Télé-Orient). 
+        CLT began broadcasting on May 28, 1959, making it the first commercial television station in the Arabic-speaking world. 
+        Soon after Télé-Orient, with financing from the American Broadcasting Company, began broadcasting. 
+        CLT, which was licensed to Alex Aridi and Wissam Izzedine, operated two VHF channels, Canal 7 and Canal 9. 
+        Canal 9 was a French-language channel. After the Egyptian Revolution of 1952, 
+        media production migrated from Cairo to Beirut; that helped fuel television production in Lebanon.</p>
+    <p class="lead">In 1967, CLT became the third television station in the world after 
+        the Soviet Union and France to broadcast in color, utilizing the French SECAM technology. 
+        Export of taped programming to other Arab countries continued and was profitable during this decade. 
+        Both CLT and Tele Orient sold locally produced programs to television institutions in the Arab world.</p>
+    <h2 class="h2">Television stations and networks</h2>
+    <ul class="list-group">
+        <li class="list-group-item">Télé Liban</li>
+        <li class="list-group-item">LBC International</li>
+        <li class="list-group-item">Télé Lumière</li>
+        <li class="list-group-item">Murr Television (MTV)</li>
+        <li class="list-group-item">Orange TV (OTV)</li>
+        <li class="list-group-item">Future Television</li>
+        <li class="list-group-item">Al Jadeed</li>
+        <li class="list-group-item">National Broadcasting Network</li>
+        <li class="list-group-item">Al-Manar</li>
+    </ul>
+</section>
+<footer class="footer">
+    <div class="container-fluid text-center">
+        <span class="text-muted" id="date"></span>
+    </div>
+</footer>
+<script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script>
+    let today = new Date();
+    document.getElementById("date").innerHTML = "&copy; " + today.getFullYear() + ", Andor Salamon";
+</script>
+</body>
+</html>

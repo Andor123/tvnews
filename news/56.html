@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="This is a website dedicated to TV stations.">
+    <meta name="keywords" content="TV,news,stations,website">
+    <meta name="author" content="Salamon Andor">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>TV News</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="../css/index.css">
+</head>
+<body>
+<header>
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="nav">
+        <a class="navbar-brand" href="../index.html">TV NEWS</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar"
+                aria-controls="navbar" aria-expanded="false" aria-label="Toggle Navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbar">
+            <ul class="navbar-nav mr-auto">
+                <li class="navbar-item active">
+                    <a class="nav-link" href="../news.html">Latest News</a>
+                </li>
+                <li class="navbar-item">
+                    <a class="nav-link" href="../channels.html">TV Channels</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<section class="container-fluid text-center" id="section">
+    <h1 class="h1">Television in Turkmenistan</h1>
+    <p class="lead">Source: <em>Wikipedia</em></p>
+    <p class="lead">In Turkmenistan, television has been operating for over 50 years 
+        and is subject to vigorous state censorship. Notorious for a totalitarian control on media, 
+        Turkmenistan has consistently occupied one among the last three spots of 
+        the annual Press Freedom Index since its inception in 2006.</p>
+    <p class="lead">There are 8 television channels — Altyn Asyr, Yashlyk (Yaşlyk), 
+        Miras, The Turkmenistan TV Channel, Türkmen Owazy, Ashgabat TV, Arkadag TV and Turkmenistan Sport. 
+        All of them used to be under the aegis of Ministry of Culture and Broadcasting of Turkmenistan, 
+        before being subsumed under the jurisdiction of the State Committee of Turkmenistan on 
+        TV, Radio and Film on 17 October 2011. The channels broadcast from Yamal 201, before 
+        shifting to their indigenous satellite TürkmenÄlem 52oE.</p>
+    <h2 class="h2">History</h2>
+    <p class="lead">The first television broadcast in Turkmenistan was held on 7 November 1959 
+        when the Ashgabat television center conducted its first test broadcasts, mostly movies. 
+        The center would only start airing a regular service upon completion of its facilities.</p>
+    <p class="lead">The Turkmen government took over the extant television network from the former Turkmen SSR. 
+        The state company was renamed TMT (after the initials in Turkmen for Turkmenistan National Television). 
+        Russophone viewers frequently nicknamed the company as "your dead TV" (твой мертвый телевизор).</p>
+    <h2 class="h2">Cable and satellite television</h2>
+    <p class="lead">A limited number of foreign news channels (among them Euronews, France 24 and BBC News) 
+        are available on cable. A 2024 AFP report to Turkmenistan reveals that cable television operators 
+        are widely used as means of escape from the "boring" nature of state TV. 
+        Audience is minimal due to low proficiency of the English language. 
+        The Turkmen state controls information and receives income from subscriptions. 
+        Starting in 2014, the state started IPTV alternatives. 
+        Subscriptions in 2018 cost 10 manats (US$2.80 at official rate, comparable to US $0.50 at the black market rate). 
+        Russian and Turkish networks are also available.</p>
+</section>
+<footer class="footer">
+    <div class="container-fluid text-center">
+        <span class="text-muted" id="date"></span>
+    </div>
+</footer>
+<script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script>
+    let today = new Date();
+    document.getElementById("date").innerHTML = "&copy; " + today.getFullYear() + ", Andor Salamon";
+</script>
+</body>
+</html>

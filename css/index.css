@@ -34,10 +34,10 @@
 img#img77.tv_img,
 img#img142.tv_img,
 img#img146.tv_img,
-img#img324.tv_img,
-img#img389.tv_img,
-img#img391.tv_img,
-img#img421.tv_img {
+img#img399.tv_img,
+img#img422.tv_img,
+img#img429.tv_img,
+img#img440.tv_img {
     background: gray;
 }
 
@@ -49,4 +49,12 @@ img#img421.tv_img {
 .a:hover {
     color: black;
     text-decoration: none;
+}
+
+#list .wrapper {
+    margin-bottom: 20px;
+}
+
+.paginationjs {
+    display: inline-block;
 }

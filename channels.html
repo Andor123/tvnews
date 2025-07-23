@@ -9,6 +9,7 @@
     <title>TV News</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     <link rel="stylesheet" href="css/index.css">
+    <link rel="stylesheet" href="https://pagination.js.org/dist/2.1.4/pagination.css"/>
 </head>
 <body>
 <header>
@@ -32,7 +33,7 @@
 </header>
 <section class="container-fluid text-center" id="section">
     <h1 class="h1">TV Channels</h1>
-    <div class="table-responsive">
+    <div id="table" class="table-responsive">
         <table class="table">
             <thead>
                 <tr>
@@ -42,6 +43,7 @@
                     <th>Country</th>
                 </tr>
             </thead>
+            <tbody class="wrapper"></tbody>
         </table>
     </div>
 </section>
@@ -53,18 +55,21 @@
 <script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script src="https://pagination.js.org/dist/2.1.4/pagination.min.js"></script>
 <script>
     $.getJSON('channels.json', function (data) {
-        var items = [];
-        $.each(data, function (key, val) {
-            items.push('<tr id="'+key+'">');
-            items.push('<td>'+val.id+'</td>');
-            items.push('<td><img id="img'+key+'" src="'+val.image+'" alt="Image" class="tv_img img-fluid"></td>');
-            items.push('<td>'+val.channel_name+'</td>');
-            items.push('<td>'+val.country+'</td>');
-            items.push('</tr>');
+        $('#table').pagination({
+            dataSource: data,
+            pageSize: 100,
+            callback: function (content, pagination) {
+                var wrapper = $('#table .wrapper').empty();
+                $.each(content, function (key, val) {
+                    $('#table .wrapper').append(
+                        '<tr id="'+key+'"><td>'+val.id+'</td><td><img id="img'+val.id+'" src="'+val.image+'" alt="Image" class="tv_img img-fluid"></td><td>'+val.channel_name+'</td><td>'+val.country+'</td></tr>'
+                    );
+                });
+            }
         });
-        $('<tbody>', {html: items.join("")}).appendTo("table");
     });
 </script>
 <script>
