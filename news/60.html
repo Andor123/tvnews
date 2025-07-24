@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="This is a website dedicated to TV stations.">
+    <meta name="keywords" content="TV,news,stations,website">
+    <meta name="author" content="Salamon Andor">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>TV News</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="../css/index.css">
+</head>
+<body>
+<header>
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="nav">
+        <a class="navbar-brand" href="../index.html">TV NEWS</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar"
+                aria-controls="navbar" aria-expanded="false" aria-label="Toggle Navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbar">
+            <ul class="navbar-nav mr-auto">
+                <li class="navbar-item active">
+                    <a class="nav-link" href="../news.html">Latest News</a>
+                </li>
+                <li class="navbar-item">
+                    <a class="nav-link" href="../channels.html">TV Channels</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<section class="container-fluid text-center" id="section">
+    <h1 class="h1">Television in Iran</h1>
+    <p class="lead">Source: <em>Wikipedia</em></p>
+    <p class="lead">Television was first introduced to Iran in 1958, 
+        as a privately-owned and commercially-operated enterprise, 
+        before being nationalised, remaining a state-controlled monopoly, 
+        first of National Iranian Radio and Television, and following the Iranian Revolution in 1979, 
+        of Islamic Republic of Iran Broadcasting. Television, or more specifically IRIB, 
+        is nicknamed "glass wool" by locals, because of the appearance of clerics with 
+        long beards comparable to sheep wool, appearing behind the "glass", the television set.</p>
+    <h2 class="h2">History</h2>
+    <p class="lead">On October 3, 1958, Television Iran (TVI) was established, broadcasting from Tehran. 
+        A second station, based in Abadan in the south of the country, was established in 1960. 
+        Its programming included quiz shows and American programmes dubbed into Persian, 
+        and appealed to an unsophisticated audience.</p>
+    <p class="lead">Habib Sabet, a Baháʼí who was one of Iran's major industrialists, was the founder of the first television station. 
+        The station manager was an American, A. Vance Hallack, who had previously operated the Baghdad Television Station in Iraq. 
+        Before coming to the Middle East, Hallack had managed NBC's colour division.</p>
+    <p class="lead">After the 1979 revolution, NIRT was renamed as
+         صدا و سيمای جمهوری اسلامی ايران Seda va Sima-ye Jomhouri-e Eslami-ye Iran ("Voice and Vision of the Islamic Republic of Iran"), 
+         known in English as Islamic Republic of Iran Broadcasting (IRIB), and under the new Constitution of the Islamic Republic,
+          radio and television were to be "aligned with the course of perfection of the Islamic Revolution and served 
+          the promotion of Islamic culture, and to this end benefit from the healthy collision of different ideas and strictly 
+          avoid spreading and propagating destructive and anti-Islamic tenets". A notable censorship episode happened in May 1995, 
+          when one of its channels cut the feature film Running 70 minutes in with a black screen. 
+          The broadcaster accused the censorship on "technical problems", but the real reason, 
+          according to an observation made by the BBC, was the display of athletes wearing shorts and sleeveless tops.</p>
+    <p class="lead">In 1998, Iran changed from using SECAM to the PAL system 
+        developed in (Germany), and also used in the United Kingdom.</p>
+</section>
+<footer class="footer">
+    <div class="container-fluid text-center">
+        <span class="text-muted" id="date"></span>
+    </div>
+</footer>
+<script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script>
+    let today = new Date();
+    document.getElementById("date").innerHTML = "&copy; " + today.getFullYear() + ", Andor Salamon";
+</script>
+</body>
+</html>

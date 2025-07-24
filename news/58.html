@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="This is a website dedicated to TV stations.">
+    <meta name="keywords" content="TV,news,stations,website">
+    <meta name="author" content="Salamon Andor">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>TV News</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="../css/index.css">
+</head>
+<body>
+<header>
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="nav">
+        <a class="navbar-brand" href="../index.html">TV NEWS</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar"
+                aria-controls="navbar" aria-expanded="false" aria-label="Toggle Navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbar">
+            <ul class="navbar-nav mr-auto">
+                <li class="navbar-item active">
+                    <a class="nav-link" href="../news.html">Latest News</a>
+                </li>
+                <li class="navbar-item">
+                    <a class="nav-link" href="../channels.html">TV Channels</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<section class="container-fluid text-center" id="section">
+    <h1 class="h1">Television in Tajikistan</h1>
+    <p class="lead">Source: <em>Wikipedia</em></p>
+    <p class="lead">Television in Tajikistan began in the late 1950s, 
+        when the Tajik Soviet Socialist Republic still existed as constituent republic of the Soviet Union. 
+        The television system of Tajikistan, like other countries of the former USSR, is done using SECAM standard. 
+        In 1932, the Committee for Radiofication and Broadcasting under the 
+        Council of People's Commissars of the Tajik SSR was created, 
+        changing its name few times and known since 1978 as the 
+        State Committee of the Tajik SSR on Television and Radio Broadcasting, 
+        which launched the Tajik Radio station.</p>
+    <h2 class="h2">History</h2>
+    <p class="lead">The building of the Dushanbe television center was built on the site 
+        of the former botanical garden on Kuibyshev Street (now Bekhzod, 7 "a") on an area of 4 hectares. 
+        The first and most famous announcers of Tajik television 
+        are Rafoat Abdusalomova, Alexandra Leonova and Georgiy Mazurovsky.</p>
+    <p class="lead">The broadcasting of Stalinabad Television began on 3rd of October 1959 
+        with announcer who began the first issue of "Akhbor" in the Tajik language announcing: 
+        "Asallomu aleikum, dear viewers! The Stalinabad television studio begins its first broadcasts!".</p>
+    <p class="lead">In 1996, the State Television and Radio Broadcasting Service of the Republic of Tajikistan 
+        was divided into Tajik Television and Tajik Radio. 
+        On September 3, 2005, instead of Shabakai 2, the TV channel Safina was launched, 
+        later transferred to a separate state institution, in 2006 the state television company TV Bahoriston was created. 
+        In 2008, the information and public television channel Jahonnamo began broadcasting, 
+        Sughd, Kulyab, Khatlon and Gorno-Badakhshan television were transferred to separate frequencies. 
+        Since March 1, 2016, two new television channels began broadcasting - Varzish TV and Sinamo, 
+        in early 2017 the Football TV channel, and in November of the same year the Shakhnavoz TV channel began broadcasting.</p>
+</section>
+<footer class="footer">
+    <div class="container-fluid text-center">
+        <span class="text-muted" id="date"></span>
+    </div>
+</footer>
+<script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script>
+    let today = new Date();
+    document.getElementById("date").innerHTML = "&copy; " + today.getFullYear() + ", Andor Salamon";
+</script>
+</body>
+</html>

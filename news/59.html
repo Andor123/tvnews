@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="This is a website dedicated to TV stations.">
+    <meta name="keywords" content="TV,news,stations,website">
+    <meta name="author" content="Salamon Andor">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>TV News</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="../css/index.css">
+</head>
+<body>
+<header>
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="nav">
+        <a class="navbar-brand" href="../index.html">TV NEWS</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar"
+                aria-controls="navbar" aria-expanded="false" aria-label="Toggle Navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbar">
+            <ul class="navbar-nav mr-auto">
+                <li class="navbar-item active">
+                    <a class="nav-link" href="../news.html">Latest News</a>
+                </li>
+                <li class="navbar-item">
+                    <a class="nav-link" href="../channels.html">TV Channels</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<section class="container-fluid text-center" id="section">
+    <h1 class="h1">Television in Iraq</h1>
+    <p class="lead">Source: <em>Wikipedia</em></p>
+    <p class="lead">Iraq was home to the first television station in the Middle East, 
+        which began during the 1950s. As part of a plan to help Iraq modernize, 
+        British telecommunications company Pye Limited built and commissioned a television broadcast station in the capital city of Baghdad. 
+        Following the 2003 US-led invasion of Iraq, the Iraqi state media collapsed. In June 2004, 
+        a Communications and Media Commission was set up to approve and grant license for all the country's media. 
+        By 2011, Iraq was the headquarters of 49 free-to-air satellite channels, one of the highest numbers in the region. 
+        Until 2003, satellite dishes were banned in Iraq, and there was a limited number of national terrestrial stations. 
+        After 2003, the sale of satellite dishes surged, and free-to-air channels entered the market. 
+        There are 17 terrestrial channels, of which one is funded by the US government through the U.S. Agency for Global Media (Alhurra-Iraq), 
+        and seven are owned by the state broadcaster Iraqi Media Network. 
+        In March 2011, Al Jazeera was granted rights to resume operations after being banned in 2004. 
+        Plans were established to set up a free-media zone based in Baghdad, the Baghdad Media City, by the end of 2014.</p>
+    <h2 class="h2">History</h2>
+    <p class="lead">Television first arrived in Iraq on 2 May 1956, 
+        at first only in the Baghdad area with a station named Baghdad Television on channel 8, 
+        switching to channel 9 in November 1959 after an increasing of its power. 
+        On 18 November 1967 the second TV station opened in Kirkuk, 
+        on 2 March 1968 a new transmitter had been opened in Mosul and on 6 November 1968 in Basrah. 
+        On 30 July 1972 Baghdad Television opened its second TV station on channel 7, 
+        and in 1974 two new stations opened in Amarah (capital city of the Maysan Governorate) 
+        and Samawah (capital city of the Muthanna Governorate), the latter one opening in March. 
+        In July 1976 colour television was introduced using the French SECAM system. 
+        By 1976 the entire country could receive broadcasts from the central station 
+        in Baghdad after the installation of a microwave relay system.</p>
+    <p class="lead">Many TV stations have appeared since the fall of Saddam. 
+        Under the direction of Ambassador L. Paul Bremer III as the Administrator, 
+        the Coalition Provisional Authority (CPA) began issuing radio and television 
+        licenses in June 2003 to meet the great demand for broadcasting licenses. 
+        The licenses were issued by the CPA Senior Adviser for Telecommunications. 
+        To plan for the expected great demand, this CPA office worked with Iraqi radio-frequency 
+        spectrum engineers and managers to develop a national FM-radio and TV channel allotment 
+        plan for all of the major Iraqi cities and towns. The national plan was developed using 
+        technical criteria and the Region 1 (Europe, Africa and the Middle East) allotment plan 
+        that was developed years before by the International Telecommunication Union (ITU), 
+        a United Nations treaty organization. The Iraqi allotment plan consisted of hundreds 
+        of FM radio and TV stations allotted to the cities and towns. The channels in the allotment 
+        plan were then open to anyone to apply for a license for a particular channel.</p>
+</section>
+<footer class="footer">
+    <div class="container-fluid text-center">
+        <span class="text-muted" id="date"></span>
+    </div>
+</footer>
+<script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script>
+    let today = new Date();
+    document.getElementById("date").innerHTML = "&copy; " + today.getFullYear() + ", Andor Salamon";
+</script>
+</body>
+</html>
