@@ -238,5 +238,21 @@
   {
     "id": 60,
     "news": "Television in Iran"
+  },
+  {
+    "id": 61,
+    "news": "Television in Kuwait"
+  },
+  {
+    "id": 62,
+    "news": "Television in Afghanistan"
+  },
+  {
+    "id": 63,
+    "news": "Television in Saudi Arabia"
+  },
+  {
+    "id": 64,
+    "news": "Television in Pakistan"
   }
 ]

@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="This is a website dedicated to TV stations.">
+    <meta name="keywords" content="TV,news,stations,website">
+    <meta name="author" content="Salamon Andor">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>TV News</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="../css/index.css">
+</head>
+<body>
+<header>
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="nav">
+        <a class="navbar-brand" href="../index.html">TV NEWS</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar"
+                aria-controls="navbar" aria-expanded="false" aria-label="Toggle Navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbar">
+            <ul class="navbar-nav mr-auto">
+                <li class="navbar-item active">
+                    <a class="nav-link" href="../news.html">Latest News</a>
+                </li>
+                <li class="navbar-item">
+                    <a class="nav-link" href="../channels.html">TV Channels</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<section class="container-fluid text-center" id="section">
+    <h1 class="h1">Television in Afghanistan</h1>
+    <p class="lead">Source: <em>Wikipedia</em></p>
+    <p class="lead">Television broadcasts in Afghanistan started in 1978 (Hijri Shamsi 1357). 
+        As of 2017, there were around 76 local channels operating in the country; 
+        the state television channel is Afghanistan National Television. 
+        As with other mass media in Afghanistan, television is regulated by the Ministry of Information and Culture.</p>
+    <h2 class="h2">History</h2>
+    <p class="lead">The conceptual foundation of television in Afghanistan was first elucidated by Dr. Hafiz Sahar, 
+        chief editor of the Eslah national daily newspaper, in his 1967 investigative academic work at New York University. 
+        He made a compelling argument and advocated, based on other developing countries experiences, 
+        the need for television as an educational tool as well as practical solutions to initial technical 
+        problems of bringing television in Afghanistan, such as “Kabul itself is dominated by two high hills 
+        that make excellent natural broadcasting towers, thus, simplifying coverage problems”.</p>
+    <p class="lead">Technical and financial aid provided by the Japan International Cooperation Agency (JICA) 
+        kickstarted the construction work of the studio and transmitter buildings in 1976, 
+        with the work completed by August 1978. The state-owned Radio Television Afghanistan (RTA, previously just Radio Afghanistan) 
+        launched the first TV channel in Afghanistan at first broadcasting for two hours daily starting in August 1978. 
+        During the 1980s, many Soviet programs were airing such as the children's show Nu Pogodi!. 
+        The studios of RTA were also often used by musicians to record music videos.</p>
+    <h2 class="h2">Television ownership and viewership</h2>
+    <p class="lead">According to a market research survey conducted by the Afghan Wireless Communication Company in 2023,
+         with over 7,100 randomly selected participants from various regions of Afghanistan, 
+         Ariana Television Network (and its news channel Ariana News) is the most-watched television channel 
+         in Afghanistan followed by TOLO TV (and its news channel TOLOnews), Shamshad TV, and Lemar TV.</p>
+</section>
+<footer class="footer">
+    <div class="container-fluid text-center">
+        <span class="text-muted" id="date"></span>
+    </div>
+</footer>
+<script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script>
+    let today = new Date();
+    document.getElementById("date").innerHTML = "&copy; " + today.getFullYear() + ", Andor Salamon";
+</script>
+</body>
+</html>

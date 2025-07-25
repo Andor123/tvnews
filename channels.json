@@ -2926,5 +2926,197 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/ee/LOGO_Manoto-Rebrand_2018.png",
     "channel_name": "Manoto",
     "country": "Iran"
+  },
+  {
+    "id": 489,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/KuwaitTV.svg",
+    "channel_name": "KTV 1",
+    "country": "Kuwait"
+  },
+  {
+    "id": 490,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/bd/%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86_%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA_%D8%A7%D9%84%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%A9_KTV2.jpg",
+    "channel_name": "KTV 2",
+    "country": "Kuwait"
+  },
+  {
+    "id": 491,
+    "image": "https://upload.wikimedia.org/wikipedia/en/3/3b/Tv_funoon_tv.png",
+    "channel_name": "Funoon TV",
+    "country": "Kuwait"
+  },
+  {
+    "id": 492,
+    "image": "https://upload.wikimedia.org/wikipedia/ar/5/50/Scopetv_a4d.jpg",
+    "channel_name": "Scope TV",
+    "country": "Kuwait"
+  },
+  {
+    "id": 493,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/RTA_Afghanistan_Logo_%282021%E2%80%93%29_blue.svg",
+    "channel_name": "RTA",
+    "country": "Afghanistan"
+  },
+  {
+    "id": 494,
+    "image": "https://upload.wikimedia.org/wikipedia/en/7/71/Logo_Ariana_Television_Network.png",
+    "channel_name": "Ariana Television Network",
+    "country": "Afghanistan"
+  },
+  {
+    "id": 495,
+    "image": "https://upload.wikimedia.org/wikipedia/en/c/ca/TOLO_TV_logo_2016.png",
+    "channel_name": "TOLO TV",
+    "country": "Afghanistan"
+  },
+  {
+    "id": 496,
+    "image": "https://upload.wikimedia.org/wikipedia/en/2/2d/Logo_Shamshad_TV_%28Afghanistan%29.png",
+    "channel_name": "Shamshad TV",
+    "country": "Afghanistan"
+  },
+  {
+    "id": 497,
+    "image": "https://upload.wikimedia.org/wikipedia/en/d/d6/Al-Saudia_TV_Logo_2018.png",
+    "channel_name": "Al Saudiya",
+    "country": "Saudi Arabia"
+  },
+  {
+    "id": 498,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/%D8%A7%D9%84%D9%82%D9%86%D8%A7.png",
+    "channel_name": "Al Ekhbariya",
+    "country": "Saudi Arabia"
+  },
+  {
+    "id": 499,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/KSA_SPORTS.jpg",
+    "channel_name": "KSA Sports",
+    "country": "Saudi Arabia"
+  },
+  {
+    "id": 500,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/SBC_TV.png",
+    "channel_name": "SBC",
+    "country": "Saudi Arabia"
+  },
+  {
+    "id": 501,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Al-Arabiya_new_logo.svg",
+    "channel_name": "Al Arabiya",
+    "country": "Saudi Arabia"
+  },
+  {
+    "id": 502,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Al_Hadath_TV_logo_2023.svg",
+    "channel_name": "Al Hadath",
+    "country": "Saudi Arabia"
+  },
+  {
+    "id": 503,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/MBC_1_Logo.svg",
+    "channel_name": "MBC 1",
+    "country": "Saudi Arabia"
+  },
+  {
+    "id": 504,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1f/MBC2_Logo.svg",
+    "channel_name": "MBC 2",
+    "country": "Saudi Arabia"
+  },
+  {
+    "id": 505,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b0/MBC_3_Logo.svg",
+    "channel_name": "MBC 3",
+    "country": "Saudi Arabia"
+  },
+  {
+    "id": 506,
+    "image": "https://upload.wikimedia.org/wikipedia/en/d/d4/MBC_4_Logo.svg",
+    "channel_name": "MBC 4",
+    "country": "Saudi Arabia"
+  },
+  {
+    "id": 507,
+    "image": "https://upload.wikimedia.org/wikipedia/en/b/b3/Iqraa_logo.gif",
+    "channel_name": "Iqraa",
+    "country": "Saudi Arabia"
+  },
+  {
+    "id": 508,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Rotana_Khalejia.png",
+    "channel_name": "Rotana Khalijiah",
+    "country": "Saudi Arabia"
+  },
+  {
+    "id": 509,
+    "image": "https://upload.wikimedia.org/wikipedia/en/9/9a/PTV_Home_logo_2023.png",
+    "channel_name": "PTV Home",
+    "country": "Pakistan"
+  },
+  {
+    "id": 510,
+    "image": "https://upload.wikimedia.org/wikipedia/en/b/bb/PTV_News_Logo.png",
+    "channel_name": "PTV News",
+    "country": "Pakistan"
+  },
+  {
+    "id": 511,
+    "image": "https://upload.wikimedia.org/wikipedia/en/d/d4/PTV_Global_logo_2024.png",
+    "channel_name": "PTV Global",
+    "country": "Pakistan"
+  },
+  {
+    "id": 512,
+    "image": "https://upload.wikimedia.org/wikipedia/en/a/ac/PTV_National.jpg",
+    "channel_name": "PTV National",
+    "country": "Pakistan"
+  },
+  {
+    "id": 513,
+    "image": "https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png",
+    "channel_name": "PTV Sports",
+    "country": "Pakistan"
+  },
+  {
+    "id": 514,
+    "image": "https://upload.wikimedia.org/wikipedia/en/d/d7/PTV_World_logo_2023.png",
+    "channel_name": "PTV World",
+    "country": "Pakistan"
+  },
+  {
+    "id": 515,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Ary_Digital_Logo.png",
+    "channel_name": "ARY Digital",
+    "country": "Pakistan"
+  },
+  {
+    "id": 516,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Arynews.jpg",
+    "channel_name": "ARY News",
+    "country": "Pakistan"
+  },
+  {
+    "id": 517,
+    "image": "https://upload.wikimedia.org/wikipedia/en/d/d4/Geo_Entertainment.png",
+    "channel_name": "Geo Entertainment",
+    "country": "Pakistan"
+  },
+  {
+    "id": 518,
+    "image": "https://upload.wikimedia.org/wikipedia/en/d/d8/Geo_Kahani.png",
+    "channel_name": "Geo Kahani",
+    "country": "Pakistan"
+  },
+  {
+    "id": 519,
+    "image": "https://upload.wikimedia.org/wikipedia/en/e/e7/Hum_Sitaray_Logo.png",
+    "channel_name": "Hum Sitaray",
+    "country": "Pakistan"
+  },
+  {
+    "id": 520,
+    "image": "https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png",
+    "channel_name": "Hum TV",
+    "country": "Pakistan"
   }
 ]

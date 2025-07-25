@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="This is a website dedicated to TV stations.">
+    <meta name="keywords" content="TV,news,stations,website">
+    <meta name="author" content="Salamon Andor">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>TV News</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="../css/index.css">
+</head>
+<body>
+<header>
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="nav">
+        <a class="navbar-brand" href="../index.html">TV NEWS</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar"
+                aria-controls="navbar" aria-expanded="false" aria-label="Toggle Navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbar">
+            <ul class="navbar-nav mr-auto">
+                <li class="navbar-item active">
+                    <a class="nav-link" href="../news.html">Latest News</a>
+                </li>
+                <li class="navbar-item">
+                    <a class="nav-link" href="../channels.html">TV Channels</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<section class="container-fluid text-center" id="section">
+    <h1 class="h1">Television in Saudi Arabia</h1>
+    <p class="lead">Source: <em>Wikipedia</em></p>
+    <p class="lead">Television in Saudi Arabia was introduced in 1965, but is now dominated by just five major companies: 
+        Middle East Broadcasting Center, SM Enterprise TV, Lebanese Broadcasting Corporation, Rotana and Saudi TV. 
+        Together, they control 80% of the pan-Arab broadcasting market. 
+        Saudi Arabia is a major market for pan-Arab satellite and pay-TV. Saudi investors are behind the major networks MBC, 
+        which is based in Dubai, and Emirates based OSN. The Saudi government estimated that in 2000 the average 
+        Saudi spent 50% to 100% more time watching television than his or her European or US counterpart. 
+        On average, 2.7 hours are spent daily watching TV in Saudi Arabia.</p>
+    <p class="lead">The pay-TV market in Saudi Arabia is big, with a penetration estimated at 21%. 
+        beIN Sports is one of the largest pay-TV players in terms of subscriptions, with a market share of 59%.</p>
+    <h2 class="h2">History</h2>
+    <p class="lead">The first television broadcasts in Saudi Arabia originated from a 200-watt television station, 
+        AJL-TV, "The Eye of the Desert". These were English-language programs for the personnel of the USAF Dhahran Airfield, 
+        and started on 17 June 1955. The programming was from contemporary American television, but all references to Christianity, 
+        Israel or alcohol were edited out. In September 1957, ARAMCO began a television service for 
+        its 9,000 employees in Dhahran; that service would cease operations on 31 December 1998. 
+        The first state owned television channel Al Saudiya would launch on 7 July 1965.</p>
+    <p class="lead">Nawal Baksh was the first Saudi woman to appear on Saudi television, in 1966.</p>
+    <h2 class="h2">State-managed stations</h2>
+    <p class="lead">The terrestrial broadcast sector in Saudi Arabia is state-owned through the Ministry of Media. 
+        The state-run Broadcasting Services of the Kingdom of Saudi Arabia operates almost all domestic broadcasting outlets. 
+        State-run television consists of four channels: Saudi One, the main channel in Arabic launched in 1963; 
+        Saudi Two, an English language channel; Al Riyadiah, a sports channel; and the news channel Al Ekhbariya.</p>
+    <p class="lead">Government-owned terrestrial television has changed little since 1969. 
+        Its programming is still predominantly focused on educational, entertainment, and religious subjects. 
+        Reruns of Arabic-language cinema, particularly Egyptian movies, are also broadcast. 
+        Political content other than official government announcements has remained relatively limited.</p>
+</section>
+<footer class="footer">
+    <div class="container-fluid text-center">
+        <span class="text-muted" id="date"></span>
+    </div>
+</footer>
+<script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script>
+    let today = new Date();
+    document.getElementById("date").innerHTML = "&copy; " + today.getFullYear() + ", Andor Salamon";
+</script>
+</body>
+</html>
