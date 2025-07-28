@@ -254,5 +254,29 @@
   {
     "id": 64,
     "news": "Television in Pakistan"
+  },
+  {
+    "id": 65,
+    "news": "Television in the United Arab Emirates"
+  },
+  {
+    "id": 66,
+    "news": "Television in India"
+  },
+  {
+    "id": 67,
+    "news": "Television in Qatar"
+  },
+  {
+    "id": 68,
+    "news": "Television in Sri Lanka"
+  },
+  {
+    "id": 69,
+    "news": "Television in Bahrain"
+  },
+  {
+    "id": 70,
+    "news": "Television in the Maldives"
   }
 ]
