@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="This is a website dedicated to TV stations.">
+    <meta name="keywords" content="TV,news,stations,website">
+    <meta name="author" content="Salamon Andor">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>TV News</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="../css/index.css">
+</head>
+<body>
+<header>
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="nav">
+        <a class="navbar-brand" href="../index.html">TV NEWS</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar"
+                aria-controls="navbar" aria-expanded="false" aria-label="Toggle Navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbar">
+            <ul class="navbar-nav mr-auto">
+                <li class="navbar-item active">
+                    <a class="nav-link" href="../news.html">Latest News</a>
+                </li>
+                <li class="navbar-item">
+                    <a class="nav-link" href="../channels.html">TV Channels</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<section class="container-fluid text-center" id="section">
+    <h1 class="h1">Television in Bhutan</h1>
+    <p class="lead">Source: <em>Wikipedia</em></p>
+    <p class="lead">BBS is the first television station in Bhutan. News, documentaries, 
+        and entertainment programs were originally broadcast for one hour in the evening (7 p.m. to 8 p.m.), 
+        seven days a week, but expanded to four hours (6 p.m. to 10 p.m.) in December 2004. 
+        Once limited to the capital city, television service spread to the entire Kingdom 
+        via satellite in February 2006. It operates 31 TV stations across the country.</p>
+    <p class="lead">In 2008, BBS expanded their television schedule to air from 6 p.m. to 11 p.m. 
+        Most of the programming is aired in Dzongkha, but two current events and news programs each night are aired in English.</p>
+    <p class="lead">The programming from the previous night is repeated from 6 a.m. to 11 a.m. the next morning. 
+        Special entertainment and music request programs are also aired between 3 p.m. and 6 p.m. on weekends.</p>
+    <p class="lead">BBS announced in 2022 that it would upgrade its equipment to high definition, 
+        having received Nu 40 million in equipment from South Korea. 
+        On July 26, 2023, HD broadcasts of the two main channels began.</p>
+    <h2 class="h2">Channels</h2>
+    <ul class="list-group">
+        <li class="list-group-item">BBS TV (BBS 1)</li>
+        <li class="list-group-item">BBS 2</li>
+        <li class="list-group-item">BBS 3</li>
+    </ul>
+</section>
+<footer class="footer">
+    <div class="container-fluid text-center">
+        <span class="text-muted" id="date"></span>
+    </div>
+</footer>
+<script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script>
+    let today = new Date();
+    document.getElementById("date").innerHTML = "&copy; " + today.getFullYear() + ", Andor Salamon";
+</script>
+</body>
+</html>
