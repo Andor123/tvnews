@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="This is a website dedicated to TV stations.">
+    <meta name="keywords" content="TV,news,stations,website">
+    <meta name="author" content="Salamon Andor">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>TV News</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="../css/index.css">
+</head>
+<body>
+<header>
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="nav">
+        <a class="navbar-brand" href="../index.html">TV NEWS</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar"
+                aria-controls="navbar" aria-expanded="false" aria-label="Toggle Navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbar">
+            <ul class="navbar-nav mr-auto">
+                <li class="navbar-item active">
+                    <a class="nav-link" href="../news.html">Latest News</a>
+                </li>
+                <li class="navbar-item">
+                    <a class="nav-link" href="../channels.html">TV Channels</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<section class="container-fluid text-center" id="section">
+    <h1 class="h1">Television in Bangladesh</h1>
+    <p class="lead">Source: <em>Wikipedia</em></p>
+    <p class="lead">Television is one of the most popular forms of media and information in Bangladesh. 
+        It was one of the first countries in South Asia to introduce television on 25 December 1964, 
+        in the then East Pakistan under the state-owned television network Pakistan Television Corporation 
+        in its capital, Dhaka. After the Bangladesh Liberation War in 1971, the Dhaka television station of 
+        PTV was renamed to Bangladesh Television, which had a monopoly on the country's television industry until 1997, 
+        with the launch of ATN Bangla on satellite television. Since then, the number of privately owned 
+        television channels saw a tremendous rise in the Bangladeshi television market.</p>
+    <p class="lead">As of 2019, 64% of households in Bangladesh had a television set, 
+        with cable television dominating the pay television market there. 
+        This is a tremendous increase compared to the data from 1975, 
+        when less than 0.2% of Bangladeshi households had a television set.</p>
+    <h2 class="h2">History</h2>
+    <h3 class="h3">Early ages</h3>
+    <p class="lead">Television programming in the then East Pakistan was first commenced in 1964, 
+        when Pakistan Television established a television station in Dacca, the first after Lahore, 
+        and broadcast from the DIT Bhaban on a four-hour basis. On 4 March 1971, PTV's Dacca television station 
+        was unofficially renamed "Dhaka Television", and on 23 March, it began showing the flag of Bangladesh 
+        and playing the national anthem of Bangladesh and several pro-Bangladesh songs, as a part of the station 
+        to join the struggle for independence from Pakistan.[8] After the independence of Bangladesh, 
+        the station was immediately renamed Bangladesh Television, subsequently becoming a government-owned entity. 
+        In 1975, Bangladesh Television moved its studios and facilities in a newly built headquarters in Rampura.</p>
+    <h3 class="h3">Rise of satellite television</h3>
+    <p class="lead">Satellite television was introduced in Bangladesh in 1992, with over ten 
+        foreign channels having a presence in the country at the time. Simultaneously, 
+        the first cable company (Translinks), affiliated to Star TV, opened in the same year. 
+        The first Bengali-language satellite television channel based in Bangladesh, ATN Bangla, 
+        was launched in 1997, followed by Channel i in 1999. Satellite television saw a tremendous increase 
+        in popularity among Bangladeshis at that period, and thus, Bangladesh Television began to stagnate.</p>
+    <h3 class="h3">After the fall of the Hasina government</h3>
+    <p class="lead">During the quota reform protests, the headquarters of Bangladesh Television was subject to 
+        an arson attack and was vandalized on 18 July 2024, forcing the network to cease transmissions temporarily, 
+        although it resumed transmissions the following day. Shortly after the resignation of prime minister Sheikh Hasina on 5 August 2024, 
+        several television channels, primarily ones that are news-oriented, were attacked and vandalized, 
+        including Ekattor TV, DBC News, Somoy TV, Independent Television etc. Later on, eight television channels were forced off 
+        the air as a result of the attacks, although they have resumed transmissions over time.</p>
+</section>
+<footer class="footer">
+    <div class="container-fluid text-center">
+        <span class="text-muted" id="date"></span>
+    </div>
+</footer>
+<script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script>
+    let today = new Date();
+    document.getElementById("date").innerHTML = "&copy; " + today.getFullYear() + ", Andor Salamon";
+</script>
+</body>
+</html>

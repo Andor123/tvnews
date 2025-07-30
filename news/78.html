@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="This is a website dedicated to TV stations.">
+    <meta name="keywords" content="TV,news,stations,website">
+    <meta name="author" content="Salamon Andor">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>TV News</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="../css/index.css">
+</head>
+<body>
+<header>
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="nav">
+        <a class="navbar-brand" href="../index.html">TV NEWS</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar"
+                aria-controls="navbar" aria-expanded="false" aria-label="Toggle Navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbar">
+            <ul class="navbar-nav mr-auto">
+                <li class="navbar-item active">
+                    <a class="nav-link" href="../news.html">Latest News</a>
+                </li>
+                <li class="navbar-item">
+                    <a class="nav-link" href="../channels.html">TV Channels</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<section class="container-fluid text-center" id="section">
+    <h1 class="h1">Television in China</h1>
+    <p class="lead">Source: <em>Wikipedia</em></p>
+    <p class="lead">The television industry in China includes high-tech program production, transmission and coverage. 
+        China Central Television is China's largest state-run national television broadcaster. 
+        By 1987, two-thirds of people in China had access to television. As of August 22, 2023, over 3,300 local, regional, 
+        and national TV channels are available in the country.</p>
+    <p class="lead">Chinese television drama has also gained popularity over the years, 
+        garnering billions of views among China's most popular video websites, iQiyi, Youku, Tencent Video and Mango TV.</p>
+    <h2 class="h2">History</h2>
+    <h3 class="h3">Origins</h3>
+    <p class="lead">When the People's Republic was founded in 1949, the telecommunications systems and facilities in China were outdated and rudimentary, 
+        and many had been damaged or destroyed during the Second Sino-Japanese War. Communications in China were established rapidly 
+        in the early 1950s. By 1952, the principal telecommunications network centered on Beijing, and links to all large cities had 
+        finally been established, enabling the launch of television broadcasts. The first Chinese television station in the world was 
+        Rediffusion Television (now ATV, off-air since 2016), which launched in Hong Kong on May 29, 1957. On the mainland, the first 
+        national broadcasts began on May 1, 1958, and Beijing Television (now China Central Television since 1978) 
+        was formally launched on September 2, 1958. A month later, the first regional station, Shanghai Television, 
+        was launched on the 9th National Day, which was on October 1, 1958. Liaoning Television would begin a year later, and in 1960, 
+        Zhejiang and Guangdong provinces had their stations begin full broadcasts.</p>
+    <h3 class="h3">Today</h3>
+    <p class="lead">Altogether, there are 3,000 television stations across the country. Large international TV expositions, 
+        including the Shanghai Television Festival, Beijing International Television Week, China Radio and Television Exposition 
+        and Sichuan Television Festival, are held on a regular basis.</p>
+    <p class="lead">Besides judging and conferring awards, these festivals conduct academic exchanges and the import and export of TV programs. 
+        Shanghai has become the largest television program trading market in Asia.</p>
+    <p class="lead">In October 2014, actors and actresses who have used drugs, visited prostitutes, or broken the law were not 
+        allowed to appear on television, movies, or other forms of broadcast (radio and advertisement) in China. The ban also encompassed online media, 
+        film and publishing. China Daily reported that the ban is meant to "keep the industry healthy" and "Celebrities who break 
+        the law should not be invited to appear in programs, and transmission of their words should be suspended." 
+        It was also noted that "Recent cases involving stars using drugs or visiting prostitutes have harmed the image of the entertainment 
+        industry and set a bad example for young people." In 2014, China detained several Chinese celebrities on drug-related charges. 
+        The Ministry of Public Security stated in February 2014 that police need to "get tough on drugs, gambling, and prostitution."</p>
+</section>
+<footer class="footer">
+    <div class="container-fluid text-center">
+        <span class="text-muted" id="date"></span>
+    </div>
+</footer>
+<script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script>
+    let today = new Date();
+    document.getElementById("date").innerHTML = "&copy; " + today.getFullYear() + ", Andor Salamon";
+</script>
+</body>
+</html>
