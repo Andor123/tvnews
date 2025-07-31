@@ -3718,5 +3718,137 @@
     "image": "https://upload.wikimedia.org/wikipedia/zh/0/04/Indigenous_Peoples_Cultural_Foundation_logo.svg",
     "channel_name": "Taiwan Indeginous Television",
     "country": "Taiwan"
+  },
+  {
+    "id": 621,
+    "image": "https://upload.wikimedia.org/wikipedia/zh/7/78/Al-Aqsa_TV.png",
+    "channel_name": "Al-Aqsa TV",
+    "country": "Palestine"
+  },
+  {
+    "id": 622,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Palestine_Satellite_Channel_Logo.png",
+    "channel_name": "Palestine Satellite Channel",
+    "country": "Palestine"
+  },
+  {
+    "id": 623,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Ch3HDLogo.svg",
+    "channel_name": "Channel 3",
+    "country": "Thailand"
+  },
+  {
+    "id": 624,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%875.png",
+    "channel_name": "Channel 5",
+    "country": "Thailand"
+  },
+  {
+    "id": 625,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Ch-7-HD-Logo-crop.png",
+    "channel_name": "Channel 7",
+    "country": "Thailand"
+  },
+  {
+    "id": 626,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/MCOT_Ch9_Logo.png",
+    "channel_name": "Channel 9 MCOT",
+    "country": "Thailand"
+  },
+  {
+    "id": 627,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d4/NBT_2025.svg",
+    "channel_name": "NBT",
+    "country": "Thailand"
+  },
+  {
+    "id": 628,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/Thai_PBS_Organization_logo.svg",
+    "channel_name": "Thai PBS",
+    "country": "Thailand"
+  },
+  {
+    "id": 629,
+    "image": "https://upload.wikimedia.org/wikipedia/zh/8/8a/RTHK_TV_31.svg",
+    "channel_name": "RTHK TV 31",
+    "country": "Hong Kong"
+  },
+  {
+    "id": 630,
+    "image": "https://upload.wikimedia.org/wikipedia/zh/7/78/RTHK_TV_32.svg",
+    "channel_name": "RTHK TV 32",
+    "country": "Hong Kong"
+  },
+  {
+    "id": 631,
+    "image": "https://upload.wikimedia.org/wikipedia/zh/a/a7/RTHK_TV_33.svg",
+    "channel_name": "RTHK TV 33",
+    "country": "Hong Kong"
+  },
+  {
+    "id": 632,
+    "image": "https://upload.wikimedia.org/wikipedia/zh/f/f9/RTHK_TV_34.svg",
+    "channel_name": "RTHK TV 34",
+    "country": "Hong Kong"
+  },
+  {
+    "id": 633,
+    "image": "https://upload.wikimedia.org/wikipedia/zh/8/85/RTHK_TV_35.svg",
+    "channel_name": "RTHK TV 35",
+    "country": "Hong Kong"
+  },
+  {
+    "id": 634,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7a/TVB_Jade_logo.svg",
+    "channel_name": "TVB Jade",
+    "country": "Hong Kong"
+  },
+  {
+    "id": 635,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/ViuTV_logo.svg",
+    "channel_name": "ViuTV",
+    "country": "Hong Kong"
+  },
+  {
+    "id": 636,
+    "image": "https://upload.wikimedia.org/wikipedia/zh/f/f3/HOY_TV_Logo.svg",
+    "channel_name": "HOY TV",
+    "country": "Hong Kong"
+  },
+  {
+    "id": 637,
+    "image": "https://upload.wikimedia.org/wikipedia/zh/9/9b/TDM_Ou_Mun.png",
+    "channel_name": "TDM Ou Mun",
+    "country": "Macau"
+  },
+  {
+    "id": 638,
+    "image": "https://upload.wikimedia.org/wikipedia/zh/4/4e/Canal_Macau.png",
+    "channel_name": "Canal Macau",
+    "country": "Macau"
+  },
+  {
+    "id": 639,
+    "image": "https://upload.wikimedia.org/wikipedia/zh/8/87/TDM_Ou_Mun_Macau_logo.png",
+    "channel_name": "TDM-Macau Satéllite",
+    "country": "Macau"
+  },
+  {
+    "id": 640,
+    "image": "https://upload.wikimedia.org/wikipedia/zh/1/17/Macau_Cable_TV_logo.svg",
+    "channel_name": "Macau Cable TV",
+    "country": "Macau"
+  },
+  {
+    "id": 641,
+    "image": "https://upload.wikimedia.org/wikipedia/zh/d/d6/MASTV.png",
+    "channel_name": "Macau Asia Satellite Television",
+    "country": "Macau"
+  },
+  {
+    "id": 642,
+    "image": "https://upload.wikimedia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg",
+    "channel_name": "Lotus TV Macau",
+    "country": "Macau"
   }
 ]

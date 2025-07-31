@@ -318,5 +318,21 @@
   {
     "id": 80,
     "news": "Television in Taiwan"
+  },
+  {
+    "id": 81,
+    "news": "Television in Palestine"
+  },
+  {
+    "id": 82,
+    "news": "Television in Thailand"
+  },
+  {
+    "id": 83,
+    "news": "Television in Hong Kong"
+  },
+  {
+    "id": 84,
+    "news": "Television in Macau"
   }
 ]

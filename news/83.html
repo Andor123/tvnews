@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="This is a website dedicated to TV stations.">
+    <meta name="keywords" content="TV,news,stations,website">
+    <meta name="author" content="Salamon Andor">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>TV News</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="../css/index.css">
+</head>
+<body>
+<header>
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="nav">
+        <a class="navbar-brand" href="../index.html">TV NEWS</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar"
+                aria-controls="navbar" aria-expanded="false" aria-label="Toggle Navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbar">
+            <ul class="navbar-nav mr-auto">
+                <li class="navbar-item active">
+                    <a class="nav-link" href="../news.html">Latest News</a>
+                </li>
+                <li class="navbar-item">
+                    <a class="nav-link" href="../channels.html">TV Channels</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<section class="container-fluid text-center" id="section">
+    <h1 class="h1">Television in Hong Kong</h1>
+    <p class="lead">Source: <em>Wikipedia</em></p>
+    <p class="lead">Television in Hong Kong is primarily in Cantonese and English. It is delivered through 
+        analogue and digital terrestrial, cable, IPTV, and the Internet. Satellite TV is not common, 
+        although many housing estates have dishes and re-distribute a limited number of free channels 
+        through coaxial cables. The dominant broadcaster is TVB, ViuTV and HOY TV.</p>
+    <h2 class="h2">History</h2>
+    <p class="lead">Hong Kong's television history began with the launch of Rediffusion Television (RTV) 
+        on 29 May 1957 (later renamed as Asia Television (ATV)). RTV started off as a cable subscription service but became 
+        a free-to-air broadcaster in 1973, with Cantonese and English channels. In April 2016, the Executive Council decided 
+        not to renew ATV's broadcast licence and its channels closed.</p>
+    <p class="lead">Television Broadcasts Limited (TVB) was the territory's first free-to-air commercial station (launching in 1967) 
+        and remains the predominant TV broadcaster today with multiple Cantonese channels and one English channel, on analogue and digital.</p>
+    <p class="lead">There was also an Internet television and VOD channel called Hong Kong Technology Venture 
+        (HKTV, owned by the City Telecom, which was renamed as the same name in 2013) which was launched in 2014 and 
+        can be viewed on smart TVs, set-top boxes, personal computers, smartphones, and tablet computers, then closed in 2018. 
+        And ATV was revived as the OTT platform in 2017 and is still running today.</p>
+    <h2 class="h2">Digital terrestrial television</h2>
+    <p class="lead">Hong Kong was not required to follow China's DTT standard, but the Hong Kong government nevertheless 
+        opted to use DMB-T/H (now known as DTMB) as the digital terrestrial television broadcast standard in 2004 
+        (hence rejecting the DVB-T standard originally proposed in 1998 and trialled in 2000). The official start of 
+        DTT broadcasting was at 7pm on 31 December 2007 as the first digital TV signal transmitter in Tsz Wan Shan went online.</p>
+    <p class="lead">Starting 1 December 2021, six digital television channels (being TVB Jade, ViuTVsix, ViuTV, RTHK TV 31, RTHK TV 32 and RTHK TV 33) 
+        will transit from frequencies in the 600/700 MHz bands to the 500 MHz band to support and boost telecommunication services 
+        for applications like 5G networks as well as improving network coverage. A six-month transition stage from 1 April will 
+        simulcast TV channels on both existing and new frequencies to smoothen the transition.</p>
+</section>
+<footer class="footer">
+    <div class="container-fluid text-center">
+        <span class="text-muted" id="date"></span>
+    </div>
+</footer>
+<script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script>
+    let today = new Date();
+    document.getElementById("date").innerHTML = "&copy; " + today.getFullYear() + ", Andor Salamon";
+</script>
+</body>
+</html>
