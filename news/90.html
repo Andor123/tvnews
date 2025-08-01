@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="This is a website dedicated to TV stations.">
+    <meta name="keywords" content="TV,news,stations,website">
+    <meta name="author" content="Salamon Andor">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>TV News</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="../css/index.css">
+</head>
+<body>
+<header>
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="nav">
+        <a class="navbar-brand" href="../index.html">TV NEWS</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar"
+                aria-controls="navbar" aria-expanded="false" aria-label="Toggle Navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbar">
+            <ul class="navbar-nav mr-auto">
+                <li class="navbar-item active">
+                    <a class="nav-link" href="../news.html">Latest News</a>
+                </li>
+                <li class="navbar-item">
+                    <a class="nav-link" href="../channels.html">TV Channels</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<section class="container-fluid text-center" id="section">
+    <h1 class="h1">Television in Japan</h1>
+    <p class="lead">Source: <em>Wikipedia</em></p>
+    <p class="lead">Television in Japan was introduced in 1939. However, experiments date back to the 1920s, 
+        with Kenjiro Takayanagi's pioneering experiments in electronic television. Television broadcasting was halted by World War II, 
+        after which regular television broadcasting began in 1950. After Japan developed the first HDTV systems in the 1960s, 
+        MUSE/Hi-Vision was introduced in the 1970s.</p>
+    <p class="lead">A modified version of the NTSC system for analog signals, called NTSC-J, 
+        was used for analog broadcast between 1950 and the early 2010s. The analog broadcast in Japan was replaced 
+        with a digital broadcasts using the ISDB standard. ISDB supersedes both the NTSC-J analog television system 
+        and the previously used MUSE Hi-vision analog HDTV system in Japan. Digital Terrestrial Television Broadcasting (DTTB) 
+        services using ISDB-T (ISDB-T International) started in Japan in December 2003, and since then, 
+        Japan adopted ISDB over other digital broadcasting standards.</p>
+    <p class="lead">All Japanese households having at least one television set, or any device that is capable of receiving live 
+        television broadcasts, are mandated to hold a television license, with funds primarily used to subsidize NHK, 
+        the Japanese public service broadcaster. The fee varies from ¥12,276 to ¥21,765 (reduced to ¥10,778 to ¥20,267 
+        for households residing in Okinawa Prefecture) depending on the method and timing of payment, and on whether one receives 
+        only terrestrial television or also satellite broadcasts. Households on welfare may be excused from the license fee. 
+        Notably, there is no legal authority to impose sanctions or fines in the event of non-payment; people may (and many do) 
+        throw away the bills and turn away the occasional bill collector, without consequence.</p>
+    <h2 class="h2">History</h2>
+    <p class="lead">In 1924, Kenjiro Takayanagi began a research program on electronic television. 
+        In 1925, he demonstrated a cathode ray tube (CRT) television with thermal electron emission. 
+        Television tests were conducted in 1926 using a combined mechanical Nipkow disk and electronic Braun tube system. 
+        In 1926, he demonstrated a CRT television with 40-line resolution, the first working example of a fully electronic television receiver. 
+        In 1927, he increased the television resolution to 100 lines, which was unrivaled until 1931. In 1928, he was the first 
+        to transmit human faces in half-tones on television.</p>
+    <p class="lead">In the same period Takayanagi also turned his interest to television studies after having 
+        learned about the new technology in a French magazine. He developed a system similar to that of John Logie Baird, 
+        using the Nipkow disk to scan the subject and generate electrical signals. But unlike Baird, Takayanagi took the 
+        important step of using a cathode ray tube to display the received signal, successfully reproducing the Katakana character イ in December 1926. 
+        In 1928 his research took a further breakthrough, when he managed to reproduce an image of a person with a resolution of 40 lines at a 
+        refresh rate of 14 frames per second. In the 1930s Takayanagi and his research team developed a fully electronic television system using 
+        a revised version of the iconoscope. This was followed by the invention of a video receiver capable of reproducing images with a resolution 
+        of 441 lines at 30 frames per second, the best on the market at the time.</p>
+</section>
+<footer class="footer">
+    <div class="container-fluid text-center">
+        <span class="text-muted" id="date"></span>
+    </div>
+</footer>
+<script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script>
+    let today = new Date();
+    document.getElementById("date").innerHTML = "&copy; " + today.getFullYear() + ", Andor Salamon";
+</script>
+</body>
+</html>

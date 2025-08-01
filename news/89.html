@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="This is a website dedicated to TV stations.">
+    <meta name="keywords" content="TV,news,stations,website">
+    <meta name="author" content="Salamon Andor">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>TV News</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="../css/index.css">
+</head>
+<body>
+<header>
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="nav">
+        <a class="navbar-brand" href="../index.html">TV NEWS</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar"
+                aria-controls="navbar" aria-expanded="false" aria-label="Toggle Navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbar">
+            <ul class="navbar-nav mr-auto">
+                <li class="navbar-item active">
+                    <a class="nav-link" href="../news.html">Latest News</a>
+                </li>
+                <li class="navbar-item">
+                    <a class="nav-link" href="../channels.html">TV Channels</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<section class="container-fluid text-center" id="section">
+    <h1 class="h1">Television in Vietnam</h1>
+    <p class="lead">Source: <em>Wikipedia</em></p>
+    <p class="lead">Television in Vietnam began to appear in the mid-1960s in Saigon, 
+        then under control of South Vietnam, with the appearance of Saigon Television Station. 
+        In 1970, in the North, the Voice of Vietnam broadcast the first experimental television program. 
+        Beginning from the late 1970s, color television was introduced and broadcast experimentally. 
+        Today, television in Vietnam is available in many broadcasting formats, with many national and local channels, 
+        broadcast or pay-per-view with more than 200 channels available to viewers. 
+        Vietnam completed the digital television transition in 21 provinces starting on 30 June 2020 
+        and throughout the whole country on 28 December, shutting down all analog signals in the country.</p>
+    <h2 class="h2">History</h2>
+    <p class="lead">Television was first introduced in October 1959 in the Republic of Vietnam during an exhibition in Saigon. 
+        In this pilot program, the artists sat in the military microphone studio, and the audience watched through 
+        two screens located in the exhibition center from 19:30 to 20:30 every day. The weekly newspaper Điện ảnh (Cinema) 
+        published in November 1959 said: "Once a television station is established, we believe that there will be a 
+        lot of people buying televisions so that they can keep up with the television broadcast programs."</p>
+    <p class="lead">While the television coverage of the United States and the Saigon Government 
+        in the South is increasing day after day, television has not appeared in the North at all. 
+        According to journalist Hoàng Tùng, former Editor-in-Chief of the Nhân Dân (People) newspaper, 
+        Head of the Central Propaganda Department, in the 1960s, every time he went on a business trip abroad, 
+        he used to watch TV in other countries, President Ho Chi Minh often reminded cadres to prepare all conditions 
+        to build the television industry. Implementing that idea, the Vietnam Television Film Studio was established 
+        in January 1968, under the General Department of Information, with the task of producing 16-millimetre 
+        television films for foreign television stations, mainly about the Vietnam War, 
+        and at the same time prepare to build a television industry.</p>
+    <p class="lead">In the South, after the Paris Peace Accords came into force, all AFVN stations officially 
+        ceased to operate and all machinery and equipment were handed over to THVN9. The network of THVN9 has therefore, 
+        expanded to the whole Republic of Vietnam. The station ceased its operations on the night of 29 April 1975, 
+        the day before the Fall of Saigon. After Saigon was captured, Voice of Vietnam and the Liberation Station A, 
+        together with Liberation Station B in the Southeast region took over the entire radio and television system left by the old regime. 
+        Saigon Television Station was renamed Liberation Television Station and began airing again on the evening of 1 May 1975. 
+        At the same time, Đắc Lộ Television became the second campus of the Liberation Television Station and resumed operation on 3 October 1975. 
+        Until 2 July 1976, Saigon was officially renamed as Ho Chi Minh City, Liberation Television Station 
+        was renamed to Ho Chi Minh City Television (abbreviated HTV).</p>
+    <p class="lead">In the North, in 1976, the Television Center was built in Giảng Võ, Hanoi, and from here, 
+        television began to be broadcast daily along with the construction of a television tower at Pole 1200 in Tam Dao. 
+        In 1977, the Television Editorial Board separated from the Voice of Vietnam, 
+        becoming the new Central Television Station (THTW) and moved its headquarters to the new Center.</p>
+</section>
+<footer class="footer">
+    <div class="container-fluid text-center">
+        <span class="text-muted" id="date"></span>
+    </div>
+</footer>
+<script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script>
+    let today = new Date();
+    document.getElementById("date").innerHTML = "&copy; " + today.getFullYear() + ", Andor Salamon";
+</script>
+</body>
+</html>
