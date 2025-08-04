@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="This is a website dedicated to TV stations.">
+    <meta name="keywords" content="TV,news,stations,website">
+    <meta name="author" content="Salamon Andor">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>TV News</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="../css/index.css">
+</head>
+<body>
+<header>
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="nav">
+        <a class="navbar-brand" href="../index.html">TV NEWS</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar"
+                aria-controls="navbar" aria-expanded="false" aria-label="Toggle Navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbar">
+            <ul class="navbar-nav mr-auto">
+                <li class="navbar-item active">
+                    <a class="nav-link" href="../news.html">Latest News</a>
+                </li>
+                <li class="navbar-item">
+                    <a class="nav-link" href="../channels.html">TV Channels</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<section class="container-fluid text-center" id="section">
+    <h1 class="h1">Television in Singapore</h1>
+    <p class="lead">Source: <em>Wikipedia</em></p>
+    <p class="lead">Television broadcasting in Singapore began on February 15, 1963. The public broadcaster, Mediacorp, 
+        owned by the Singaporean government investment company Temasek Holdings, currently holds a monopoly on 
+        terrestrial television channels in the country. In addition, Pay-TV services are available from 
+        private operators such as StarHub TV and Singtel TV. Historically, the private ownership of satellite dishes was prohibited.</p>
+    <h2 class="h2">History</h2>
+    <p class="lead">The introduction of television in Singapore began with experimental closed-circuit broadcasts 
+        during the British Radio Exhibition in August 1952, organized by the British Radio and Accessories Manufacturing Association (BRAMA). 
+        British electronics company Pye supplied the equipment and set up a temporary studio, with Governor J. F. Nicoll delivering 
+        the first televised speech.[6] The exhibition attracted significant public attention, 
+        reaching an estimated 400,000 viewers — around 40% of Singapore's population at the time.</p>
+    <p class="lead">Although the Singaporean population had become aware of television technology, 
+        the government opposed a privately operated television service, favouring public ownership. 
+        An initial proposal in late 1952 estimated the initial cost of a state-run service, 
+        which would be funded through license fees, at around $1 million. Although private companies such as Cathay Organization, 
+        Shaw Brothers, and Rediffusion submitted bids to operate a commercial station, all were rejected.</p>
+    <p class="lead">On January 3, 1963, the Singaporean government announced the start of pilot programming would begin on February 15. 
+        The station was set to broadcast on VHF channel 5 in the 625-line television standard and would charge 
+        a license fee of $24 per year ($2 per month), described at the time as being "one of the cheapest in this part of the world." 
+        The output from the start of the pilot service was originally planned to last less than two hours before being extended to four hours by April. 
+        A second channel was slated to start between August and September of the same year. By the time of the March extension, 
+        the service was going to carry filmed programming in English and Hokkien, before gradually extending to include 
+        Mandarin, Malay, Tamil, and other Chinese dialects. By April, the regular service would provide a four-hour schedule 
+        in every one of the official languages of Singapore. A temporary studio was constructed on Caldecott Hill in 
+        the precincts of Radio Singapore, and a television transmitter was erected at Bukit Batok. The staff consisted of experienced workers 
+        coming from the United Kingdom, Australia, and Japan. Ahead of the start of the pilot service, manufacturers of television 
+        sets were advised to ensure that their presets would match channels 5 and 8.</p>
+</section>
+<footer class="footer">
+    <div class="container-fluid text-center">
+        <span class="text-muted" id="date"></span>
+    </div>
+</footer>
+<script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script>
+    let today = new Date();
+    document.getElementById("date").innerHTML = "&copy; " + today.getFullYear() + ", Andor Salamon";
+</script>
+</body>
+</html>

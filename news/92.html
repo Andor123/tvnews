@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="This is a website dedicated to TV stations.">
+    <meta name="keywords" content="TV,news,stations,website">
+    <meta name="author" content="Salamon Andor">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>TV News</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="../css/index.css">
+</head>
+<body>
+<header>
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="nav">
+        <a class="navbar-brand" href="../index.html">TV NEWS</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar"
+                aria-controls="navbar" aria-expanded="false" aria-label="Toggle Navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbar">
+            <ul class="navbar-nav mr-auto">
+                <li class="navbar-item active">
+                    <a class="nav-link" href="../news.html">Latest News</a>
+                </li>
+                <li class="navbar-item">
+                    <a class="nav-link" href="../channels.html">TV Channels</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<section class="container-fluid text-center" id="section">
+    <h1 class="h1">Television in Malaysia</h1>
+    <p class="lead">Source: <em>Wikipedia</em></p>
+    <p class="lead">Malaysian television broadcasting was introduced on 28 December 1963. 
+        Colour television was introduced on 28 December 1978. Full-time colour transmissions were officially inaugurated on New Year's Day 1982. 
+        There are currently 16 national free-to-air terrestrial television channels in Malaysia 
+        and 3 national pay subscription television operators in Malaysia.</p>
+    <h2 class="h2">Broadcasting</h2>
+    <p class="lead">Transmissions in Malaysia were black-and-white until 28 December 1978, when colour transmissions were introduced. 
+        First stereo audio broadcasting was introduced in 1985 by TV3. Five out of eight channels do not have 24-hour schedule. 
+        24-hour television was introduced in Malaysia between 13 and 16 May 1989 on TV1. The first 24-hour broadcasting in Malaysia 
+        was introduced in 1997 by TV3, but was discontinued later due to energy-saving plan (see below). Since April 2006, 
+        TV2 broadcast round-the-clock followed by TV1, which began broadcasting 24 hours in August 2012 after 
+        having short-lived round-the-clock broadcast previously.</p>
+    <h2 class="h2">Analogue terrestrial television</h2>
+    <p class="lead">This was the traditional way of receiving television in Malaysia, however it is being supplanted by digital providers. 
+        There are eight channels; three of them are government public-owned by Radio Televisyen Malaysia (RTM). 
+        The three television channels are terrestrial free-to-air TV1, TV2 and Okey (formerly TVi). 
+        TV Alhijrah is owned by Alhijrah Media Corporation while TV3, NTV7, 8TV and TV9 are private and 
+        commercially owned by Media Prima. Worldview Broadcasting Channel was commercial-owned by Worldview Broadcasting Channel (M) Sdn Bhd. 
+        It has since closed down in October 2012 after they were unable to operate the channel due to financial difficulties. 
+        Analogue terrestrial transmissions were scheduled to be switched off in phases as part of the digital switchover, 
+        expected to be completed in 2020 as a recommendation from Southeast Asia. On 31 December 2018, digital television 
+        consortium MYTV Broadcasting scheduled the switchoff on third quarter 2019, to allow a period of digital 
+        set-top box distribution to eligible viewers with low income. The frequency has been moved to avoid signal 
+        jamming with television in Thailand and preventing Singaporeans from watching foreign-copyrighted programming, 
+        especially that contains Chinese dialects (mainly in Cantonese and Hokkien) on free-to-air, 
+        due to tight censorship currently in place in Singapore. The analogue were indefinitely switched off nationwide on 31 October 2019.</p>
+</section>
+<footer class="footer">
+    <div class="container-fluid text-center">
+        <span class="text-muted" id="date"></span>
+    </div>
+</footer>
+<script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script>
+    let today = new Date();
+    document.getElementById("date").innerHTML = "&copy; " + today.getFullYear() + ", Andor Salamon";
+</script>
+</body>
+</html>

@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="This is a website dedicated to TV stations.">
+    <meta name="keywords" content="TV,news,stations,website">
+    <meta name="author" content="Salamon Andor">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>TV News</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="../css/index.css">
+</head>
+<body>
+<header>
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="nav">
+        <a class="navbar-brand" href="../index.html">TV NEWS</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar"
+                aria-controls="navbar" aria-expanded="false" aria-label="Toggle Navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbar">
+            <ul class="navbar-nav mr-auto">
+                <li class="navbar-item active">
+                    <a class="nav-link" href="../news.html">Latest News</a>
+                </li>
+                <li class="navbar-item">
+                    <a class="nav-link" href="../channels.html">TV Channels</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<section class="container-fluid text-center" id="section">
+    <h1 class="h1">Television in the Philippines</h1>
+    <p class="lead">Source: <em>Wikipedia</em></p>
+    <p class="lead">Television in the Philippines was introduced in October 1953 with the 
+        first commercial broadcast by Alto Broadcasting System (now ABS-CBN), making the Philippines 
+        the first Southeast Asian country, and the second country in Asia, to broadcast. During the late 1940s, 
+        Filipino engineers and students replicated academic experiments with broadcasting.</p>
+    <p class="lead">From 1975 to 1978, the Sinag Awards were given by the Philippine Academy for Television Arts and Sciences (PATAS).</p>
+    <p class="lead">Star Awards for Television, the country's oldest existing television awards, 
+        are handed out annually by the Philippine Movie Press Club after being voted on by the press.</p>
+    <p class="lead">The Philippines has no public broadcasting television network, but there are several government-owned networks.</p>
+    <h2 class="h2">History</h2>
+    <h3 class="h3">The early years</h3>
+    <p class="lead">James Lindenberg, an American-born Filipino engineer dubbed the "father of Philippine television," 
+        began assembling transmitters and established Bolinao Electronics Corporation (BEC) on July 11, 1946. 
+        The company was named after his wife's hometown of Bolinao, Pangasinan. Three years later, he was the first to apply 
+        for a license in the Philippine Congress to establish a television station. On June 14, 1950, his request was granted. 
+        Due to the scarcity of raw materials and strict import control since 1948, he was compelled to branch into radio broadcasting instead.</p>
+    <p class="lead">Lindenberg's attempt to establish a television station failed, though it would soon fall under new management. 
+        Antonio Quirino, a judge and brother of then-president of the Philippines Elpidio Quirino, had been trying 
+        to get a license from Congress that would allow him to set up a television station. Congress denied him from 
+        getting such a license, primarily considered to result from fear that he might use it as a vehicle for propaganda for his brother, 
+        who was then running for a second term in the presidential elections of 1953. As a result, Quirino bought a 70% share in BEC, 
+        which indirectly granted him control of a television franchise. He changed the name of BEC to Alto Broadcasting System (ABS), 
+        after the names of its new owners, Aleli and Judge Antonio Quirino. Lindenberg continued to serve as co-owner and general manager.</p>
+    <h3 class="h3">Rising popularity</h3>
+    <p class="lead">At the turn of the next decade, TV sets were in high demand in urban areas. Other VHF TV stations also opened around this period. 
+        These include DZTV-TV (established on March 1, 1960, by Inter-Island Broadcasting Corporation (IBC), 
+        owned by Dick Baldwin and later Andrés Soriano Sr. of San Miguel Corporation), DZBB-TV (established on October 29, 1961, 
+        by Republic Broadcasting System (RBS), owned by Robert Stewart),[8] DZFM-TV (established in 1961 by the Philippine Broadcasting Service 
+        of the Philippine government, now defunct),[9] DZRH-TV (established on April 11, 1962, by the Manila Broadcasting Company (MBC), 
+        owned by Manuel "Manolo" Elizalde Sr.), DZTM-TV (established in July 1962, by Associated Broadcasting Corporation (ABC), 
+        owned by Chino Roces, the publisher of The Manila Times),[10] DZFU-TV (established in August 1962, by FEATI University, now defunct), 
+        and DZKB-TV (established on October 15, 1969, by Kanlaon Broadcasting System (KBS), owned by Roberto Benedicto). 
+        Among the top-rated programs in the 1960s were The Nida-Nestor Show, Buhay Artista, and Pancho Loves Tita. 
+        Another local show that has had a prevailing top rating is Tawag ng Tanghalan, the amateur singing contest hosted by Lopito and Patsy.</p>
+</section>
+<footer class="footer">
+    <div class="container-fluid text-center">
+        <span class="text-muted" id="date"></span>
+    </div>
+</footer>
+<script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script>
+    let today = new Date();
+    document.getElementById("date").innerHTML = "&copy; " + today.getFullYear() + ", Andor Salamon";
+</script>
+</body>
+</html>

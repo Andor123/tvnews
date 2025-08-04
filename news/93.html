@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="This is a website dedicated to TV stations.">
+    <meta name="keywords" content="TV,news,stations,website">
+    <meta name="author" content="Salamon Andor">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>TV News</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="../css/index.css">
+</head>
+<body>
+<header>
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="nav">
+        <a class="navbar-brand" href="../index.html">TV NEWS</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar"
+                aria-controls="navbar" aria-expanded="false" aria-label="Toggle Navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbar">
+            <ul class="navbar-nav mr-auto">
+                <li class="navbar-item active">
+                    <a class="nav-link" href="../news.html">Latest News</a>
+                </li>
+                <li class="navbar-item">
+                    <a class="nav-link" href="../channels.html">TV Channels</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<section class="container-fluid text-center" id="section">
+    <h1 class="h1">Television in Brunei</h1>
+    <p class="lead">Source: <em>Wikipedia</em></p>
+    <p class="lead">Ahead of the launching of television service in Brunei, the broadcaster sent more than five of 
+        its staff members to undergo training at Radio Television Singapore (RTS) in late January 1975.</p>
+    <p class="lead">Radio Television Brunei launched its first pilot television broadcast on 1 February 1975 
+        when RTB Television Brunei test transmissions began. Official regular television services began on 1 March 1975 from Brunei-Muara District. 
+        RTB1 was officially opened by the Sultan of Brunei, Hassanal Bolkiah on 9 July 1975, 
+        with the Radio Brunei and Television Brunei identities merging to become Radio Television Brunei, abbreviated as RTB. 
+        There were only three staff members in the RTB studio and four to attend the transmitter.</p>
+    <ul class="list-group">
+        <li class="list-group-item">Phase 1 - Used part of the Radio Studios as the television station.</li>
+        <li class="list-group-item">Phase 2 - Utilising the current multi-purpose studio complex which was fully commissioned by 1980. 
+            A second television transmitter was commissioned at Brunei-Muara District on 1 March 1976.</li>
+    </ul>
+    <p class="lead">On 1 March 1976 was also the year of the first outside television broadcast which was the 
+        coverage of His Majesty's birthday parade from the then 'Town Padang'. The television project was budgeted at B$35M. 
+        FM Stereo Radio Services from Brunei-Muara District started on 1 March 1977. At the same time, two high power medium 
+        wave stations in Brunei-Muara District commenced transmission of the Malay language service. Today, around 1,100 employees work in RTB. 
+        Coverage by radio and television is almost 100% for Brunei.</p>
+</section>
+<footer class="footer">
+    <div class="container-fluid text-center">
+        <span class="text-muted" id="date"></span>
+    </div>
+</footer>
+<script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script>
+    let today = new Date();
+    document.getElementById("date").innerHTML = "&copy; " + today.getFullYear() + ", Andor Salamon";
+</script>
+</body>
+</html>
