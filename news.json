@@ -374,5 +374,29 @@
   {
     "id": 94,
     "news": "Television in Singapore"
+  },
+  {
+    "id": 95,
+    "news": "Television in Indonesia"
+  },
+  {
+    "id": 96,
+    "news": "Television in Timor-Leste"
+  },
+  {
+    "id": 97,
+    "news": "Television in Papua New Guinea"
+  },
+  {
+    "id": 98,
+    "news": "Television in the Solomon Islands"
+  },
+  {
+    "id": 99,
+    "news": "Television in Australia"
+  },
+  {
+    "id": 100,
+    "news": "Television in New Zealand"
   }
 ]

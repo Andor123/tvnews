@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="This is a website dedicated to TV stations.">
+    <meta name="keywords" content="TV,news,stations,website">
+    <meta name="author" content="Salamon Andor">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>TV News</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="../css/index.css">
+</head>
+<body>
+<header>
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="nav">
+        <a class="navbar-brand" href="../index.html">TV NEWS</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar"
+                aria-controls="navbar" aria-expanded="false" aria-label="Toggle Navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbar">
+            <ul class="navbar-nav mr-auto">
+                <li class="navbar-item active">
+                    <a class="nav-link" href="../news.html">Latest News</a>
+                </li>
+                <li class="navbar-item">
+                    <a class="nav-link" href="../channels.html">TV Channels</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<section class="container-fluid text-center" id="section">
+    <h1 class="h1">Television in Indonesia</h1>
+    <p class="lead">Source: <em>Wikipedia</em></p>
+    <p class="lead">Television in Indonesia started in 1962 (during the opening ceremony of the 1962 Asian Games), 
+        when the then state-run station TVRI began broadcasting – the third country in Southeast Asia to do so. 
+        TVRI held a television monopoly in Indonesia until 1989 when the first commercial station, 
+        RCTI began as a local station and was subsequently granted a national license a year later. 
+        The Indonesian television is regulated by both Ministry of Communication and Digital Affairs (Komdigi) 
+        for frequency matters and Indonesian Broadcasting Commission (KPI) for content matters.</p>
+    <p class="lead">Each of the networks have a wide variety of programmes, ranging from traditional shows, 
+        such as wayang performances, to Western-based programmes such as Indonesian Idol, Family Feud, MasterChef, 
+        Top Model and The Voice. One typical television show common to almost every network is sinetron. 
+        Sinetron is usually a drama series, following the soap opera format, but can also refer to any fictional series. 
+        Sometimes it can be comedic, like the popular Bajaj Bajuri series, featuring a bajaj driver and the people he drives around.</p>
+    <h2 class="h2">History</h2>
+    <p class="lead">The first time the Indonesian public witnessed the demonstration of a television was in 1955 in Yogyakarta, 
+        during a municipal fair commemorating the city's bicentennial (Republican spelling Indonesian: Pekan Raja 200 Tahun Kota Jogjakarta). 
+        These first televisions were brought from the Soviet Union.</p>
+    <p class="lead">However, the initial idea to establish a television station in Indonesia was put 
+        forward by then Minister of Information Maladi as far as 1952. The argument is that the station would be useful for 
+        the socialization of the upcoming 1955 general election, but the idea was failed because the idea was deemed as too expensive by the cabinet.</p>
+    <p class="lead">As the only TV station in Indonesia for many years, aside from coverage of state events, sessions of the 
+        People's Consultative Assembly and national holidays, as well as news, educational programming and regional programs 
+        in the many regional languages, TVRI had also broadcast entertainment, child-oriented and sports programmes to suit the needs of the viewing public. 
+        As part of the plans of the Fifth Development Cabinet, however, noticing how its ASEAN neighbours had operated private television channels 
+        with success (Malaysia had its own by then sole private TV channel TV3, which opened in 1984 and the Philippines and Thailand also 
+        had private TV stations in conjunction with the state networks, while TVRI was by then in the same situation as in 
+        Laos, Myanmar, Cambodia and Brunei which all had only a state TV channel while Vietnam had both national and state-sponsored regional stations), 
+        the door was opened for the formation of private television stations and an end to the TVRI monopoly, 
+        while the former was starting to become a true national network when it launched TVRI Program 2 (Programma 2), 
+        which signed on on April 1, 1989, as the Metro Jakarta station offering both national programming and local productions.</p>
+</section>
+<footer class="footer">
+    <div class="container-fluid text-center">
+        <span class="text-muted" id="date"></span>
+    </div>
+</footer>
+<script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script>
+    let today = new Date();
+    document.getElementById("date").innerHTML = "&copy; " + today.getFullYear() + ", Andor Salamon";
+</script>
+</body>
+</html>

@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="This is a website dedicated to TV stations.">
+    <meta name="keywords" content="TV,news,stations,website">
+    <meta name="author" content="Salamon Andor">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>TV News</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="../css/index.css">
+</head>
+<body>
+<header>
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="nav">
+        <a class="navbar-brand" href="../index.html">TV NEWS</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar"
+                aria-controls="navbar" aria-expanded="false" aria-label="Toggle Navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbar">
+            <ul class="navbar-nav mr-auto">
+                <li class="navbar-item active">
+                    <a class="nav-link" href="../news.html">Latest News</a>
+                </li>
+                <li class="navbar-item">
+                    <a class="nav-link" href="../channels.html">TV Channels</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<section class="container-fluid text-center" id="section">
+    <h1 class="h1">Television in New Zealand</h1>
+    <p class="lead">Source: <em>Wikipedia</em></p>
+    <p class="lead">Television in New Zealand was introduced in 1960 as a state-run service. 
+        The broadcasting sector was deregulated in 1989, when the Government allowed competition 
+        to the state-owned TVNZ (Television New Zealand). There are currently three forms of broadcast television: 
+        a terrestrial (DVB-T) service provided by Freeview; as well as satellite (DVB-S) and internet streaming (IPTV) 
+        services provided nationwide by both Freeview and Sky.</p>
+    <p class="lead">The first nationwide digital television service was launched in December 1998 by Sky, 
+        who had a monopoly on digital satellite television until the launch of Freeview's nationwide digital satellite service in May 2007. 
+        The Freeview digital terrestrial service launched on 14 April 2008. A pay digital terrestrial service was launched in 2012 
+        by Igloo and closed in 2017; this was a joint venture between Sky and TVNZ and provided 
+        Freeview UHF aerial channels along with eleven Sky channels. In July 2016, Sky announced that Igloo will 
+        be discontinued although Freeview channels will still be available. Up until 2023, Vodafone (now One NZ) 
+        operated an IPTV television service, with free-to-air channels and wholesale content from Sky.</p>
+    <h2 class="h2">History</h2>
+    <p class="lead">Full-time television broadcasting was first introduced in New Zealand in 1960 and transmitted 
+        from the NZBC's existing 1YA radio broadcasting facility at 74 Shortland Street in Auckland, now home 
+        to the University of Auckland's Gus Fisher Gallery. The annual television licence fee was £NZ4 ($8). 
+        Prime Minister Walter Nash had made a surprise announcement (a surprise both to the NZBS and to other members 
+        of the Labour government) in London in November 1959 that New Zealand would have television within twelve months; 
+        the system was to be state-owned but to carry commercials, and would be introduced in stages in the four main centres. 
+        The first non-experimental programme was transmitted on Wednesday 1 June 1960.</p>
+    <p class="lead">New Zealand, like Australia and most of western Europe, adopted the 625-line standard for television. 
+        In contrast, United Kingdom used the 405-line standard exclusively until 1964.</p>
+    <p class="lead">Initially, programming was done on a regional basis, with different services broadcasting from the main cities, 
+        AKTV2 in Auckland, being the first on 1 June 1960, followed in 1961 by CHTV3 in Christchurch on 1 June and WNTV1 
+        in Wellington on 1 July, and then DNTV2 in Dunedin on 31 July 1962. There was no network between the stations at the time; 
+        tapes of shows were transferred between each station for broadcast, usually starting in Auckland and working their way south to Dunedin. 
+        Today, however, programming and scheduling is done in Auckland where all the major networks are now headquartered.</p>
+</section>
+<footer class="footer">
+    <div class="container-fluid text-center">
+        <span class="text-muted" id="date"></span>
+    </div>
+</footer>
+<script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script>
+    let today = new Date();
+    document.getElementById("date").innerHTML = "&copy; " + today.getFullYear() + ", Andor Salamon";
+</script>
+</body>
+</html>
