@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="This is a website dedicated to TV stations.">
+    <meta name="keywords" content="TV,news,stations,website">
+    <meta name="author" content="Salamon Andor">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>TV News</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="../css/index.css">
+</head>
+<body>
+<header>
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="nav">
+        <a class="navbar-brand" href="../index.html">TV NEWS</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar"
+                aria-controls="navbar" aria-expanded="false" aria-label="Toggle Navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbar">
+            <ul class="navbar-nav mr-auto">
+                <li class="navbar-item active">
+                    <a class="nav-link" href="../news.html">Latest News</a>
+                </li>
+                <li class="navbar-item">
+                    <a class="nav-link" href="../channels.html">TV Channels</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<section class="container-fluid text-center" id="section">
+    <h1 class="h1">Television in Fiji</h1>
+    <p class="lead">Source: <em>Wikipedia</em></p>
+    <p class="lead">Fiji Television Limited is one of Fiji's main television networks. 
+        It was founded on 15 June 1994 as the first permanent commercial television broadcasting network in the country, 
+        although television had previously been introduced temporarily in October 1991 to broadcast the Rugby World Cup 
+        as well as Cricket World Cup. This was reviewed and reissued in 2000 for a term of 12 years. Fiji TV was listed 
+        as a public company in 1996 on the Suva Stock Exchange, now known as the South Pacific Stock Exchange.</p>
+    <p class="lead">The Fijian Broadcasting Corporation (FBC) is one of the two radio broadcasters in Fiji. 
+        It was known as Fiji Broadcasting Commission when it began. It traces its history to 1935 when it first began operating under 
+        licence from the Posts and Telegraphs Department with the call sign ZJV. At the end of 1952, the legislative council passed 
+        the Broadcasting Commission Bill. The commission members were appointed in June 1953. On 1 July 1954, the commission's first programme 
+        was broadcast as part of the official opening ceremony.</p>
+    <p class="lead">Mai TV is a commercial free-to-air TV network based in the Fiji Islands. The company was founded in 2006 by Richard Broadbridge 
+        and began broadcasts in June 2008. It is full privately owned and broadcasts to 100% of the Fiji group of islands. 
+        Mai TV's head office is at Garden City Suva.</p>
+    <p class="lead">Pacific Broadcasting Services was a company jointly owned by City West Centre Broadcasting Services and BPHCL. 
+        Its core business is to deliver satellite subscription television and radio broadcasting services to the Fiji Islands 
+        and surrounding markets, focussing on both Hindi and English speaking households and commercial outlets.</p>
+</section>
+<footer class="footer">
+    <div class="container-fluid text-center">
+        <span class="text-muted" id="date"></span>
+    </div>
+</footer>
+<script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script>
+    let today = new Date();
+    document.getElementById("date").innerHTML = "&copy; " + today.getFullYear() + ", Andor Salamon";
+</script>
+</body>
+</html>

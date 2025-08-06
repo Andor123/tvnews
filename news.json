@@ -398,5 +398,21 @@
   {
     "id": 100,
     "news": "Television in New Zealand"
+  },
+  {
+    "id": 101,
+    "news": "Television in Fiji"
+  },
+  {
+    "id": 102,
+    "news": "Television in Vanuatu"
+  },
+  {
+    "id": 103,
+    "news": "Television in the Federated States of Micronesia"
+  },
+  {
+    "id": 104,
+    "news": "Television in Kiribati"
   }
 ]

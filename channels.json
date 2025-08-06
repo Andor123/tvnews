@@ -4570,5 +4570,53 @@
     "image": "https://upload.wikimedia.org/wikipedia/en/b/bb/Three_NZ_2023.svg",
     "channel_name": "Three",
     "country": "New Zealand"
+  },
+  {
+    "id": 763,
+    "image": "https://upload.wikimedia.org/wikipedia/en/0/06/FijiOneLogo.jpg",
+    "channel_name": "Fiji One",
+    "country": "Fiji"
+  },
+  {
+    "id": 764,
+    "image": "https://upload.wikimedia.org/wikipedia/en/4/43/FBCTVLogo.jpg",
+    "channel_name": "FBC TV",
+    "country": "Fiji"
+  },
+  {
+    "id": 765,
+    "image": "https://upload.wikimedia.org/wikipedia/en/4/47/Mai_tv_1.png",
+    "channel_name": "Mai TV",
+    "country": "Fiji"
+  },
+  {
+    "id": 766,
+    "image": "https://upload.wikimedia.org/wikipedia/en/5/58/PBSTVlogo.png",
+    "channel_name": "PBS TV",
+    "country": "Fiji"
+  },
+  {
+    "id": 767,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIIZXUcpylE2NfIQW3ZokfjYppuXXh1QcYMw&s",
+    "channel_name": "Television Blong Vanuatu",
+    "country": "Vanuatu"
+  },
+  {
+    "id": 768,
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_n0JfN8fu2aENgXozpNMA_9r2CXc6DCBXsuc5oyLBp9I_w=s900-c-k-c0x00ffffff-no-rj",
+    "channel_name": "Vanuatu TV",
+    "country": "Vanuatu"
+  },
+  {
+    "id": 769,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCA9OYXuprM5oJHX-w9rP317nQwbBb21Xy_Q&s",
+    "channel_name": "Micronesia.tv",
+    "country": "Micronesia"
+  },
+  {
+    "id": 770,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ1riDA3RQ9HG02HzvjgmeTgdPk5lxNuKqEiyfnrAmy5QB_FiMlXLgap7EvMol__Z5X2w&usqp=CAU",
+    "channel_name": "Kiri 1 TV",
+    "country": "Kiribati"
   }
 ]
