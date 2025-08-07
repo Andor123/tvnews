@@ -4609,14 +4609,74 @@
   },
   {
     "id": 769,
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCA9OYXuprM5oJHX-w9rP317nQwbBb21Xy_Q&s",
-    "channel_name": "Micronesia.tv",
-    "country": "Micronesia"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDh_TpvzATZXfdii6-uqKxL7iJfPgaVlIPCQ&s",
+    "channel_name": "V6AH",
+    "country": "Federated States of Micronesia"
   },
   {
     "id": 770,
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ1riDA3RQ9HG02HzvjgmeTgdPk5lxNuKqEiyfnrAmy5QB_FiMlXLgap7EvMol__Z5X2w&usqp=CAU",
     "channel_name": "Kiri 1 TV",
     "country": "Kiribati"
+  },
+  {
+    "id": 771,
+    "image": "https://upload.wikimedia.org/wikipedia/en/8/8e/V_7_A_B_logo.png",
+    "channel_name": "V7AB",
+    "country": "Marshall Islands"
+  },
+  {
+    "id": 772,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTCESlLfQIzhK7-Lf5ZgYRF9b9ylqqTUYTRQ&s",
+    "channel_name": "Nauru Television",
+    "country": "Nauru"
+  },
+  {
+    "id": 773,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyVZXLaiQOqm40a42GY03P9QKXD7bKf4ivdw&s",
+    "channel_name": "TMC Palau",
+    "country": "Palau"
+  },
+  {
+    "id": 774,
+    "image": "https://tv1samoa.com/wp-content/uploads/2021/07/tv1-round.png",
+    "channel_name": "TV1 Samoa",
+    "country": "Samoa"
+  },
+  {
+    "id": 775,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCEUxU44IPi8E9QQ5j5dYy-zRCBWGQoiNGXg&s",
+    "channel_name": "EFKS TV",
+    "country": "Samoa"
+  },
+  {
+    "id": 776,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThs-JJg3GcE7pwOBRkYodfZkhnO1tLKIGQlA&s",
+    "channel_name": "TV3 Samoa",
+    "country": "Samoa"
+  },
+  {
+    "id": 777,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR98OC8GrUqSrz2J9E1LCZ2q6llWNxL7PeXQw&s",
+    "channel_name": "TV5 Samoa",
+    "country": "Samoa"
+  },
+  {
+    "id": 778,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSxeGrHPmr_-j_pIss6rBUYA9upM1b7Vn3Bg&s",
+    "channel_name": "Kingdom TV",
+    "country": "Samoa"
+  },
+  {
+    "id": 779,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtOCZWNMjNYY7Ar8K5t2TG5bDvENK8k6KJPw&s",
+    "channel_name": "TV Tonga",
+    "country": "Tonga"
+  },
+  {
+    "id": 780,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Tuvalu-Telecom-768x201.png",
+    "channel_name": "TTC",
+    "country": "Tuvalu"
   }
 ]

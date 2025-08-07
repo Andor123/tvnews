@@ -414,5 +414,29 @@
   {
     "id": 104,
     "news": "Television in Kiribati"
+  },
+  {
+    "id": 105,
+    "news": "Television in the Marshall Islands"
+  },
+  {
+    "id": 106,
+    "news": "Television in Nauru"
+  },
+  {
+    "id": 107,
+    "news": "Television in Palau"
+  },
+  {
+    "id": 108,
+    "news": "Television in Samoa"
+  },
+  {
+    "id": 109,
+    "news": "Television in Tonga"
+  },
+  {
+    "id": 110,
+    "news": "Television in Tuvalu"
   }
 ]
