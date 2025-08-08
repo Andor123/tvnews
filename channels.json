@@ -4639,7 +4639,7 @@
   },
   {
     "id": 774,
-    "image": "https://tv1samoa.com/wp-content/uploads/2021/07/tv1-round.png",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgVH0ft4KcL9ElONWA9T_ZMubwXZjfCugjOA&s",
     "channel_name": "TV1 Samoa",
     "country": "Samoa"
   },
@@ -4678,5 +4678,53 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Tuvalu-Telecom-768x201.png",
     "channel_name": "TTC",
     "country": "Tuvalu"
+  },
+  {
+    "id": 781,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Nile_TV.jpg",
+    "channel_name": "Nile TV",
+    "country": "Egypt"
+  },
+  {
+    "id": 782,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/MBC_Masr_Logo.png",
+    "channel_name": "MBC Masr",
+    "country": "Egypt"
+  },
+  {
+    "id": 783,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Dream_1.svg",
+    "channel_name": "Dream 1",
+    "country": "Egypt"
+  },
+  {
+    "id": 784,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/78/ELMEHWAR_TV.png",
+    "channel_name": "Mehwar TV",
+    "country": "Egypt"
+  },
+  {
+    "id": 785,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/CBC_TV.png",
+    "channel_name": "CBC",
+    "country": "Egypt"
+  },
+  {
+    "id": 786,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/ON_logo.png",
+    "channel_name": "ON E",
+    "country": "Egypt"
+  },
+  {
+    "id": 787,
+    "image": "https://upload.wikimedia.org/wikipedia/ar/b/b3/%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86_%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86.svg",
+    "channel_name": "Sudan TV",
+    "country": "Sudan"
+  },
+  {
+    "id": 788,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWPKqdMdj9MSBw7nzDNSe8u7XKry0nUlcOfA&s",
+    "channel_name": "Blue Nile TV",
+    "country": "Sudan"
   }
 ]
