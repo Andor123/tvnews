@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="This is a website dedicated to TV stations.">
+    <meta name="keywords" content="TV,news,stations,website">
+    <meta name="author" content="Salamon Andor">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>TV News</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="../css/index.css">
+</head>
+<body>
+<header>
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="nav">
+        <a class="navbar-brand" href="../index.html">TV NEWS</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar"
+                aria-controls="navbar" aria-expanded="false" aria-label="Toggle Navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbar">
+            <ul class="navbar-nav mr-auto">
+                <li class="navbar-item active">
+                    <a class="nav-link" href="../news.html">Latest News</a>
+                </li>
+                <li class="navbar-item">
+                    <a class="nav-link" href="../channels.html">TV Channels</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<section class="container-fluid text-center" id="section">
+    <h1 class="h1">Television in Cape Verde</h1>
+    <p class="lead">Source: <em>Wikipedia</em></p>
+    <p class="lead">There are three television stations in Cape Verde, one state owned (RTC - TCV) and three foreign owned, 
+        RTI Cabo Verde launched by the Portuguese-based RTI in 2005, on March 31, 2007, Record Cabo Verde, 
+        its own version was launched by the Brazilian-based Rede Record. and TIVER. Cape Verde has now received TV CPLP 
+        and some of its programs are broadcast, the network first aired in 2016. Premium channels includes the Capeverdean versions 
+        of Boom TV and Zap Cabo Verde, two channels owned by Brazil's Record.[3] Other premium channels are aired in Cape Verde 
+        especially on satellite networks, they are common in hotels and villas but availability is predominantly limited, 
+        one of them is RDP África, the African version of the Portuguese radio station RDP.</p>
+    <p class="lead">The media is operated by the Capeverdean News Agency (secondarily as Inforpress).</p>
+    <p class="lead">Nationwide radio stations include RCV, RCV+, Radio Kriola, the religious station Radio Nova. 
+        Local radio stations include Rádio Praia, the first radio station in Cape Verde, Praia FM, 
+        the first FM station in the nation, Rádio Voz de Ponta d'Água of North Praia and Radio Morabeza in Mindelo.</p>
+    <p class="lead">Radio stations formerly existed included and Rádio Clube do Mindelo which later became Rádio Barlavento which existed until 1975, 
+        it was later replaced with Rádio Voz de São Vicente and became part of RCV.</p>
+</section>
+<footer class="footer">
+    <div class="container-fluid text-center">
+        <span class="text-muted" id="date"></span>
+    </div>
+</footer>
+<script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script>
+    let today = new Date();
+    document.getElementById("date").innerHTML = "&copy; " + today.getFullYear() + ", Andor Salamon";
+</script>
+</body>
+</html>
