@@ -4930,5 +4930,53 @@
     "image": "https://upload.wikimedia.org/wikipedia/en/7/71/Logo_of_T%C3%A9levision_de_Mauritanie.png",
     "channel_name": "El Mouritaniya",
     "country": "Mauritania"
+  },
+  {
+    "id": 823,
+    "image": "https://upload.wikimedia.org/wikipedia/en/5/5a/Ortm_logo_2008.png",
+    "channel_name": "ORTM",
+    "country": "Mali"
+  },
+  {
+    "id": 824,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Africable_T%C3%A9l%C3%A9vision_logo.jpg",
+    "channel_name": "Africable",
+    "country": "Mali"
+  },
+  {
+    "id": 825,
+    "image": "https://upload.wikimedia.org/wikipedia/fr/b/b7/T%C3%A9l%C3%A9_Sahel.png",
+    "channel_name": "Télé Sahel",
+    "country": "Niger"
+  },
+  {
+    "id": 826,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZBJqSyxmUNwMrwArBTFzDpw3X_6Lw1p9Yyw&s",
+    "channel_name": "Dounia TV",
+    "country": "Niger"
+  },
+  {
+    "id": 827,
+    "image": "https://upload.wikimedia.org/wikipedia/fr/e/e5/RTS1_logo.jpg",
+    "channel_name": "RTS 1",
+    "country": "Senegal"
+  },
+  {
+    "id": 828,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqJUZUZH_eZFzCRJXhKqjcI6xuteiYbSPvfw&s",
+    "channel_name": "RTS 2",
+    "country": "Senegal"
+  },
+  {
+    "id": 829,
+    "image": "https://upload.wikimedia.org/wikipedia/fr/a/ab/2sTV_logo.png",
+    "channel_name": "2sTV",
+    "country": "Senegal"
+  },
+  {
+    "id": 830,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ_I8tBTtpvl7KFxDBDEQqU513IZhjDTtDnA&s",
+    "channel_name": "GRTS",
+    "country": "Gambia"
   }
 ]
