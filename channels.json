@@ -4978,5 +4978,53 @@
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ_I8tBTtpvl7KFxDBDEQqU513IZhjDTtDnA&s",
     "channel_name": "GRTS",
     "country": "Gambia"
+  },
+  {
+    "id": 831,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlWu5gdVmapWZnWChzH0VG2DS89mbu_BQq3Q&s",
+    "channel_name": "TGB",
+    "country": "Guinea-Bissau"
+  },
+  {
+    "id": 832,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCJ0TZAB-kt-Pz0hjfelAHmOmpZSjL2Dz3Vw&s",
+    "channel_name": "RTG",
+    "country": "Guinea"
+  },
+  {
+    "id": 833,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZRWeUqAWx63Nh4vyO8RP_JQAc8JdJAjDCDQ&s",
+    "channel_name": "SLBC",
+    "country": "Sierra Leone"
+  },
+  {
+    "id": 834,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8eTzTxqNUrsPano0bNSR9Bdlf7Nx2a7sVVg&s",
+    "channel_name": "LNTV",
+    "country": "Liberia"
+  },
+  {
+    "id": 835,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/42/Logo_RTI_1.svg",
+    "channel_name": "RTI 1",
+    "country": "Ivory Coast"
+  },
+  {
+    "id": 836,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/RTI_2.png",
+    "channel_name": "RTI 2",
+    "country": "Ivory Coast"
+  },
+  {
+    "id": 837,
+    "image": "https://www.sidt.ci/uploads/f7de7339f3b876b864b18a9008360ff4.png",
+    "channel_name": "RTI 3",
+    "country": "Ivory Coast"
+  },
+  {
+    "id": 838,
+    "image": "https://upload.wikimedia.org/wikipedia/fr/7/7f/Radio_T%C3%A9l%C3%A9vision_Burkina_logo.jpg",
+    "channel_name": "RTB",
+    "country": "Burkina Faso"
   }
 ]

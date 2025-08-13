@@ -486,5 +486,29 @@
   {
     "id": 122,
     "news": "Television in the Gambia"
+  },
+  {
+    "id": 123,
+    "news": "Television in Guinea-Bissau"
+  },
+  {
+    "id": 124,
+    "news": "Television in Guinea"
+  },
+  {
+    "id": 125,
+    "news": "Television in Sierra Leone"
+  },
+  {
+    "id": 126,
+    "news": "Television in Liberia"
+  },
+  {
+    "id": 127,
+    "news": "Television in Ivory Coast"
+  },
+  {
+    "id": 128,
+    "news": "Television in Burkina Faso"
   }
 ]
