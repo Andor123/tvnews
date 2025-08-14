@@ -5026,5 +5026,125 @@
     "image": "https://upload.wikimedia.org/wikipedia/fr/7/7f/Radio_T%C3%A9l%C3%A9vision_Burkina_logo.jpg",
     "channel_name": "RTB",
     "country": "Burkina Faso"
+  },
+  {
+    "id": 839,
+    "image": "https://upload.wikimedia.org/wikipedia/en/a/a5/Ghana_TV.png",
+    "channel_name": "GTV",
+    "country": "Ghana"
+  },
+  {
+    "id": 840,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/GHOne_TV_logo.png",
+    "channel_name": "GHOne TV",
+    "country": "Ghana"
+  },
+  {
+    "id": 841,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Metro_TV_Ghana_logo.png",
+    "channel_name": "Metro TV",
+    "country": "Ghana"
+  },
+  {
+    "id": 842,
+    "image": "https://www.ghanayello.com/img/gh/s/1595777572-34-multi-tv.png",
+    "channel_name": "Multi TV",
+    "country": "Ghana"
+  },
+  {
+    "id": 843,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/TV_Africa_logos.png",
+    "channel_name": "TV Africa",
+    "country": "Ghana"
+  },
+  {
+    "id": 844,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/TV3_Ghana_Logo.png",
+    "channel_name": "TV3",
+    "country": "Ghana"
+  },
+  {
+    "id": 845,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/UTV_Ghana_Logos.png",
+    "channel_name": "UTV",
+    "country": "Ghana"
+  },
+  {
+    "id": 846,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Logo_TVT_FORMAT_6X6.jpg",
+    "channel_name": "Télévision Togolaise",
+    "country": "Togo"
+  },
+  {
+    "id": 847,
+    "image": "https://yt3.googleusercontent.com/knuZaqlIDggxkLLDRR6t9SgrWl_qQJaU9h7NUdKdwGJQWS1fpJdzqGqWQYJuzywYzT5zdTSB1A=s900-c-k-c0x00ffffff-no-rj",
+    "channel_name": "Bénin TV",
+    "country": "Benin"
+  },
+  {
+    "id": 848,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf41eAiVcyPbBeIxEGy5XpJVH4VIAISCVxsQ&s",
+    "channel_name": "Bénin TV Junior",
+    "country": "Benin"
+  },
+  {
+    "id": 849,
+    "image": "https://upload.wikimedia.org/wikipedia/en/1/1c/Logo_of_the_Nigerian_Television_Authority.png",
+    "channel_name": "NTA Network Service",
+    "country": "Nigeria"
+  },
+  {
+    "id": 850,
+    "image": "https://upload.wikimedia.org/wikipedia/en/c/c2/AfricaMagicShowcase-logo.png",
+    "channel_name": "AM Showcase",
+    "country": "Nigeria"
+  },
+  {
+    "id": 851,
+    "image": "https://upload.wikimedia.org/wikipedia/en/7/75/AfricaMagicUrban-logo.png",
+    "channel_name": "AM Urban",
+    "country": "Nigeria"
+  },
+  {
+    "id": 852,
+    "image": "https://upload.wikimedia.org/wikipedia/en/2/2c/AfricaMagicEpic-logo.png",
+    "channel_name": "AM Epic",
+    "country": "Nigeria"
+  },
+  {
+    "id": 853,
+    "image": "https://upload.wikimedia.org/wikipedia/en/b/ba/AfricaMagicFamily-logo.png",
+    "channel_name": "AM Family",
+    "country": "Nigeria"
+  },
+  {
+    "id": 854,
+    "image": "https://upload.wikimedia.org/wikipedia/en/a/ad/AIT_News_Logo.jpg",
+    "channel_name": "AIT",
+    "country": "Nigeria"
+  },
+  {
+    "id": 855,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGZx6oHXX3PLzInqCn88V_bNnEtIr_Mm3AGg&s",
+    "channel_name": "Silverbird TV",
+    "country": "Nigeria"
+  },
+  {
+    "id": 856,
+    "image": "https://upload.wikimedia.org/wikipedia/en/6/6f/Galaxytvhdlogo.png",
+    "channel_name": "Galaxy TV",
+    "country": "Nigeria"
+  },
+  {
+    "id": 857,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Wale_Adenuga_production_logo.jpg",
+    "channel_name": "WAP TV",
+    "country": "Nigeria"
+  },
+  {
+    "id": 858,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/KAFTAN_TV_Logo.jpg",
+    "channel_name": "KAFTAN TV",
+    "country": "Nigeria"
   }
 ]
