@@ -5146,5 +5146,77 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/KAFTAN_TV_Logo.jpg",
     "channel_name": "KAFTAN TV",
     "country": "Nigeria"
+  },
+  {
+    "id": 859,
+    "image": "https://www.onama.td/wp-content/uploads/2025/07/Design-sans-titre-4.png",
+    "channel_name": "Onama",
+    "country": "Chad"
+  },
+  {
+    "id": 860,
+    "image": "https://upload.wikimedia.org/wikipedia/en/6/6d/CRTV_logo_2017.png",
+    "channel_name": "CRTV",
+    "country": "Cameroon"
+  },
+  {
+    "id": 861,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b1/TCF_Logo.jpg",
+    "channel_name": "TCF",
+    "country": "Central African Republic"
+  },
+  {
+    "id": 862,
+    "image": "https://upload.wikimedia.org/wikipedia/ca/f/f9/Televisio_santomense.jpg",
+    "channel_name": "TVS",
+    "country": "São Tomé and Príncipe"
+  },
+  {
+    "id": 863,
+    "image": "https://upload.wikimedia.org/wikipedia/en/7/70/Tvge.png",
+    "channel_name": "TVGE",
+    "country": "Equatorial Guinea"
+  },
+  {
+    "id": 864,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d4/GabonTV.png",
+    "channel_name": "Gabon TV",
+    "country": "Gabon"
+  },
+  {
+    "id": 865,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4mUU4-ENAVaYyr9PvcBg81DatIgatK7mWtg&s",
+    "channel_name": "Télé Congo",
+    "country": "Republic of the Congo"
+  },
+  {
+    "id": 866,
+    "image": "https://upload.wikimedia.org/wikipedia/en/9/98/Logo-RTNC.png",
+    "channel_name": "RTNC",
+    "country": "Democratic Republic of the Congo"
+  },
+  {
+    "id": 867,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_Antenne_A.png",
+    "channel_name": "Antenne A",
+    "country": "Democratic Republic of the Congo"
+  },
+  {
+    "id": 868,
+    "image": "https://upload.wikimedia.org/wikipedia/fr/e/ef/CKTV.png",
+    "channel_name": "CKTV",
+    "country": "Democratic Republic of the Congo"
+  },
+  {
+    "id": 869,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Madi_TV_Logo.png",
+    "channel_name": "Madi TV",
+    "country": "Democratic Republic of the Congo"
+  },
+  {
+    "id": 870,
+    "image": "https://upload.wikimedia.org/wikipedia/fr/e/e2/Mirador_TV.jpg",
+    "channel_name": "Mirador TV",
+    "country": "Democratic Republic of the Congo"
   }
 ]

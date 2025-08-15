@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="This is a website dedicated to TV stations.">
+    <meta name="keywords" content="TV,news,stations,website">
+    <meta name="author" content="Salamon Andor">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>TV News</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="../css/index.css">
+</head>
+<body>
+<header>
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="nav">
+        <a class="navbar-brand" href="../index.html">TV NEWS</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar"
+                aria-controls="navbar" aria-expanded="false" aria-label="Toggle Navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbar">
+            <ul class="navbar-nav mr-auto">
+                <li class="navbar-item active">
+                    <a class="nav-link" href="../news.html">Latest News</a>
+                </li>
+                <li class="navbar-item">
+                    <a class="nav-link" href="../channels.html">TV Channels</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<section class="container-fluid text-center" id="section">
+    <h1 class="h1">Television in Chad</h1>
+    <p class="lead">Source: <em>Wikipedia</em></p>
+    <p class="lead">Over the years in Chad more and more privately owned television stations have been created. 
+        Before 2014 the one and only television station ONRTV (Tele Tchad), now called ONAMA, was state owned. 
+        In 2014 the first privately owned station was Electron TV, company which sparked the creation of new companies.</p>
+    <p class="lead">All stations broadcast a mix of French and Arabic programs except for Al Nassour TV and Al Nassour 24 TV, 
+        which only broadcasts in Arabic. Lale TV is a station that broadcasts drama and cultural shows in French and Arabic, 
+        Elecron TV (with 3 news sessions) is focused more on young people and music, Tchad 24 is the newest station in Chad broadcasting 
+        a variety of programs including news, and, finally, the state-owned Télé Tchad broadcasts from the ONAMA news tower in N'Djamena. 
+        ONAMA owns provincial stations in many cities around Chad including Mondo, Doba, Borkou, Mongo, and many more. 
+        As television becomes more popular in the country, privately owned television stations pop up more frequently.</p>
+    <h2 class="h2">List of television stations</h2>
+    <h3 class="h3">Government-owned</h3>
+    <ul class="list-group">
+        <li class="list-group-item">Onama (Tele Tchad)</li>
+        <li class="list-group-item">Onama Provincial Stations</li>
+    </ul>
+    <h3 class="h3">Privately-owned</h3>
+    <ul class="list-group">
+        <li class="list-group-item">Electron TV</li>
+        <li class="list-group-item">Al Nassour TV</li>
+        <li class="list-group-item">Al Nassour 24 TV</li>
+        <li class="list-group-item">Tchad 24 TV</li>
+        <li class="list-group-item">Lale Tc Tchad</li>
+    </ul>
+    <h3 class="h3">Viewable in Chad</h3>
+    <ul class="list-group">
+        <li class="list-group-item">Afrique Media</li>
+    </ul>
+</section>
+<footer class="footer">
+    <div class="container-fluid text-center">
+        <span class="text-muted" id="date"></span>
+    </div>
+</footer>
+<script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script>
+    let today = new Date();
+    document.getElementById("date").innerHTML = "&copy; " + today.getFullYear() + ", Andor Salamon";
+</script>
+</body>
+</html>

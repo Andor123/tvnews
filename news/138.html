@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="This is a website dedicated to TV stations.">
+    <meta name="keywords" content="TV,news,stations,website">
+    <meta name="author" content="Salamon Andor">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>TV News</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="../css/index.css">
+</head>
+<body>
+<header>
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="nav">
+        <a class="navbar-brand" href="../index.html">TV NEWS</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar"
+                aria-controls="navbar" aria-expanded="false" aria-label="Toggle Navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbar">
+            <ul class="navbar-nav mr-auto">
+                <li class="navbar-item active">
+                    <a class="nav-link" href="../news.html">Latest News</a>
+                </li>
+                <li class="navbar-item">
+                    <a class="nav-link" href="../channels.html">TV Channels</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<section class="container-fluid text-center" id="section">
+    <h1 class="h1">Television in Gabon</h1>
+    <p class="lead">Source: <em>Wikipedia</em></p>
+    <p class="lead">State owns and operates 2 TV stations; a private TV station; satellite service subscriptions are available (2007).</p>
+    <p class="lead">4 stations plus 4 low-power repeaters (2001).</p>
+    <p class="lead">There are two main broadcasters in Gabon. The state broadcaster, Radiodiffusion Télévision Gabonaise (RTG), 
+        operates two main networks - a national network in French and a provincial network in French and vernacular languages. 
+        There is also a special programme on RTG's FM frequencies.</p>
+    <p class="lead">Like many former French colonies, Gabon uses the SECAM-K television standard. 
+        Two television channels, 4 and 8, are found in the Libreville area. All other channels and repeaters relay channel 4.</p>
+    <p class="lead">The constitution and law provide for freedom of speech and press, and the government generally respects these rights, 
+        although the government has suspended newspapers and television stations for disrupting public order or libel.</p>
+</section>
+<footer class="footer">
+    <div class="container-fluid text-center">
+        <span class="text-muted" id="date"></span>
+    </div>
+</footer>
+<script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script>
+    let today = new Date();
+    document.getElementById("date").innerHTML = "&copy; " + today.getFullYear() + ", Andor Salamon";
+</script>
+</body>
+</html>

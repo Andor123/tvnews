@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="This is a website dedicated to TV stations.">
+    <meta name="keywords" content="TV,news,stations,website">
+    <meta name="author" content="Salamon Andor">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>TV News</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="../css/index.css">
+</head>
+<body>
+<header>
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="nav">
+        <a class="navbar-brand" href="../index.html">TV NEWS</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar"
+                aria-controls="navbar" aria-expanded="false" aria-label="Toggle Navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbar">
+            <ul class="navbar-nav mr-auto">
+                <li class="navbar-item active">
+                    <a class="nav-link" href="../news.html">Latest News</a>
+                </li>
+                <li class="navbar-item">
+                    <a class="nav-link" href="../channels.html">TV Channels</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<section class="container-fluid text-center" id="section">
+    <h1 class="h1">Television in the Democratic Republic of the Congo</h1>
+    <p class="lead">Source: <em>Wikipedia</em></p>
+    <p class="lead">One state-owned TV broadcast station with near national coverage; 
+        more than a dozen privately owned TV stations with two having near national coverage (2007).</p>
+    <p class="lead">23 stations (2005).</p>
+    <p class="lead">4 stations (2001).</p>
+    <p class="lead">20 stations (1999).</p>
+    <p class="lead">Radio is the dominant medium; a handful of stations, including state-run Radio-Télévision Nationale Congolaise (RTNC), 
+        broadcast across the country. The United Nations Mission (MONUSCO) and a Swiss-based NGO, Fondation Hirondelle, 
+        operate one of country's leading stations, Radio Okapi. The network employs mostly-Congolese staff and aims to bridge political divisions. 
+        Radio France Internationale (RFI), which is widely available on FM, is the most popular news station. The BBC broadcasts on FM 
+        in Kinshasa (92.7), Lubumbashi (92.0), Kisangani (92.0), Goma (93.3) and Bukavu (102.2).</p>
+</section>
+<footer class="footer">
+    <div class="container-fluid text-center">
+        <span class="text-muted" id="date"></span>
+    </div>
+</footer>
+<script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script>
+    let today = new Date();
+    document.getElementById("date").innerHTML = "&copy; " + today.getFullYear() + ", Andor Salamon";
+</script>
+</body>
+</html>
