@@ -5218,5 +5218,113 @@
     "image": "https://upload.wikimedia.org/wikipedia/fr/e/e2/Mirador_TV.jpg",
     "channel_name": "Mirador TV",
     "country": "Democratic Republic of the Congo"
+  },
+  {
+    "id": 871,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5b/TPA1_2022.svg",
+    "channel_name": "TPA 1",
+    "country": "Angola"
+  },
+  {
+    "id": 872,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/TPA2_2022.svg",
+    "channel_name": "TPA 2",
+    "country": "Angola"
+  },
+  {
+    "id": 873,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC2Ful7UuWb6ZwYKtwBagbd3VSMo8P9hjisw&s",
+    "channel_name": "TV Zimbo",
+    "country": "Angola"
+  },
+  {
+    "id": 874,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Namibia_Broadcasting_Corporation_NBC.jpg",
+    "channel_name": "Namibian Broadcasting Corporation",
+    "country": "Namibia"
+  },
+  {
+    "id": 875,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Oneafricatvlogo.png",
+    "channel_name": "One Africa Television",
+    "country": "Namibia"
+  },
+  {
+    "id": 876,
+    "image": "https://namibiadailynews.info/files/2022/02/ntv.jpg",
+    "channel_name": "Network Television",
+    "country": "Namibia"
+  },
+  {
+    "id": 877,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Botswanatv.jpg",
+    "channel_name": "Botswana Television",
+    "country": "Botswana"
+  },
+  {
+    "id": 878,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp-b56zvTEUZ4JJOEo4ggP3iYBPNUC9SEy7w&s",
+    "channel_name": "YTV",
+    "country": "Botswana"
+  },
+  {
+    "id": 879,
+    "image": "https://upload.wikimedia.org/wikipedia/en/f/f7/New_logo_-_SABC_1.png",
+    "channel_name": "SABC 1",
+    "country": "South Africa"
+  },
+  {
+    "id": 880,
+    "image": "https://upload.wikimedia.org/wikipedia/en/f/f5/New_logo_-_SABC_2.jpg",
+    "channel_name": "SABC 2",
+    "country": "South Africa"
+  },
+  {
+    "id": 881,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/25/Sabc%2B3%2Blogo%2B2021.jpg",
+    "channel_name": "SABC 3",
+    "country": "South Africa"
+  },
+  {
+    "id": 882,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f1/SABC_News_logo_2018.jpg",
+    "channel_name": "SABC News",
+    "country": "South Africa"
+  },
+  {
+    "id": 883,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/SABC_Education_2006_logo.svg",
+    "channel_name": "SABC Education",
+    "country": "South Africa"
+  },
+  {
+    "id": 884,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/38/SABC%2BSport%2B300x169.jpg",
+    "channel_name": "SABC Sport",
+    "country": "South Africa"
+  },
+  {
+    "id": 885,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/SABC_Children.jpg",
+    "channel_name": "SABC Children",
+    "country": "South Africa"
+  },
+  {
+    "id": 886,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/ETV_logo_2008.svg",
+    "channel_name": "E.tv",
+    "country": "South Africa"
+  },
+  {
+    "id": 887,
+    "image": "https://upload.wikimedia.org/wikipedia/en/4/4d/M-Net_new_logo.png",
+    "channel_name": "M-Net",
+    "country": "South Africa"
+  },
+  {
+    "id": 888,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Soweto_TV_Logo_Transparent_PNG.png",
+    "channel_name": "Soweto TV",
+    "country": "South Africa"
   }
 ]

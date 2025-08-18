@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="This is a website dedicated to TV stations.">
+    <meta name="keywords" content="TV,news,stations,website">
+    <meta name="author" content="Salamon Andor">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>TV News</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="../css/index.css">
+</head>
+<body>
+<header>
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="nav">
+        <a class="navbar-brand" href="../index.html">TV NEWS</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar"
+                aria-controls="navbar" aria-expanded="false" aria-label="Toggle Navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbar">
+            <ul class="navbar-nav mr-auto">
+                <li class="navbar-item active">
+                    <a class="nav-link" href="../news.html">Latest News</a>
+                </li>
+                <li class="navbar-item">
+                    <a class="nav-link" href="../channels.html">TV Channels</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<section class="container-fluid text-center" id="section">
+    <h1 class="h1">Television in South Africa</h1>
+    <p class="lead">Source: <em>Wikipedia</em></p>
+    <p class="lead">Television in South Africa was introduced in 1976. The country is notable for its late adoption of widespread television broadcasting.</p>
+    <h2 class="h2">History</h2>
+    <p class="lead">Opposition leader K. Ueckermann was the first politician to propose a television service for the SABC, 
+        submitting a question to the Minister of Posts and Telegraphs, J. F. Naudé, on 6 April 1951. The SABC had set goals for television as early as 1944.</p>
+    <p class="lead">The broadcaster later reiterated that introducing a television service was considered too costly, 
+        especially given the early global developments in television technology, whose impact was still being studied. 
+        In 1952, Naudé stated that South Africa was interested in developing its own television service in the future. 
+        However, at the time, the costs were still seen as prohibitive for the government.</p>
+    <p class="lead">In 1971, the SABC was finally allowed to introduce a television service. 
+        Initially, the proposal was for two television channels—one in English and Afrikaans, 
+        alternating between the two languages and aimed at white audiences, and another, 
+        known as TV Bantu, aimed at black viewers. TV Bantu never launched.</p>
+    <p class="lead">Test transmissions in Johannesburg began on 5 May 1975, followed by test broadcasts in Cape Town and Durban in July. 
+        Nationwide services finally commenced on 5 January 1976, with only one channel, the English/Afrikaans service.</p>
+    <h2 class="h2">Programming</h2>
+    <p class="lead">Many imported programmes were dubbed into Afrikaans, some of the first being the British detective series The Sweeney (known in Afrikaans as Blitspatrollie) 
+        and Van der Valk, as well as the puppet series Thunderbirds. However, in July 1986, to accommodate English speakers, 
+        the SABC began to simulcast the original soundtrack of American series on an FM radio service called Radio 2000. 
+        These included Miami Vice (known as Misdaad in Miami).</p>
+    <p class="lead">The first locally produced TV programmes in South Africa were in English and Afrikaans. English-language programmes included the 
+        family drama series The Dingleys and The Villagers, as well as the comedy series Biltong and Potroast, featuring South African and British comedians, 
+        and the variety programme The Knicky Knacky Knoo Show. Other programmes included the children's series Bangalory Time, 
+        the music series Pop Shop, and the sports programme Sportsview.</p>
+</section>
+<footer class="footer">
+    <div class="container-fluid text-center">
+        <span class="text-muted" id="date"></span>
+    </div>
+</footer>
+<script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script>
+    let today = new Date();
+    document.getElementById("date").innerHTML = "&copy; " + today.getFullYear() + ", Andor Salamon";
+</script>
+</body>
+</html>
