@@ -5326,5 +5326,17 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Soweto_TV_Logo_Transparent_PNG.png",
     "channel_name": "Soweto TV",
     "country": "South Africa"
+  },
+  {
+    "id": 889,
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_muZ_nvuO4-ONXB1wbnxh5Pkx6Xo-6_vDQnoIC9pL6gSQ=s900-c-k-c0x00ffffff-no-rj",
+    "channel_name": "Lesotho Television",
+    "country": "Lesotho"
+  },
+  {
+    "id": 890,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvEXsjB4iB2bp9cmfQB0FL6PUyTYuA-V7NiQ&s",
+    "channel_name": "Eswatini TV",
+    "country": "Eswatini"
   }
 ]
