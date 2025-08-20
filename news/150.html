@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="This is a website dedicated to TV stations.">
+    <meta name="keywords" content="TV,news,stations,website">
+    <meta name="author" content="Salamon Andor">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>TV News</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="../css/index.css">
+</head>
+<body>
+<header>
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="nav">
+        <a class="navbar-brand" href="../index.html">TV NEWS</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar"
+                aria-controls="navbar" aria-expanded="false" aria-label="Toggle Navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbar">
+            <ul class="navbar-nav mr-auto">
+                <li class="navbar-item active">
+                    <a class="nav-link" href="../news.html">Latest News</a>
+                </li>
+                <li class="navbar-item">
+                    <a class="nav-link" href="../channels.html">TV Channels</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<section class="container-fluid text-center" id="section">
+    <h1 class="h1">Television in Madagascar</h1>
+    <p class="lead">Source: <em>Wikipedia</em></p>
+    <p class="lead">Television Malagasy (TVM) has an extensive national network reach; privately owned TV broadcasters in cities and major towns; 
+        relays of 2 international broadcasters are available in Antananarivo (2007).</p>
+    <h2 class="h2">Media restrictions</h2>
+    <p class="lead">Although the law provides for freedom of speech, authorities severely restrict freedom of speech 
+        by intimidating opponents and resorting to imprisonment or violence when threats fail to dissuade critics. 
+        The de facto minister of communications targeted those who expressed dissent, sending official warning letters to 
+        news outlets whose coverage displeased the regime. From 2010 through 2012 an estimated 80 radio and television station licenses 
+        withdrawn and the stations ordered suspend broadcasting immediately. By the end of 2012 they had not been authorized to reopen. 
+        In September 2012 the editor of the national television station was suspended, reportedly for having opposition politicians on the air. 
+        Authorities also suspend journalists who continue to broadcast despite government warnings. To maintain access to sources and remain safe, 
+        journalists widely practiced self-censorship.</p>
+    <p class="lead">On 2 May 2012, authorities imprisoned the editors of the private radio station Free FM, 
+        Lalatiana Rakotondrazafy and Fidel Razara Pierre, for a two-day investigation following a libel suit brought by Mamy Ravatomanga, 
+        a well-known backer of the de facto regime. Following a series of public rallies that same month marking the first anniversary of 
+        Free FM and calling for greater press freedom, the radio's editors were charged with provoking outrage against the regime, 
+        destruction of public goods, mounting opposition to security forces, and holding a public demonstration without authorization. 
+        On 22 July 2012, authorities closed the radio station, and the two journalists and another colleague went into hiding. 
+        By the end of 2012 Free FM remained closed. But after a deal consented with the two journalists and the regime, 
+        initiated by Mamy Ravatomanga, Lalatiana Rakotondrazafy is free and become the allied of the Rajoelina's regime.</p>
+    <h2 class="h2">Shortwave relay stations</h2>
+    <p class="lead">In 2013, the government of Madagascar and Malagasy Global Business S.A. signed an agreement to operate the Madagascar relay station in Talata-Volonondry. 
+        Among its customers are Radio Netherlands Worldwide, NHK World-Japan, BBC World Service, Deutsche Welle, Vatican Radio, Adventist World Radio and Free Press Unlimited.</p>
+</section>
+<footer class="footer">
+    <div class="container-fluid text-center">
+        <span class="text-muted" id="date"></span>
+    </div>
+</footer>
+<script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script>
+    let today = new Date();
+    document.getElementById("date").innerHTML = "&copy; " + today.getFullYear() + ", Andor Salamon";
+</script>
+</body>
+</html>

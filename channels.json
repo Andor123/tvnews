@@ -5017,7 +5017,7 @@
   },
   {
     "id": 837,
-    "image": "https://www.sidt.ci/uploads/f7de7339f3b876b864b18a9008360ff4.png",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcXv_zsqGdbJdNPKJ4SIxBZCP5uoZ7-yKDw&s",
     "channel_name": "RTI 3",
     "country": "Ivory Coast"
   },
@@ -5077,7 +5077,7 @@
   },
   {
     "id": 847,
-    "image": "https://yt3.googleusercontent.com/knuZaqlIDggxkLLDRR6t9SgrWl_qQJaU9h7NUdKdwGJQWS1fpJdzqGqWQYJuzywYzT5zdTSB1A=s900-c-k-c0x00ffffff-no-rj",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR_-GX3agzzEZFNlLwie-gYceT_2gZOvyLHA&s",
     "channel_name": "Bénin TV",
     "country": "Benin"
   },
@@ -5329,7 +5329,7 @@
   },
   {
     "id": 889,
-    "image": "https://yt3.googleusercontent.com/ytc/AIdro_muZ_nvuO4-ONXB1wbnxh5Pkx6Xo-6_vDQnoIC9pL6gSQ=s900-c-k-c0x00ffffff-no-rj",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT73c4MQUrHSpB9IM2ZC0xauEM6yggCSzMsAQ&s",
     "channel_name": "Lesotho Television",
     "country": "Lesotho"
   },
@@ -5338,5 +5338,89 @@
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvEXsjB4iB2bp9cmfQB0FL6PUyTYuA-V7NiQ&s",
     "channel_name": "Eswatini TV",
     "country": "Eswatini"
+  },
+  {
+    "id": 891,
+    "image": "https://sbc.sc/wp-content/uploads/2018/09/sbc_1-1024x432.png",
+    "channel_name": "SBC 1",
+    "country": "Seychelles"
+  },
+  {
+    "id": 892,
+    "image": "https://www.sbc.sc/wp-content/uploads/2018/09/sbc_2-1024x433.png",
+    "channel_name": "SBC 2",
+    "country": "Seychelles"
+  },
+  {
+    "id": 893,
+    "image": "https://www.sbc.sc/wp-content/uploads/2023/10/SBC3-650x308.png",
+    "channel_name": "SBC 3",
+    "country": "Seychelles"
+  },
+  {
+    "id": 894,
+    "image": "https://upload.wikimedia.org/wikipedia/fr/a/a8/Ortc-logo.jpg",
+    "channel_name": "ORTC",
+    "country": "Comoros"
+  },
+  {
+    "id": 895,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/40/MBC_1.png",
+    "channel_name": "MBC 1",
+    "country": "Mauritius"
+  },
+  {
+    "id": 896,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/ce/MBC_2.png",
+    "channel_name": "MBC 2",
+    "country": "Mauritius"
+  },
+  {
+    "id": 897,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Ys-logo.png",
+    "channel_name": "MBC 11",
+    "country": "Mauritius"
+  },
+  {
+    "id": 898,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/MBC-Kids-Channel.png",
+    "channel_name": "Kids Channel",
+    "country": "Mauritius"
+  },
+  {
+    "id": 899,
+    "image": "https://upload.wikimedia.org/wikipedia/en/0/0c/Senn_Kreol_Channel_Logo.png",
+    "channel_name": "Senn Kreol",
+    "country": "Mauritius"
+  },
+  {
+    "id": 900,
+    "image": "https://upload.wikimedia.org/wikipedia/en/3/33/Bhojpuri_channel.png",
+    "channel_name": "Bhojpuri Channel",
+    "country": "Mauritius"
+  },
+  {
+    "id": 901,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Mauritius_Broadcasting_Corporation.svg",
+    "channel_name": "MBC Sat",
+    "country": "Mauritius"
+  },
+  {
+    "id": 902,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgmE8a9GbRWHVsIsvRClZT4rqL1z-Q-hQDng&s",
+    "channel_name": "TVM",
+    "country": "Madagascar"
+  },
+  {
+    "id": 903,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUhtryqLMnOykjdfE-g223d8VY54FxsS72RA&s",
+    "channel_name": "RTA",
+    "country": "Madagascar"
+  },
+  {
+    "id": 904,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2ZQZGlt-elIot3DCYiqffOemHF6RPUAcNog&s",
+    "channel_name": "Madagascar TV",
+    "country": "Madagascar"
   }
 ]
