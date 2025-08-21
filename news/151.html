@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="This is a website dedicated to TV stations.">
+    <meta name="keywords" content="TV,news,stations,website">
+    <meta name="author" content="Salamon Andor">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>TV News</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="../css/index.css">
+</head>
+<body>
+<header>
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="nav">
+        <a class="navbar-brand" href="../index.html">TV NEWS</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar"
+                aria-controls="navbar" aria-expanded="false" aria-label="Toggle Navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbar">
+            <ul class="navbar-nav mr-auto">
+                <li class="navbar-item active">
+                    <a class="nav-link" href="../news.html">Latest News</a>
+                </li>
+                <li class="navbar-item">
+                    <a class="nav-link" href="../channels.html">TV Channels</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<section class="container-fluid text-center" id="section">
+    <h1 class="h1">Television in Mozambique</h1>
+    <p class="lead">Source: <em>Wikipedia</em></p>
+    <p class="lead">Television was introduced to Mozambique in 1981. For more than a decade, Televisão de Moçambique was the country's only television channel. 
+        Its monopoly was broken by the now-defunct RTK in 1993 and was followed by several other television stations. 
+        Maputo houses the facilities of practically all television channels in Mozambique. Foreign channels RTP África and Televisão Miramar have high viewership rates.</p>
+    <h2 class="h2">History</h2>
+    <p class="lead">When Mozambique was under Portuguese control, Rádio Clube de Moçambique (the current Rádio Moçambique) had plans to start a television service. 
+        These were likely halted as an effect of the country's independence in 1975.</p>
+    <p class="lead">In August 1979, an Italian company set up a small improvised studio at the Maputo Internacional Fair (FACIM).</p>
+    <p class="lead">Experimental Television of Mozambique (Televisão Experimental de Moçambique) started its broadcasts on 3 February 1981 on Sundays from 6:30pm to 10pm, 
+        on UHF channel 33 in Maputo. Gradually its broadcasting increased to the entire week (in 1986 it was broadcasting six hours a day and four days a week), 
+        achieving that goal in 1991. Color television was introduced in 1984.</p>
+    <p class="lead">TVM started broadcasting to Beira in April 1992 with funding from RTP, who provided technical support 
+        in the development of the network due to a protocol signed in September 1989., followed by Nampula in September 1994, 
+        as well as the ability of relaying RTP Internacional, whose terrestrial frequency was replaced by RTP África in 1998.</p>
+</section>
+<footer class="footer">
+    <div class="container-fluid text-center">
+        <span class="text-muted" id="date"></span>
+    </div>
+</footer>
+<script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script>
+    let today = new Date();
+    document.getElementById("date").innerHTML = "&copy; " + today.getFullYear() + ", Andor Salamon";
+</script>
+</body>
+</html>

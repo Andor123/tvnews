@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="This is a website dedicated to TV stations.">
+    <meta name="keywords" content="TV,news,stations,website">
+    <meta name="author" content="Salamon Andor">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>TV News</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="../css/index.css">
+</head>
+<body>
+<header>
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="nav">
+        <a class="navbar-brand" href="../index.html">TV NEWS</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar"
+                aria-controls="navbar" aria-expanded="false" aria-label="Toggle Navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbar">
+            <ul class="navbar-nav mr-auto">
+                <li class="navbar-item active">
+                    <a class="nav-link" href="../news.html">Latest News</a>
+                </li>
+                <li class="navbar-item">
+                    <a class="nav-link" href="../channels.html">TV Channels</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<section class="container-fluid text-center" id="section">
+    <h1 class="h1">Television in Zambia</h1>
+    <p class="lead">Source: <em>Wikipedia</em></p>
+    <p class="lead">Television is a popular form of mass media in Zambia, with approximately 67 percent of people watching television on a regular basis. 
+        Some television channels after multilingual and some are specifically English-only channels. There are both privately-owned media and government-owned media. 
+        In the early 2010s there was a shift from analogue television broadcasting to digital television. 
+        Considering the expensive nature of switching to digital programming, the Zambian government sought out the help of foreign investment. 
+        The investment towards the shift was led both by the Zambian government and a leading Chinese media conglomerate, StarTimes, helped provide the digital signals. 
+        StarTimes owns about 60 percent of the media signaling with the government-owned broadcasting service the Zambian National Broadcasting Corporation (ZNBC) 
+        owning the other 40 percent. Through the shift to digital programming, there has been an increase in the number of channels now available 
+        to the Zambian public that was not before. There is possible concern, however, that the prospect of new channels has not been used to promote local programs 
+        but instead has served to give a platform for Chinese media content.</p>
+    <p class="lead">Privately owned television channels dominate the majority of the television channels, with around 42 channels being privately owned. 
+        The Zambian National Broadcasting Corporation (ZNBC), which is government-run, owns three different television channels. 
+        The ZNBC provides their content through traditional television, radio, as well as live streaming. According to the Information and Broadcast Services Minister Dora Siliya, 
+        the ZNBC channels are the most popular among Zambian citizens. It is considered to be the most consumed form of broadcast news in Zambia because 
+        it is a publicly -owned station and therefore the signal it operates on is public and more widely accessible.</p>
+</section>
+<footer class="footer">
+    <div class="container-fluid text-center">
+        <span class="text-muted" id="date"></span>
+    </div>
+</footer>
+<script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script>
+    let today = new Date();
+    document.getElementById("date").innerHTML = "&copy; " + today.getFullYear() + ", Andor Salamon";
+</script>
+</body>
+</html>

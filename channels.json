@@ -5422,5 +5422,101 @@
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2ZQZGlt-elIot3DCYiqffOemHF6RPUAcNog&s",
     "channel_name": "Madagascar TV",
     "country": "Madagascar"
+  },
+  {
+    "id": 905,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/TVM_Mozambique_logo.png",
+    "channel_name": "Televisão de Moçambique",
+    "country": "Mozambique"
+  },
+  {
+    "id": 906,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/87/ZBC_TV_logo.png",
+    "channel_name": "ZBC TV",
+    "country": "Zimbabwe"
+  },
+  {
+    "id": 907,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6XxsFJxhp614K0VnyL7DKqnvKUjkz46e4Tg&s",
+    "channel_name": "ZNBC TV1",
+    "country": "Zambia"
+  },
+  {
+    "id": 908,
+    "image": "http://cdn.startimestv.com/static/image/tv2_channel_logo.png?l=320",
+    "channel_name": "ZNBC TV2",
+    "country": "Zambia"
+  },
+  {
+    "id": 909,
+    "image": "http://cdn.startimestv.com/static/image/tv3_channel_logo.png?l=320",
+    "channel_name": "ZNBC TV3",
+    "country": "Zambia"
+  },
+  {
+    "id": 910,
+    "image": "https://nettv.live/uploads/allimg/21/1-2101122113290-L.jpg",
+    "channel_name": "ZNBC TV4",
+    "country": "Zambia"
+  },
+  {
+    "id": 911,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Television_Malawi_%28TVM%29.svg",
+    "channel_name": "Television Malawi",
+    "country": "Malawi"
+  },
+  {
+    "id": 912,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/TBC-Tanzania.jpg",
+    "channel_name": "TBC",
+    "country": "Tanzania"
+  },
+  {
+    "id": 913,
+    "image": "https://pbs.twimg.com/profile_images/1563477836945469440/y3ZqSQ1z_400x400.jpg",
+    "channel_name": "Star TV",
+    "country": "Tanzania"
+  },
+  {
+    "id": 914,
+    "image": "https://upload.wikimedia.org/wikipedia/en/8/86/KBC_Kenya.PNG",
+    "channel_name": "KBC",
+    "country": "Kenya"
+  },
+  {
+    "id": 915,
+    "image": "https://upload.wikimedia.org/wikipedia/en/d/d3/NTV_%28Kenya%29_logo.png",
+    "channel_name": "NTV",
+    "country": "Kenya"
+  },
+  {
+    "id": 916,
+    "image": "https://upload.wikimedia.org/wikipedia/en/e/ec/KTN.2014-present_logo.jpg",
+    "channel_name": "Kenya Television Network",
+    "country": "Kenya"
+  },
+  {
+    "id": 917,
+    "image": "https://upload.wikimedia.org/wikipedia/en/7/70/Citizen_TV_%28Kenya%29_logo.png",
+    "channel_name": "Citizen TV",
+    "country": "Kenya"
+  },
+  {
+    "id": 918,
+    "image": "https://upload.wikimedia.org/wikipedia/en/3/38/TV47_Kenya_Logo.jpeg",
+    "channel_name": "TV47 Kenya",
+    "country": "Kenya"
+  },
+  {
+    "id": 919,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/59/K24_TV_Logo_Variant.jpg",
+    "channel_name": "K24",
+    "country": "Kenya"
+  },
+  {
+    "id": 920,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzq_DQSadQAEd_cO7vpE-6vbbCUeCL0KA7aQ&s",
+    "channel_name": "Inooro TV",
+    "country": "Kenya"
   }
 ]

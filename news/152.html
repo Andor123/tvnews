@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="This is a website dedicated to TV stations.">
+    <meta name="keywords" content="TV,news,stations,website">
+    <meta name="author" content="Salamon Andor">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>TV News</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="../css/index.css">
+</head>
+<body>
+<header>
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="nav">
+        <a class="navbar-brand" href="../index.html">TV NEWS</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar"
+                aria-controls="navbar" aria-expanded="false" aria-label="Toggle Navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbar">
+            <ul class="navbar-nav mr-auto">
+                <li class="navbar-item active">
+                    <a class="nav-link" href="../news.html">Latest News</a>
+                </li>
+                <li class="navbar-item">
+                    <a class="nav-link" href="../channels.html">TV Channels</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<section class="container-fluid text-center" id="section">
+    <h1 class="h1">Television in Zimbabwe</h1>
+    <p class="lead">Source: <em>Wikipedia</em></p>
+    <p class="lead">Since the introduction of TV services in the country in the year 1960, there has only been 1 local free to air television channel, 
+        which is owned by the government. In November 2020, the Broadcasting Authority of Zimbabwe granted free to air, 
+        national commercial TV broadcasting licences to 6 private companies after shortlisting 14 applicants, breaking the national broadcaster's 60 year old TV monopoly. 
+        The regulator gave the 6 successful applicants 18 months to begin broadcasting.</p>
+    <p class="lead">TV stations that were awarded licences include the Bulawayo based FairTalk Communications' KeYona TV, 
+        ZimPapers Limited's ZTN (Zimpapers Television Network) (now known as ZTN Prime), Rusununguko Media's NRTV (Nkululeko Rusununguko Television), 
+        Jester Media's 3K TV (now known as 3Ktv), Acacia Media Group's Kumba TV and Channel Dzimbahwe's Channel D. Unsuccessful applicants include AB Communications' Flex TV, 
+        Alpha Media Holdings' HStv, Blackbury Enterprises (Pvt) Ltd's Blackbury TV, Conduit Investments (Pvt) Ltd's Conduit TV Station, Just in Time TV (Pvt) Ltd's JIT TV, 
+        Medianet Productions (Pvt) Ltd's Sunrise TV and Meditation Investments (Pvt)'s Zim News Channel.</p>
+    <p class="lead">Satellite stations are received in the country unrestricted, mainly through DStv, a digital satellite television and radio distributor. 
+        Zimbabwe transmits analogue terrestrial television on the VHF band, with digital not yet deployed as of 2019. 
+        Coverage in rural areas is low, due to poor infrastructure. Overall, 30% of the population receives broadcasts by the ZBC, 
+        so radio is the main source of information. In 2006, a parliamentary committee in Zimbabwe called for an opening up of the broadcast media. 
+        Chinese technology has been used to jam frequencies used by foreign based radio stations in South Africa, the US and the UK that criticise the government. 
+        The vast majority of the media is practically propaganda, all of it either eulogises Mugabe, features pan-African programming, 
+        and heavily spreads anti-British and anti-American sentiment on its TV and radio programming.</p>
+    <p class="lead">There are 16 local radio stations, 6 of those are broadcasting nationally and the other 10 are provincial. 
+        The public broadcaster owns 4 national and 2 regional radio stations. In 2012 two national private radio stations, Star FM and ZiFM Stereo were launched. 
+        StarFM is owned by the government-controlled Zimpapers. It offers political discussion from a heavily pro-government perspective and 
+        an expanded entertainment schedule. ZiFM, owned by ZANU–PF MP Supa Mandiwanzira is more focused on entertainment although it also offers political 
+        and social opinion programmes that are heavily weighted towards pro-government positions. The two stations are seen as direct competition 
+        to ZBC's youth orientated urban radio station, Power FM.</p>
+    <p class="lead">In 2015, the Broadcasting Authority of Zimbabwe (BAZ) granted broadcasting licences to 8 regional radio stations 
+        which included Bulawayo's Skyz Metro FM and Harare's Capitalk 100.4 FM, to mention a few. All the 8 radio stations were successfully operational 
+        by the end of 2017 despite the tough economic challenges. In 2018, state owned ZBC further added 2 more regional radio stations, 
+        Khulumani FM and 95.8 Central Radio in Bulawayo and Gweru respectively.</p>
+    <p class="lead">In the presidential elections in 2008, the media gave significantly more coverage to the ruling party, ZANU–PF, 
+        and rarely showed opposition broadcasts. It was also criticised for inciting violence against the opposition.</p>
+</section>
+<footer class="footer">
+    <div class="container-fluid text-center">
+        <span class="text-muted" id="date"></span>
+    </div>
+</footer>
+<script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script>
+    let today = new Date();
+    document.getElementById("date").innerHTML = "&copy; " + today.getFullYear() + ", Andor Salamon";
+</script>
+</body>
+</html>
