@@ -5518,5 +5518,65 @@
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzq_DQSadQAEd_cO7vpE-6vbbCUeCL0KA7aQ&s",
     "channel_name": "Inooro TV",
     "country": "Kenya"
+  },
+  {
+    "id": 921,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/95/RTNB_logo_1975.jpg",
+    "channel_name": "RTNB",
+    "country": "Burundi"
+  },
+  {
+    "id": 922,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/BETV_LOGO_2025.png",
+    "channel_name": "BeTV",
+    "country": "Burundi"
+  },
+  {
+    "id": 923,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/RTV_LOGO_2014.png",
+    "channel_name": "Rwanda Television",
+    "country": "Rwanda"
+  },
+  {
+    "id": 924,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/TV10_Rwanda.png",
+    "channel_name": "TV10",
+    "country": "Rwanda"
+  },
+  {
+    "id": 925,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/UBC.png",
+    "channel_name": "UBC",
+    "country": "Uganda"
+  },
+  {
+    "id": 926,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Logo_of_NBS.png",
+    "channel_name": "NBS Television",
+    "country": "Uganda"
+  },
+  {
+    "id": 927,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Logo_of_NTV_Uganda.png",
+    "channel_name": "NTV Uganda",
+    "country": "Uganda"
+  },
+  {
+    "id": 928,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa_xNm37MEjAE_MtLnlakjgpekatPFlJg8WQ&s",
+    "channel_name": "SSBC TV",
+    "country": "South Sudan"
+  },
+  {
+    "id": 929,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4NRqdU4vgglT5k6Abb462USJD9JKbWYQ6Eg&s",
+    "channel_name": "EBC TV",
+    "country": "South Sudan"
+  },
+  {
+    "id": 930,
+    "image": "https://pbs.twimg.com/profile_images/1604057068/logo_400x400.jpg",
+    "channel_name": "Ebony TV",
+    "country": "South Sudan"
   }
 ]
