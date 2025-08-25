@@ -5578,5 +5578,65 @@
     "image": "https://pbs.twimg.com/profile_images/1604057068/logo_400x400.jpg",
     "channel_name": "Ebony TV",
     "country": "South Sudan"
+  },
+  {
+    "id": 931,
+    "image": "https://upload.wikimedia.org/wikipedia/en/6/63/Ethiopian_Broadcasting_Corporation.svg",
+    "channel_name": "ETV",
+    "country": "Ethiopia"
+  },
+  {
+    "id": 932,
+    "image": "https://upload.wikimedia.org/wikipedia/en/9/94/Amhara_Media_Corporation.svg",
+    "channel_name": "Amhara Media Corporation",
+    "country": "Ethiopia"
+  },
+  {
+    "id": 933,
+    "image": "https://upload.wikimedia.org/wikipedia/en/c/cf/Kana_TV.png",
+    "channel_name": "Kana TV",
+    "country": "Ethiopia"
+  },
+  {
+    "id": 934,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/SNTV_REBRANDED_LOGO.png",
+    "channel_name": "Somali National Television",
+    "country": "Somalia"
+  },
+  {
+    "id": 935,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4f/HCTV_LOGO.png",
+    "channel_name": "Horn Cable Television",
+    "country": "Somalia"
+  },
+  {
+    "id": 936,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdnB5MRgwAfqcnQIadJPLqRwekUmk2fM6jkg&s",
+    "channel_name": "Universal Television",
+    "country": "Somalia"
+  },
+  {
+    "id": 937,
+    "image": "https://upload.wikimedia.org/wikipedia/en/b/b3/Puntland_TV_and_Radio_logo.png",
+    "channel_name": "Puntland TV and Radio",
+    "country": "Somalia"
+  },
+  {
+    "id": 938,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/SLNTV_Logo.svg",
+    "channel_name": "Somaliland National TV",
+    "country": "Somalia"
+  },
+  {
+    "id": 939,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/RTD-LOGO2013.png",
+    "channel_name": "RTD",
+    "country": "Djibouti"
+  },
+  {
+    "id": 940,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/01/EritTV_Logo.png",
+    "channel_name": "Eri-TV",
+    "country": "Eritrea"
   }
 ]

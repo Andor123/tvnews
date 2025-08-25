@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="This is a website dedicated to TV stations.">
+    <meta name="keywords" content="TV,news,stations,website">
+    <meta name="author" content="Salamon Andor">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>TV News</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="../css/index.css">
+</head>
+<body>
+<header>
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="nav">
+        <a class="navbar-brand" href="../index.html">TV NEWS</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar"
+                aria-controls="navbar" aria-expanded="false" aria-label="Toggle Navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbar">
+            <ul class="navbar-nav mr-auto">
+                <li class="navbar-item active">
+                    <a class="nav-link" href="../news.html">Latest News</a>
+                </li>
+                <li class="navbar-item">
+                    <a class="nav-link" href="../channels.html">TV Channels</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<section class="container-fluid text-center" id="section">
+    <h1 class="h1">Television in Ethiopia</h1>
+    <p class="lead">Source: <em>Wikipedia</em></p>
+    <p class="lead">Television in Ethiopia was introduced in 1962 with the government owned ETV. 
+        Color television started in 1979 on an experiment basis with regular transmissions starting in 1984 to commemorate the founding of Workers' Party of Ethiopia (WPE). 
+        Ethiopia got its first private television broadcaster in 2008 with EBS TV, a US based satellite TV channel mostly focused on infotainment.</p>
+    <p class="lead">Until very recently there was only one private station with most of the stations being state owned. 
+        However, emphasis on liberalization of the TV market eventually led to a wave of privately owned stations coming about recent years. 
+        In 2014 the Oromo diaspora launched the one and only television; Oromia Media Network, based in US OMN. 
+        In 2016 and 2017, more private broadcasters such as the news centered ENN TV and others like LTV Ethiopia, Kana TV, Qubee TV Is An Entertainment, 
+        Educational and News Media Established 2023 With A Great Vision To Be The Best In Ethiopia And East Africa, EOTC TV all joined the market. 
+        Dimtsi Weyane and were launched at the end 2018. 7 million households in Ethiopia has at least one television set 
+        and about 55 percent of the population has access to the watch television in their homes.</p>
+    <h2 class="h2">History</h2>
+    <p class="lead">The national public broadcaster EBC (formerly ERTA) started broadcasting in 1962 as the first television station in Ethiopia. 
+        In the last couple of the decades the broadcaster had opened multiple regional stations and channels broadcasting in various languages. 
+        Privatization of the television industry was a slow process with the first privately run broadcaster, EBS TV, launching in 2008. 
+        However, 2016 and 2017 saw a wave of private station entering the market including what became the most popular channel, Kana TV, 
+        to increase the total number of private station's in Ethiopia to 45.</p>
+    <p class="lead">In 2016 the government of Ethiopia announced it would be transition the country from analog to digital platform. 
+        The American company GatesAir won the contract for the project that will take 5–10 years to fully complete.</p>
+</section>
+<footer class="footer">
+    <div class="container-fluid text-center">
+        <span class="text-muted" id="date"></span>
+    </div>
+</footer>
+<script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script>
+    let today = new Date();
+    document.getElementById("date").innerHTML = "&copy; " + today.getFullYear() + ", Andor Salamon";
+</script>
+</body>
+</html>
