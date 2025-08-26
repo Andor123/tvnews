@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="This is a website dedicated to TV stations.">
+    <meta name="keywords" content="TV,news,stations,website">
+    <meta name="author" content="Salamon Andor">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>TV News</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="../css/index.css">
+</head>
+<body>
+<header>
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="nav">
+        <a class="navbar-brand" href="../index.html">TV NEWS</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar"
+                aria-controls="navbar" aria-expanded="false" aria-label="Toggle Navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbar">
+            <ul class="navbar-nav mr-auto">
+                <li class="navbar-item active">
+                    <a class="nav-link" href="../news.html">Latest News</a>
+                </li>
+                <li class="navbar-item">
+                    <a class="nav-link" href="../channels.html">TV Channels</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<section class="container-fluid text-center" id="section">
+    <h1 class="h1">Television in the United States of America</h1>
+    <p class="lead">Source: <em>Wikipedia</em></p>
+    <p class="lead">Television is one of the major mass media outlets in the United States. 
+        In 2011, 96.7% of households owned television sets; about 114,200,000 American households owned at least one television set each in August 2013. 
+        Most households have more than one set. The percentage of households owning at least one television set peaked at 98.4%, in the 1996–1997 season. 
+        In 1948, 1 percent of U.S. households owned at least one television; in 1955, 75 percent did. 
+        In 1992, 60 percent of all U.S. households had cable television subscriptions. However, this number has fallen to 40% in 2024.</p>
+    <p class="lead">As a whole, the television networks that broadcast in the United States are the largest and most distributed in the world, 
+        and programs produced specifically for American networks are the most widely syndicated internationally. 
+        Because of a surge in the number and popularity of critically acclaimed television series in the 2000s and the 2010s, 
+        many critics have said that American television has entered a modern golden age; 
+        whether that golden age has ended or is ongoing in the early 2020s is disputed.</p>
+    <h2 class="h2">Television channels and networks</h2>
+    <p class="lead">In the United States, television is available via broadcast (also known as "over-the-air" or OTA) – the earliest method of 
+        receiving television programming, which merely requires an antenna and an equipped internal or external tuner capable of picking up 
+        channels that transmit on the two principal broadcast bands, very high frequency (VHF) and ultra high frequency (UHF), 
+        to receive the signal – and four conventional types of multichannel subscription television: cable, unencrypted satellite ("free-to-air"), 
+        direct-broadcast satellite television and Internet Protocol Television (IPTV). There are also competing video services on the World Wide Web, 
+        which have become an increasingly popular mode of television viewing since the late 2000s, particularly with younger audiences as an alternative 
+        or a supplement to the aforementioned traditional forms of viewing television content; the 2010s saw the development of several virtual 
+        Multichannel Video Programming Distributor (MVPD) services offering "skinny" tiers of channels originally developed for cable and satellite distribution 
+        at a reduced base price compared to providers using the more established pay television distribution methods.</p>
+    <p class="lead">Individual broadcast television stations in the U.S. transmit on either VHF channels 2 through 13 or UHF channels 14 through 36. 
+        During the era of analog television, broadcast stations transmitted on a single universal channel; however due to the technical complexities 
+        of the present digital television standard, most stations now transmit physically on an RF channel that is mapped to a virtual channel, 
+        which – with some exceptions – typically differs from their physical allocation and corresponds to the station's former analog channel. 
+        The UHF band originally spanned from channels 14 to 83, though the Federal Communications Commission (FCC) has reduced the bandwidth allocation 
+        for UHF three times since then. Channels 70 to 83 were cut for emergency and other telecommunications purposes in 1983. 
+        In 2009, channels 52 to 69 were removed by mandate at the completion of the transition from analog to digital television. 
+        In 2020, transition away from channels above 36 was completed to make room for its use by telecommunications companies, after a 2017 spectrum auction.</p>
+</section>
+<footer class="footer">
+    <div class="container-fluid text-center">
+        <span class="text-muted" id="date"></span>
+    </div>
+</footer>
+<script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script>
+    let today = new Date();
+    document.getElementById("date").innerHTML = "&copy; " + today.getFullYear() + ", Andor Salamon";
+</script>
+</body>
+</html>

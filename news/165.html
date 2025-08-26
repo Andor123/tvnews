@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="This is a website dedicated to TV stations.">
+    <meta name="keywords" content="TV,news,stations,website">
+    <meta name="author" content="Salamon Andor">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>TV News</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="../css/index.css">
+</head>
+<body>
+<header>
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="nav">
+        <a class="navbar-brand" href="../index.html">TV NEWS</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar"
+                aria-controls="navbar" aria-expanded="false" aria-label="Toggle Navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbar">
+            <ul class="navbar-nav mr-auto">
+                <li class="navbar-item active">
+                    <a class="nav-link" href="../news.html">Latest News</a>
+                </li>
+                <li class="navbar-item">
+                    <a class="nav-link" href="../channels.html">TV Channels</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<section class="container-fluid text-center" id="section">
+    <h1 class="h1">Television in Canada</h1>
+    <p class="lead">Source: <em>Wikipedia</em></p>
+    <p class="lead">Television in Canada officially began with the sign-on of the nation's first television stations in Montreal and Toronto in 1952. 
+        As with most media in Canada, the television industry, and the television programming available in that country, 
+        are strongly influenced by media in the United States and the United Kingdom, perhaps to an extent not seen in any other major industrialized nation. 
+        As a result, the government institutes quotas for "Canadian content". Nonetheless, new content is often aimed at a broader North American audience, 
+        although the similarities may be less pronounced in the predominantly French-language province of Quebec.</p>
+    <h2 class="h2">History</h2>
+    <h3 class="h3">Development of television</h3>
+    <p class="lead">The first experimental television broadcast began in 1932 in Montreal, Quebec, under the call sign of VE9EC. 
+        The broadcasts of VE9EC were broadcast in 60 to 150 lines of resolution on 41 MHz. This service closed around 1935, 
+        and the outbreak of World War II put a halt to television experiments. Television in Canada on major networks pre-date any telecasts 
+        that originated in the country as thousands of television sets that were capable of receiving U.S.-based signals 
+        were installed in homes near the Canada–US border between 1946 and 1953. Homes in southern and southwestern Ontario and portions of British Columbia, 
+        including the Toronto, Hamilton, London, Windsor, Victoria and Vancouver areas, were able to receive television stations from 
+        Buffalo, Cleveland, Detroit or Seattle with the help of elevated outdoor antennas and amplifiers. 
+        U.S. television programs and the networks that originated them thus became popular in those Canadian cities within range of their signals, 
+        and those cities represented a sizeable proportion of the total Canadian population. 
+        This helped spur development of a specifically Canadian television programming and transmission system during the late 1940s and early 1950s, 
+        but at the same time caused it to develop within American technical standards that had been previously mandated by 
+        the Federal Communications Commission between 1941 and 1946.</p>
+    <h3 class="h3">Broadcast television</h3>
+    <p class="lead">While American television stations, including affiliates of ABC, NBC and CBS, near the Canada–US border were available for several years prior, 
+        and gained a sizeable audience in cities like Toronto, within range of U.S. signals, the Canadian Broadcasting Corporation (CBC) was the first entity 
+        to broadcast television programming within Canada, launching in September 1952 in both Montreal and Toronto. 
+        Private CBC affiliates began operating late in 1953 to supplement the Corporation's own stations; the first private CBC affiliate in Canada was CKSO-TV in Sudbury, 
+        Ontario in October of that year, with CFPL-TV in London, Ontario following a few weeks later. 
+        All television stations that signed on in Canada were required to be CBC affiliates, as the CBC was the only television network operating in Canada at the time.</p>
+</section>
+<footer class="footer">
+    <div class="container-fluid text-center">
+        <span class="text-muted" id="date"></span>
+    </div>
+</footer>
+<script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script>
+    let today = new Date();
+    document.getElementById("date").innerHTML = "&copy; " + today.getFullYear() + ", Andor Salamon";
+</script>
+</body>
+</html>

@@ -5638,5 +5638,197 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/01/EritTV_Logo.png",
     "channel_name": "Eri-TV",
     "country": "Eritrea"
+  },
+  {
+    "id": 941,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/CBC_logo.svg",
+    "channel_name": "CBC Television",
+    "country": "Canada"
+  },
+  {
+    "id": 942,
+    "image": "https://upload.wikimedia.org/wikipedia/en/c/cf/Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg",
+    "channel_name": "Ici Radio-Canada Télé",
+    "country": "Canada"
+  },
+  {
+    "id": 943,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Citytv_logo.svg",
+    "channel_name": "Citytv",
+    "country": "Canada"
+  },
+  {
+    "id": 944,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/CTV_logo_2018.svg",
+    "channel_name": "CTV",
+    "country": "Canada"
+  },
+  {
+    "id": 945,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/CTV_2_2018.svg",
+    "channel_name": "CTV 2",
+    "country": "Canada"
+  },
+  {
+    "id": 946,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/Global_Television_Network_2019_logo.svg",
+    "channel_name": "Global",
+    "country": "Canada"
+  },
+  {
+    "id": 947,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/00/TVA_logo_2020.svg",
+    "channel_name": "TVA",
+    "country": "Canada"
+  },
+  {
+    "id": 948,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Noovo_logo.svg",
+    "channel_name": "Noovo",
+    "country": "Canada"
+  },
+  {
+    "id": 949,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/33/Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile.svg",
+    "channel_name": "TVN",
+    "country": "Chile"
+  },
+  {
+    "id": 950,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Logo_Canal_13_2025.svg",
+    "channel_name": "Canal 13",
+    "country": "Chile"
+  },
+  {
+    "id": 951,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/27/Logotipo_Principal_de_Chilevisi%C3%B3n.svg",
+    "channel_name": "Chilevisión",
+    "country": "Chile"
+  },
+  {
+    "id": 952,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/La_Red_Logotipo_2021.svg",
+    "channel_name": "La Red",
+    "country": "Chile"
+  },
+  {
+    "id": 953,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Logotipo_de_Mega_%282020-%29.svg",
+    "channel_name": "Mega",
+    "country": "Chile"
+  },
+  {
+    "id": 954,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Telecanal_-_2011_logo_%283D_variant%29.png",
+    "channel_name": "Telecanal",
+    "country": "Chile"
+  },
+  {
+    "id": 955,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png",
+    "channel_name": "TV+",
+    "country": "Chile"
+  },
+  {
+    "id": 956,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg",
+    "channel_name": "PBS",
+    "country": "United States of America"
+  },
+  {
+    "id": 957,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/ABC-2021-LOGO.svg",
+    "channel_name": "ABC",
+    "country": "United States of America"
+  },
+  {
+    "id": 958,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/ee/CBS_logo_%282020%29.svg",
+    "channel_name": "CBS",
+    "country": "United States of America"
+  },
+  {
+    "id": 959,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b1/The_CW_2024.svg",
+    "channel_name": "The CW",
+    "country": "United States of America"
+  },
+  {
+    "id": 960,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg",
+    "channel_name": "Fox",
+    "country": "United States of America"
+  },
+  {
+    "id": 961,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7a/NBC_logo_2022_%28vertical%29.svg",
+    "channel_name": "NBC",
+    "country": "United States of America"
+  },
+  {
+    "id": 962,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/46/Estrella_TV_2020_Logo.svg",
+    "channel_name": "Estrella TV",
+    "country": "United States of America"
+  },
+  {
+    "id": 963,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg",
+    "channel_name": "Telemundo",
+    "country": "United States of America"
+  },
+  {
+    "id": 964,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Logo_Univision_2019.svg",
+    "channel_name": "Univision",
+    "country": "United States of America"
+  },
+  {
+    "id": 965,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/Logo_UniM%C3%A1s_2021.svg",
+    "channel_name": "UniMás",
+    "country": "United States of America"
+  },
+  {
+    "id": 966,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg",
+    "channel_name": "Televisión Pública",
+    "country": "Argentina"
+  },
+  {
+    "id": 967,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png",
+    "channel_name": "América",
+    "country": "Argentina"
+  },
+  {
+    "id": 968,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Bravotv.png",
+    "channel_name": "Bravo TV",
+    "country": "Argentina"
+  },
+  {
+    "id": 969,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png",
+    "channel_name": "Net TV",
+    "country": "Argentina"
+  },
+  {
+    "id": 970,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png",
+    "channel_name": "El Nueve",
+    "country": "Argentina"
+  },
+  {
+    "id": 971,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Televisi%C3%B3n_Federal_Logo.svg",
+    "channel_name": "Telefe",
+    "country": "Argentina"
+  },
+  {
+    "id": 972,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Isotipo_eltrece_2016.png",
+    "channel_name": "El Trece",
+    "country": "Argentina"
   }
 ]

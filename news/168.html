@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="This is a website dedicated to TV stations.">
+    <meta name="keywords" content="TV,news,stations,website">
+    <meta name="author" content="Salamon Andor">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>TV News</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="../css/index.css">
+</head>
+<body>
+<header>
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="nav">
+        <a class="navbar-brand" href="../index.html">TV NEWS</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar"
+                aria-controls="navbar" aria-expanded="false" aria-label="Toggle Navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbar">
+            <ul class="navbar-nav mr-auto">
+                <li class="navbar-item active">
+                    <a class="nav-link" href="../news.html">Latest News</a>
+                </li>
+                <li class="navbar-item">
+                    <a class="nav-link" href="../channels.html">TV Channels</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<section class="container-fluid text-center" id="section">
+    <h1 class="h1">Television in the Argentina</h1>
+    <p class="lead">Source: <em>Wikipedia</em></p>
+    <p class="lead">Television is one of the major mass media of Argentina. As of 2019, household ownership of television sets in the country is 99%, 
+        with the majority of households usually having two sets. Cable television has become the most used type of delivering, 
+        with 73.2% of households having a cable provider.</p>
+    <p class="lead">Argentine television broadcasting officially began on October 17, 1951, with the inaugural of the state-owned Canal 7 (now Televisión Pública). 
+        It remains as the network with the biggest national coverage, while private broadcasting networks have a big number of affiliates 
+        in different cities through all the country. Argentina also became the fourth most important country in terms of export of television formats, 
+        only surpassed by the United States, the Netherlands and the United Kingdom.</p>
+    <p class="lead">Argentina's broadcast television system includes PAL-N for analog television and ISDB-T for digital television. 
+        Half of television sets in Argentina remained with analog services in 2017, although the analogue shutdown is expected to take place before 30 June 2025.</p>
+    <h2 class="h2">History</h2>
+    <p class="lead">The first license for a television network in Argentina was given to Martín Tow in 1945, but only experimental. 
+        Argentina's first television broadcast occurred on October 17, 1951, with the inaugural of then state-owned Canal 7, 
+        developed by Radio Belgrano executive Jaime Yankelevich. The broadcast began with a transmission of the last public act 
+        of Eva Perón alongside Juan Perón on the Loyalty Day at 14:20 p.m.</p>
+    <p class="lead">The first Argentine production was the newscast Primer Telenoticioso Argentino that premiered on April 20, 1954 on Canal 7. 
+        Other important shows of the time were cooking show Jueves Hogareños with famous cookbook author and television chef Doña Petrona, 
+        the first telenovelas under Teleteatro de la Tarde and later Teleteatro para la Hora del Té, humorous show Tato y sus Monólogos by Tato Bores, 
+        and American sports show Gillette Cavalcade of Sports.</p>
+    <p class="lead">On November 25, 1957, the decree-law 15460/57 was approved, 
+        which established the granting of licenses, leading to the birth of private television.</p>
+</section>
+<footer class="footer">
+    <div class="container-fluid text-center">
+        <span class="text-muted" id="date"></span>
+    </div>
+</footer>
+<script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script>
+    let today = new Date();
+    document.getElementById("date").innerHTML = "&copy; " + today.getFullYear() + ", Andor Salamon";
+</script>
+</body>
+</html>
