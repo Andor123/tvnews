@@ -5830,5 +5830,161 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Isotipo_eltrece_2016.png",
     "channel_name": "El Trece",
     "country": "Argentina"
+  },
+  {
+    "id": 973,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal_Once_logo_2025.png",
+    "channel_name": "Canal Once",
+    "country": "Mexico"
+  },
+  {
+    "id": 974,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Las_Estrellas_logo_%282016%29.svg",
+    "channel_name": "Las Estrellas",
+    "country": "Mexico"
+  },
+  {
+    "id": 975,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Logo_Azteca_Uno_2023.webp",
+    "channel_name": "Azteca Uno",
+    "country": "Mexico"
+  },
+  {
+    "id": 976,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png",
+    "channel_name": "Imagen Televisión",
+    "country": "Mexico"
+  },
+  {
+    "id": 977,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Multimedios_Canal_Seis_Logo.svg",
+    "channel_name": "Canal 6",
+    "country": "Mexico"
+  },
+  {
+    "id": 978,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/MVStv_logo.png",
+    "channel_name": "MVS TV",
+    "country": "Mexico"
+  },
+  {
+    "id": 979,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/5ltnu.svg",
+    "channel_name": "Canal 5",
+    "country": "Uruguay"
+  },
+  {
+    "id": 980,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Teledoce_2022.png",
+    "channel_name": "Teledoce",
+    "country": "Uruguay"
+  },
+  {
+    "id": 981,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Canal_10_Uruguay_Logo_1960.webp",
+    "channel_name": "Canal 10",
+    "country": "Uruguay"
+  },
+  {
+    "id": 982,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/33/Canal4_uy.png",
+    "channel_name": "Canal 4",
+    "country": "Uruguay"
+  },
+  {
+    "id": 983,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/33/LogoLaRed2018.png",
+    "channel_name": "La Red",
+    "country": "Uruguay"
+  },
+  {
+    "id": 984,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/TVCiudad_logo_2020_%28cropped%29.png",
+    "channel_name": "TV Ciudad",
+    "country": "Uruguay"
+  },
+  {
+    "id": 985,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/Canal_3_Guatemala_2022.png",
+    "channel_name": "Canal 3",
+    "country": "Guatemala"
+  },
+  {
+    "id": 986,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Televisiete_Logo.png",
+    "channel_name": "Televisiete",
+    "country": "Guatemala"
+  },
+  {
+    "id": 987,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj6P82NgPc6U21PUSq21ATuZG71SOvIrLORg&s",
+    "channel_name": "Trecevisión",
+    "country": "Guatemala"
+  },
+  {
+    "id": 988,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Guatevisionlogo.JPG",
+    "channel_name": "Guatevisión",
+    "country": "Guatemala"
+  },
+  {
+    "id": 989,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/SNT_2013_logotype.png",
+    "channel_name": "SNT",
+    "country": "Paraguay"
+  },
+  {
+    "id": 990,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/32/Trece_Paraguay_2025.svg",
+    "channel_name": "Trece",
+    "country": "Paraguay"
+  },
+  {
+    "id": 991,
+    "image": "https://ipparaguay.com.py/wp-content/uploads/2020/07/Unicanal-en-vivo.jpg",
+    "channel_name": "Unicanal",
+    "country": "Paraguay"
+  },
+  {
+    "id": 992,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e0/TelefuturoLogo2022.png",
+    "channel_name": "Telefuturo",
+    "country": "Paraguay"
+  },
+  {
+    "id": 993,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Paravision.jpg",
+    "channel_name": "Paravisión",
+    "country": "Paraguay"
+  },
+  {
+    "id": 994,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4FOS62uzH8aiY-3wU5XvL54Qkk43AWAY3kA&s",
+    "channel_name": "TV Chaqueña",
+    "country": "Paraguay"
+  },
+  {
+    "id": 995,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Ltlcolor.png",
+    "channel_name": "La Tele",
+    "country": "Paraguay"
+  },
+  {
+    "id": 996,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Logotipo_de_Paraguay_TV%2C_desde_2020.png",
+    "channel_name": "Paraguay TV",
+    "country": "Paraguay"
+  },
+  {
+    "id": 997,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/NPY_Logo2023.png",
+    "channel_name": "Noticias Paraguay",
+    "country": "Paraguay"
+  },
+  {
+    "id": 998,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmsAvFf-GGVWDDvtPs9gNMU7O7k6KEQbPN-w&s",
+    "channel_name": "América Paraguay",
+    "country": "Paraguay"
   }
 ]

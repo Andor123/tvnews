@@ -670,5 +670,21 @@
   {
     "id": 168,
     "news": "Television in Argentina"
+  },
+  {
+    "id": 169,
+    "news": "Television in Mexico"
+  },
+  {
+    "id": 170,
+    "news": "Television in Uruguay"
+  },
+  {
+    "id": 171,
+    "news": "Television in Guatemala"
+  },
+  {
+    "id": 172,
+    "news": "Television in Paraguay"
   }
 ]
