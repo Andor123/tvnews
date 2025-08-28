@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="This is a website dedicated to TV stations.">
+    <meta name="keywords" content="TV,news,stations,website">
+    <meta name="author" content="Salamon Andor">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>TV News</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="../css/index.css">
+</head>
+<body>
+<header>
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="nav">
+        <a class="navbar-brand" href="../index.html">TV NEWS</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar"
+                aria-controls="navbar" aria-expanded="false" aria-label="Toggle Navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbar">
+            <ul class="navbar-nav mr-auto">
+                <li class="navbar-item active">
+                    <a class="nav-link" href="../news.html">Latest News</a>
+                </li>
+                <li class="navbar-item">
+                    <a class="nav-link" href="../channels.html">TV Channels</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<section class="container-fluid text-center" id="section">
+    <h1 class="h1">Television in El Salvador</h1>
+    <p class="lead">Source: <em>Wikipedia</em></p>
+    <p class="lead">Television in El Salvador began in 1956 in black and white on YSEB-TV, which would bring attention to the radio broadcasting industry in the 1960s. 
+        It was so much so that it was part of the Salvadoran Association Broadcasting (ASDER) in 1964 to confront stagnation, 
+        in response to the political crisis during the era of military authoritarianism. Since the birth of privatization, 
+        Salvadoran television survived with the support of viewers and the growth of the industry that became part of one of the most important media. 
+        Currently, there are 42 television channel concessions in total: 35 of these are private, five religious and two public. 
+        In addition, eighteen television channels have national coverage and 24 channels are regional; including international television services, 
+        normally distributed by cable and satellite. Salvadoran television is in charge of the General Superintendency of Electricity and Telecommunications (SIGET) since 1996, 
+        being the successor of the National Telecommunications Administration (ANTEL).</p>
+    <h2 class="h2">History</h2>
+    <p class="lead">The first attempts to create television were made by the Mexican Rubén González on his own initiative in April 1956. 
+        In the same month, Boris Eserski, Guillermo Pinto and Tono Alfaro, former owners of the YSEB radio station, collaborated in this creation. 
+        The first television channel launched was YSEB-TV, now known as Canal 6 was launched on 7 September 1956 as a public channel that lasted for ten years; 
+        Its programming was very short by transmitting for two hours, and it only covered the city of San Salvador; and later Canal 8 would share its signal from 1958 to 1963. 
+        Canal 4 began as the second public channel that lasted from 1959 to 1963, which turned into a private channel in 1966 and the first channel with national coverage; 
+        Three channels were parts of Telecentro, which was the first conglomerate company for more than one channel until its dissolution in 1966.</p>
+    <p class="lead">Later it was founded as a successor to two former public stations called Televisión Educativa de El Salvador (Canal 10) from 1964 to 1968, 
+        and would return transmitting with Canal 8 on 29 January 1973; which those two channels lasted until 1989 when Canal 8 went signed off, 
+        leaving Canal 10 the only public TV channel at the time. However, the first private Salvadoran television channel is Canal 2 which was launched 
+        in 1965 on the basis of the radio station Circuito YSR. And due to the stagnation of having only this channel and Canal 4, 
+        this amount lasted until Canal 6 was relaunched on 6 April 1973 as the third private channel and the first full-time color television channel using the NTSC-M format. 
+        Although three years before due to geographical reasons it was only transmitted in the western zone on the Guatemalan signal, 
+        and Canal 4 began its transmissions as a part-time transmission in color from 3 March 1973 until the channel was completely adopted in the FIFA World Cup 1974. 
+        With this innovation in the television system, all television channels throughout the 1970s switched to color screens.</p>
+    <h2 class="h2">Salvadoran TV channels</h2>
+    <p class="lead">In El Salvador, there are many religious television shows and many telenovelas. El Salvador is served by three national television corporations (TCS, RSM and Megavisión), 
+        two state-run channels (Canal 10 and Televisión Legislativa) and many minor and regional channels.</p>
+</section>
+<footer class="footer">
+    <div class="container-fluid text-center">
+        <span class="text-muted" id="date"></span>
+    </div>
+</footer>
+<script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script>
+    let today = new Date();
+    document.getElementById("date").innerHTML = "&copy; " + today.getFullYear() + ", Andor Salamon";
+</script>
+</body>
+</html>

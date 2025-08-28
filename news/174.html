@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="This is a website dedicated to TV stations.">
+    <meta name="keywords" content="TV,news,stations,website">
+    <meta name="author" content="Salamon Andor">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>TV News</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="../css/index.css">
+</head>
+<body>
+<header>
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="nav">
+        <a class="navbar-brand" href="../index.html">TV NEWS</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar"
+                aria-controls="navbar" aria-expanded="false" aria-label="Toggle Navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbar">
+            <ul class="navbar-nav mr-auto">
+                <li class="navbar-item active">
+                    <a class="nav-link" href="../news.html">Latest News</a>
+                </li>
+                <li class="navbar-item">
+                    <a class="nav-link" href="../channels.html">TV Channels</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<section class="container-fluid text-center" id="section">
+    <h1 class="h1">Television in Bolivia</h1>
+    <p class="lead">Source: <em>Wikipedia</em></p>
+    <p class="lead">Television in Bolivia arrived in 1967 and is one of the media that integrates the national population. 
+        Currently there are 185 stations or television stations in the national territory, most of which are installed in 
+        the city of Santa Cruz de la Sierra with 37 television media outlets. Currently there are 8 networks that cover the entire national area. 
+        There are also themed and cable channels.</p>
+    <h2 class="h2">History</h2>
+    <p class="lead">In May 1961, the Bolivian government set up Televisión Boliviana (Televibol), a private company set to exploit television signals in the city of La Paz. 
+        Televibol also had plans to launch stations in other parts of the country and had the possibility of selling and servicing equipment once television launched. 
+        The absence of television in Bolivia until 1969 was derived mainly from the extant limitations of Bolivian radio, which had a lack of money and manpower. 
+        Communication problems between speakers of Spanish and speakers of native languages caused a language barrier. Few people in Bolivia had radio as of 1964. 
+        There were hopes for the radio infrastructure to be improved in order to assess the feasibility of a television station.</p>
+    <p class="lead">Following the 1966 Bolivian general election, plans were already underway for a national television service owned by the government. 
+        Up until then, Bolivia was served by a small number of closed-circuit experimental systems. 
+        Provisions were made for the government to provide a one-year monopoly to the first TV station in Bolivia, scheduled to start before the end of 1966. 
+        The state had already reserved three frequencies, channel 5 in La Paz, channel 4 in Cochabamba and channel 3 in Santa Cruz de la Sierra. 
+        After the prospective first year period ended, the state would allow the creation of private television stations.</p>
+    <h2 class="h2">Television networks</h2>
+    <p class="lead">With the exception of Unitel, which usually broadcasts from its headquarters in the city of Santa Cruz de la Sierra, 
+        most of the channels have their operations concentrated in the Government Headquarters (in the department of La Paz). 
+        The channels Unitel, ATB, Red Uno, Bolivisión and (to a lesser extent) Bolivia TV; usually broadcast local newscasts, 
+        at least in the cities that make up the main axis (La Paz, Cochabamba and Santa Cruz). 
+        The only public network is Bolivia TV, the rest being controlled by private businessmen.</p>
+    <p class="lead">Their transmitting plants are commonly located in Ciudad Satélite, located in El Alto. 
+        This practice began when Telesistema Boliviano (today, Unitel) established its transmitting antenna in that place. 
+        The channels also own their own affiliates, with several exceptions; Red Uno does not operate in Tarija, Chuquisaca and Potosí, 
+        but licenses its operations to the company Comunicación Integral S.R.L., while Unitel operates through affiliates in the regions, 
+        in order to focus on the main axis, Oruro, Beni and Pando.</p>
+</section>
+<footer class="footer">
+    <div class="container-fluid text-center">
+        <span class="text-muted" id="date"></span>
+    </div>
+</footer>
+<script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script>
+    let today = new Date();
+    document.getElementById("date").innerHTML = "&copy; " + today.getFullYear() + ", Andor Salamon";
+</script>
+</body>
+</html>

@@ -5986,5 +5986,161 @@
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmsAvFf-GGVWDDvtPs9gNMU7O7k6KEQbPN-w&s",
     "channel_name": "América Paraguay",
     "country": "Paraguay"
+  },
+  {
+    "id": 999,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2jc-wa7ePTR7VSV-vEFTlmTbc7SoAtterdg&s",
+    "channel_name": "Channel 5",
+    "country": "Belize"
+  },
+  {
+    "id": 1000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ6qrtuKhdlPvSeL9HLnVx1o5H7VAb74-Vnw&s",
+    "channel_name": "Channel 7",
+    "country": "Belize"
+  },
+  {
+    "id": 1001,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVYKLMpeo4S4m3Jt68E10BoewTJA2sivPyZw&s",
+    "channel_name": "XTV",
+    "country": "Belize"
+  },
+  {
+    "id": 1002,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXsV_fYo31Dq07HdGP3PyMVuUDK4VdkYjz_A&s",
+    "channel_name": "Love Television",
+    "country": "Belize"
+  },
+  {
+    "id": 1003,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/78/BoliviaTV-logo.jpg",
+    "channel_name": "Bolivia TV",
+    "country": "Bolivia"
+  },
+  {
+    "id": 1004,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/Uno_logo.svg",
+    "channel_name": "Red Uno de Bolivia",
+    "country": "Bolivia"
+  },
+  {
+    "id": 1005,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Bolivisi%C3%B3n2025.png",
+    "channel_name": "Bolivisión",
+    "country": "Bolivia"
+  },
+  {
+    "id": 1006,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/New_Unitel_logo_HD.jpg",
+    "channel_name": "Unitel",
+    "country": "Bolivia"
+  },
+  {
+    "id": 1007,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Cadeana_logo_2022.png",
+    "channel_name": "Cadena A",
+    "country": "Bolivia"
+  },
+  {
+    "id": 1008,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrr5mzk1FkQKnacUtvoRszxS-9eVXwz1_RZQ&s",
+    "channel_name": "Rrd ATB",
+    "country": "Bolivia"
+  },
+  {
+    "id": 1009,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Rtpbolivia2021.png",
+    "channel_name": "RTP",
+    "country": "Bolivia"
+  },
+  {
+    "id": 1010,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/PAT_Logotype.png",
+    "channel_name": "Red PAT",
+    "country": "Bolivia"
+  },
+  {
+    "id": 1011,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/88/Canal_10_%28El_Salvador%29_2019.svg",
+    "channel_name": "Canal 10",
+    "country": "El Salvador"
+  },
+  {
+    "id": 1012,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/TCS_2_2016.png",
+    "channel_name": "Canal 2",
+    "country": "El Salvador"
+  },
+  {
+    "id": 1013,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Canal_4_TCS.png",
+    "channel_name": "Canal 4",
+    "country": "El Salvador"
+  },
+  {
+    "id": 1014,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal_6_TCS.png",
+    "channel_name": "Canal 6",
+    "country": "El Salvador"
+  },
+  {
+    "id": 1015,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/CANAL12_2025_EST%C3%81_CON_VOS.png",
+    "channel_name": "Canal 12",
+    "country": "El Salvador"
+  },
+  {
+    "id": 1016,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Canal-21.png",
+    "channel_name": "Canal 21",
+    "country": "El Salvador"
+  },
+  {
+    "id": 1017,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Cultura_logo_2013.svg",
+    "channel_name": "TV Cultura",
+    "country": "Brazil"
+  },
+  {
+    "id": 1018,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/TV_Brasil_logo_2023.svg",
+    "channel_name": "TV Brasil",
+    "country": "Brazil"
+  },
+  {
+    "id": 1019,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Logo_da_Rede_Minas.svg",
+    "channel_name": "Rede Minas",
+    "country": "Brazil"
+  },
+  {
+    "id": 1020,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/TV_Globo_2021.svg",
+    "channel_name": "TV Globo",
+    "country": "Brazil"
+  },
+  {
+    "id": 1021,
+    "image": "https://upload.wikimedia.org/wikipedia/en/1/17/Rederecord2023.jpg",
+    "channel_name": "Record",
+    "country": "Brazil"
+  },
+  {
+    "id": 1022,
+    "image": "https://upload.wikimedia.org/wikipedia/en/8/84/Sistema_Brasileiro_de_Televis%C3%A3o.svg",
+    "channel_name": "SBT",
+    "country": "Brazil"
+  },
+  {
+    "id": 1023,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Rede_Bandeirantes_logo_2018.svg",
+    "channel_name": "Rede Bandeirantes",
+    "country": "Brazil"
+  },
+  {
+    "id": 1024,
+    "image": "https://upload.wikimedia.org/wikipedia/en/8/82/Logo_of_RedeTV_of_Brazil.png",
+    "channel_name": "RedeTV!",
+    "country": "Brazil"
   }
 ]

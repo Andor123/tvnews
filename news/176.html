@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="This is a website dedicated to TV stations.">
+    <meta name="keywords" content="TV,news,stations,website">
+    <meta name="author" content="Salamon Andor">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>TV News</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="../css/index.css">
+</head>
+<body>
+<header>
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="nav">
+        <a class="navbar-brand" href="../index.html">TV NEWS</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar"
+                aria-controls="navbar" aria-expanded="false" aria-label="Toggle Navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbar">
+            <ul class="navbar-nav mr-auto">
+                <li class="navbar-item active">
+                    <a class="nav-link" href="../news.html">Latest News</a>
+                </li>
+                <li class="navbar-item">
+                    <a class="nav-link" href="../channels.html">TV Channels</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<section class="container-fluid text-center" id="section">
+    <h1 class="h1">Television in Brazil</h1>
+    <p class="lead">Source: <em>Wikipedia</em></p>
+    <p class="lead">Television in Brazil has grown significantly since the first broadcasts in 18 September 1950, 
+        with the (now defunct) Rede Tupi by Assis Chateaubriand, becoming one of the largest and most productive commercial television systems in the world. 
+        Its biggest network, TV Globo (founded by Roberto Marinho in 26 April 1965), is the largest commercial network in South America, 
+        and is one of the major television exporter globally, particularly of telenovelas, having become popular in many countries. 
+        There are more than 90 free-to-air television networks (national and regional), as well as satellite channels broadcasting throughout the country.</p>
+    <h2 class="h2">History</h2>
+    <p class="lead">In Brazil around the same time, the concessions for the first television broadcast network were decreed and distributed by 
+        President Eurico Gaspar Dutra's administration, and a cornerstone was placed for the very first transmitter in Brazil for the first commercial network, Rede Tupi. 
+        It was initially located in the municipality of Morro do Pão de Açúcar, in the city of Rio de Janeiro. By 1949, a group of technicians and engineers arrived 
+        in Brazil and visited the planned location for the broadcast tower for the first time only to find that due to the topography in Rio, 
+        the planned broadcast tower site wouldn't be the ideal place for its installation. As media mogul Assis Chateaubriand was interested in the 
+        opening of the first broadcast television network in Brazil and Latin America and already knew that the US was crucial in sponsoring the 
+        first TV broadcast in Cuba on Christmas Day of 1950, he decided to transfer to São Paulo for the inaugural broadcast, and the government gave the concession of channel 3, 
+        given by Radio Difusora in order to start Rede Tupi's operations.</p>
+    <p class="lead">Then, Chateaubriand ordered the broadcasting equipment necessary, for the station had already been built, just in time for this installation. 
+        In July 1950, the equipment arrived by ship in Port Santos and was accompanied to the capital by one of the many artists of the Emissoras Associadas group 
+        in São Paulo via motorcade. The motorcade was a hit, and crowds gathered to see the equipment being driven to the new station, 
+        a preview of what the new station would offer.</p>
+    <p class="lead">Television became a mass medium in Brazil earlier than in most developing countries. 
+        The military dictatorship which took power in 1964 saw audiovisual communication as a tool for creating a stronger national identity, 
+        a broader consumer economy, and controlling political information. The military pushed television deeper into the population by subsidizing credit for set sales, 
+        building national microwave and satellite distribution systems, which prompted the growth of Rede Globo, which they chose as a privileged partner.</p>
+    <p class="lead">Globo, launched a few months after the 1964 coup, created the first true national network by the late 1960s. 
+        Censorship of news was extensive under the military governments between 1966 and 1978, but it also encouraged national television program production. 
+        In the early 1970s, several government ministers pushed the commercial networks to develop more Brazilian programming and reduce reliance on imported programs, 
+        particularly those with violent and sexual content. While Globo adopted an international model for operations, 90 percent of its content was produced in Brazil.</p>
+</section>
+<footer class="footer">
+    <div class="container-fluid text-center">
+        <span class="text-muted" id="date"></span>
+    </div>
+</footer>
+<script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script>
+    let today = new Date();
+    document.getElementById("date").innerHTML = "&copy; " + today.getFullYear() + ", Andor Salamon";
+</script>
+</body>
+</html>
