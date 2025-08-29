@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="This is a website dedicated to TV stations.">
+    <meta name="keywords" content="TV,news,stations,website">
+    <meta name="author" content="Salamon Andor">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>TV News</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="../css/index.css">
+</head>
+<body>
+<header>
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="nav">
+        <a class="navbar-brand" href="../index.html">TV NEWS</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar"
+                aria-controls="navbar" aria-expanded="false" aria-label="Toggle Navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbar">
+            <ul class="navbar-nav mr-auto">
+                <li class="navbar-item active">
+                    <a class="nav-link" href="../news.html">Latest News</a>
+                </li>
+                <li class="navbar-item">
+                    <a class="nav-link" href="../channels.html">TV Channels</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<section class="container-fluid text-center" id="section">
+    <h1 class="h1">Television in Peru</h1>
+    <p class="lead">Source: <em>Wikipedia</em></p>
+    <p class="lead">Television in Peru has a history of more than 60 years. There are 105 television broadcasters in Peru, 22 of which are in Lima. 
+        In regard to television receivers, in 2003 there were 5,470,000 — that is 200 televisions for every thousand inhabitants. 
+        The number of cable subscribers was 967,943 in 2011.</p>
+    <h2 class="h2">History</h2>
+    <p class="lead">The first experimental transmission of television in Peru occurred on September 21, 1939, 
+        transmitting a film and an artistic program from Nuestra Señora de Guadalupe school in Lima. 
+        Another test transmission was made by Antonio Pereyra from the Bolivar Hotel on May 28, 1954. 
+        On January 17, 1958, the Ministry of Education and UNESCO inaugurated the State Channel 7 and conducted a test broadcast. 
+        The first commercial television broadcast was on Channel 4 Radio América in Lima, on December 15, 1958, by Nicanor González and José Antonio Umbert. 
+        Channel 4 Radio America's creation was possible because of an agreement with NBC and RCA.</p>
+    <p class="lead">Several commercial television stations followed, including Channel 2 (Radiodifusora Victoria S.A.), 
+        Channel 13 — later changed to Channel 5 (Panamericana Televisión S.A.), Channel 9 (Compañía Peruana de Producciones Radiales y TV), 
+        Channel 11 (Bego Televisión S.A.). Many of them soon acquired — or were associated with — stations outside Metropolitan Lima. 
+        In just two months, November and December 1959, Lima stores recorded sales of 10,000 television sets, 
+        and full-page ads in newspapers and magazines announced the start of the era of television in Peru. By April 1960, 
+        there were 55,000 television sets operating in the Peruvian capital. The growth of television in Peru was remarkably rapid. 
+        In just two months, from November to December 1959, Lima stores sold 10,000 television sets, and full-page ads in newspapers 
+        and magazines announced the start of the era of television in Peru. By April 1960, there were already 55,000 television sets 
+        operating in the Peruvian capital, which was an explosive growth, considering that in 1958, there were only 5,000 televisions. 
+        This demonstrates how quickly the technology was embraced and how it rapidly became an essential part of Peruvian life.</p>
+    <h2 class="h2">Digital television</h2>
+    <p class="lead">On March 30, 2010, Peru starts digital television transition, with TV Perú being the first television station to begin broadcast digitally. 
+        The analog broadcast in Peru will be discontinued in 2020.</p>
+</section>
+<footer class="footer">
+    <div class="container-fluid text-center">
+        <span class="text-muted" id="date"></span>
+    </div>
+</footer>
+<script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script>
+    let today = new Date();
+    document.getElementById("date").innerHTML = "&copy; " + today.getFullYear() + ", Andor Salamon";
+</script>
+</body>
+</html>

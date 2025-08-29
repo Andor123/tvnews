@@ -6142,5 +6142,161 @@
     "image": "https://upload.wikimedia.org/wikipedia/en/8/82/Logo_of_RedeTV_of_Brazil.png",
     "channel_name": "RedeTV!",
     "country": "Brazil"
+  },
+  {
+    "id": 1025,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTY36zh85xqYvms8ws3IXYLTjG9q8NuldPVA&s",
+    "channel_name": "Canal 8",
+    "country": "Honduras"
+  },
+  {
+    "id": 1026,
+    "image": "https://upload.wikimedia.org/wikipedia/en/2/20/Canal11HN2010.png",
+    "channel_name": "Canal 11",
+    "country": "Honduras"
+  },
+  {
+    "id": 1027,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Canal_5_HN_logo_2019.png",
+    "channel_name": "Canal 5",
+    "country": "Honduras"
+  },
+  {
+    "id": 1028,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwqp6uB2BU-YIkmjeB34-2NZDkBE3oslPawA&s",
+    "channel_name": "Canal 36",
+    "country": "Honduras"
+  },
+  {
+    "id": 1029,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL6NS-yy7D9UfeiQinO9MpN40aei2unQkc4w&s",
+    "channel_name": "Maya TV",
+    "country": "Honduras"
+  },
+  {
+    "id": 1030,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyGc10o-sUaFNOhBvh8SCdp-UH6cJv6_VQ0g&s",
+    "channel_name": "Teleceiba",
+    "country": "Honduras"
+  },
+  {
+    "id": 1031,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg",
+    "channel_name": "TV Perú",
+    "country": "Peru"
+  },
+  {
+    "id": 1032,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/32/ATV_Peru_2025.svg",
+    "channel_name": "ATV",
+    "country": "Peru"
+  },
+  {
+    "id": 1033,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg",
+    "channel_name": "América Televisión",
+    "country": "Peru"
+  },
+  {
+    "id": 1034,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/LatinaPE2024.svg",
+    "channel_name": "Latina Televisión",
+    "country": "Peru"
+  },
+  {
+    "id": 1035,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Segundo_Logotipo_de_Panamericana_Televisi%C3%B3n.svg",
+    "channel_name": "Panamericana Televisión",
+    "country": "Peru"
+  },
+  {
+    "id": 1036,
+    "image": "https://upload.wikimedia.org/wikipedia/en/1/17/Willax_TV_logo.png",
+    "channel_name": "Willax Televisión",
+    "country": "Peru"
+  },
+  {
+    "id": 1037,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/TN8_Nicaragua.svg",
+    "channel_name": "TN8",
+    "country": "Nicaragua"
+  },
+  {
+    "id": 1038,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/28/Canal_2_%28Nicaragua%29_logo.png",
+    "channel_name": "Canal 2",
+    "country": "Nicaragua"
+  },
+  {
+    "id": 1039,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/Logo_Canal_4_La_Mejor_Televisi%C3%B3n.png",
+    "channel_name": "Canal 4",
+    "country": "Nicaragua"
+  },
+  {
+    "id": 1040,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Canal_10_Nicaragua.png",
+    "channel_name": "Canal 10",
+    "country": "Nicaragua"
+  },
+  {
+    "id": 1041,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Canal_12_Nicaragua_logo.webp",
+    "channel_name": "Canal 12",
+    "country": "Nicaragua"
+  },
+  {
+    "id": 1042,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/66/Logo_Viva_Nicaragua_Canal_13.png",
+    "channel_name": "Viva Nicaragua",
+    "country": "Nicaragua"
+  },
+  {
+    "id": 1043,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e0/TC_logo2020.webp",
+    "channel_name": "TC Televisión",
+    "country": "Ecuador"
+  },
+  {
+    "id": 1044,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png",
+    "channel_name": "Gamavisión",
+    "country": "Ecuador"
+  },
+  {
+    "id": 1045,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/EcuadorTV_logo.png",
+    "channel_name": "Ecuador TV",
+    "country": "Ecuador"
+  },
+  {
+    "id": 1046,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png",
+    "channel_name": "Ecuavisa",
+    "country": "Ecuador"
+  },
+  {
+    "id": 1047,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png",
+    "channel_name": "Teleamazonas",
+    "country": "Ecuador"
+  },
+  {
+    "id": 1048,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png",
+    "channel_name": "RTS",
+    "country": "Ecuador"
+  },
+  {
+    "id": 1049,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png",
+    "channel_name": "Oromar Televisión",
+    "country": "Ecuador"
+  },
+  {
+    "id": 1050,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/La_Tele_2009.png",
+    "channel_name": "La Tele",
+    "country": "Ecuador"
   }
 ]
