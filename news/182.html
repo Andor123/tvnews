@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="This is a website dedicated to TV stations.">
+    <meta name="keywords" content="TV,news,stations,website">
+    <meta name="author" content="Salamon Andor">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>TV News</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="../css/index.css">
+</head>
+<body>
+<header>
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="nav">
+        <a class="navbar-brand" href="../index.html">TV NEWS</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar"
+                aria-controls="navbar" aria-expanded="false" aria-label="Toggle Navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbar">
+            <ul class="navbar-nav mr-auto">
+                <li class="navbar-item active">
+                    <a class="nav-link" href="../news.html">Latest News</a>
+                </li>
+                <li class="navbar-item">
+                    <a class="nav-link" href="../channels.html">TV Channels</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<section class="container-fluid text-center" id="section">
+    <h1 class="h1">Television in Colombia</h1>
+    <p class="lead">Source: <em>Wikipedia</em></p>
+    <p class="lead">Television in Colombia or Colombian television (Spanish: Televisión de Colombia) is a media of Colombia. 
+        It is characterized for broadcasting telenovelas, series, game shows and TV news. 
+        Until 1998 it was a state monopoly (though there was a short-lived local private channel from 1966 to 1971, known as Teletigre). 
+        There are two privately owned TV networks and three state-owned TV networks with national coverage, 
+        as well as six regional TV networks and dozens of local TV stations. There are numerous cable TV companies operating 
+        in Colombia under each Colombian department statutes. These cable companies also develop their own channels, 
+        in addition to a variety of international channels. Television in Colombia has always relied on technological advancements 
+        from developed countries importing almost all the equipment.</p>
+    <h2 class="h2">History</h2>
+    <p class="lead">Television in Colombia was inaugurated on 13 June 1954 during the government of General Gustavo Rojas Pinilla, 
+        who became impressed with the new invention during a visit to Nazi Germany as a military attaché. Rojas imported Siemens and DuMont equipment 
+        and hired Cuban technicians to set up a TV station in time for the commemoration of Rojas's first year in office. 
+        A test broadcast was made 1 May 1954 covering Bogotá and Manizales.</p>
+    <p class="lead">Initially television in Colombia was public, with emphasis on education and cultural topics until, 
+        in 1955, the government developed a system of concessions, in which the State was in charge of the television infrastructure and gave programming 
+        slots in the channels to private companies known as programadoras. These companies bid for timeslots on the national channel to show their programs. 
+        The first of these companies to be founded was Producciones PUNCH, followed quickly by RTI Colombia. 
+        In 1963 Inravisión, the public broadcaster, was created. Before that, it was operated by the Televisora Nacional, 
+        part of the Radiodifusora Nacional de Colombia. In 1966 the government then tried to privatize the sector, opening bidding for a private license in Bogotá. 
+        Caracol, RTI and Punch would bid on the license, but the winner was Consuelo Salgar de Montejo and her Teletigre. 
+        Teletigre was a huge success. Mrs. Montejo made an alliance with ABC and brought many of the US shows translated into Spanish to the local viewers. 
+        The government did not renew the broadcast license for Teletigre. Teletigre, which would return to state hands and become Tele 9 Corazón and, 
+        in 1972 Segunda Cadena, with national coverage. Mrs. Montejo attempted on many occasions to get back in broadcasting TV, but the government refused to give her slots.</p>
+    <p class="lead">On 1 December 1979, regular color television broadcasts started in Colombia using the NTSC standard. 
+        Color television had already been introduced in October 1973, when programadora Cenpro Televisión made a color broadcast 
+        during an education seminar with Japanese-made equipment. The inauguration and the first match of the 1974 FIFA World Cup 
+        were broadcast live in color, but they could be seen in color only on big screens in Bogotá and Cali.</p>
+</section>
+<footer class="footer">
+    <div class="container-fluid text-center">
+        <span class="text-muted" id="date"></span>
+    </div>
+</footer>
+<script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script>
+    let today = new Date();
+    document.getElementById("date").innerHTML = "&copy; " + today.getFullYear() + ", Andor Salamon";
+</script>
+</body>
+</html>

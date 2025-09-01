@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="This is a website dedicated to TV stations.">
+    <meta name="keywords" content="TV,news,stations,website">
+    <meta name="author" content="Salamon Andor">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>TV News</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="../css/index.css">
+</head>
+<body>
+<header>
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="nav">
+        <a class="navbar-brand" href="../index.html">TV NEWS</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar"
+                aria-controls="navbar" aria-expanded="false" aria-label="Toggle Navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbar">
+            <ul class="navbar-nav mr-auto">
+                <li class="navbar-item active">
+                    <a class="nav-link" href="../news.html">Latest News</a>
+                </li>
+                <li class="navbar-item">
+                    <a class="nav-link" href="../channels.html">TV Channels</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<section class="container-fluid text-center" id="section">
+    <h1 class="h1">Television in Venezuela</h1>
+    <p class="lead">Source: <em>Wikipedia</em></p>
+    <p class="lead">Television in Venezuela began in 1952, when the then President of Venezuela, Marcos Pérez Jiménez launched the state channel Televisora Nacional, 
+        making Venezuela the ninth country in the world to have a public television network. By 1963, a quarter of Venezuelan households had television; 
+        a figure rising to 45% by 1969 and 85% by 1982. Telenovelas are popular in Venezuela, and some Venezuelan productions (such as Cara Sucia) are distributed internationally. 
+        Perhaps the best known television show internationally was President Hugo Chávez' weekly talk show Aló Presidente, which began in 1999 and ended in 2012. 
+        The government also makes regular use of cadena nacionales (mandatory interruptions on all channels to show government broadcasts).</p>
+    <h2 class="h2">Channels and channel owners</h2>
+    <p class="lead">Televisa was the second television network to begin operations in Venezuela after Televisora Nacional, 
+        and the first commercial network before Radio Caracas Televisión both in 1953. Ondas del Lago Televisión was 
+        the first Venezuelan regional television network based in Maracaibo, Zulia State. 
+        Created in 1957, lasted only a few months before ceasing operations. Actually the main private television networks are Venevisión, Televen and Globovisión. 
+        Public-owned television includes Venezolana de Televisión, TVes, ViVe and teleSUR. 
+        There are also local community-run television stations such as Catia TVe and a range of regional networks such as Zuliana de Televisión. 
+        The Venezuelan government also provides funding to Avila TV, Buena TV and Asamblea Nacional Televisión.</p>
+    <p class="lead">"Communitarian channels," funded by the Venezuelan government, are not counted as state television in 
+        figures despite relying on government funding to broadcast. "Communitarian channels technically are supposed to be independent, 
+        and many of them struggle to assert some autonomy vis-à-vis the state, but only progovernment channels receive state funding and support. 
+        Given that there are few other funding sources, communitarian channels inevitably end up complying with state directives."</p>
+    <h2 class="h2">Programming</h2>
+    <p class="lead">Telenovelas are popular in Venezuela, and some Venezuelan productions (such as Cara Sucia) are distributed internationally. 
+        Perhaps the best known television show internationally was however, President Hugo Chávez' weekly talk show Aló Presidente, 
+        which began in 1999 and ran with occasional breaks until 2012.</p>
+    <p class="lead">The Chávez government devoted considerable financial resources to support community television as part of its view of participatory democracy. 
+        Community television programs received funds through the National Ministry of Communication and PDVSA corporate social responsibility funds. 
+        Community programs like Catia TVe provided a forum for marginalized communities in Venezuela.</p>
+</section>
+<footer class="footer">
+    <div class="container-fluid text-center">
+        <span class="text-muted" id="date"></span>
+    </div>
+</footer>
+<script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script>
+    let today = new Date();
+    document.getElementById("date").innerHTML = "&copy; " + today.getFullYear() + ", Andor Salamon";
+</script>
+</body>
+</html>

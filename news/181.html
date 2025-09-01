@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="This is a website dedicated to TV stations.">
+    <meta name="keywords" content="TV,news,stations,website">
+    <meta name="author" content="Salamon Andor">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>TV News</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="../css/index.css">
+</head>
+<body>
+<header>
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="nav">
+        <a class="navbar-brand" href="../index.html">TV NEWS</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar"
+                aria-controls="navbar" aria-expanded="false" aria-label="Toggle Navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbar">
+            <ul class="navbar-nav mr-auto">
+                <li class="navbar-item active">
+                    <a class="nav-link" href="../news.html">Latest News</a>
+                </li>
+                <li class="navbar-item">
+                    <a class="nav-link" href="../channels.html">TV Channels</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<section class="container-fluid text-center" id="section">
+    <h1 class="h1">Television in Costa Rica</h1>
+    <p class="lead">Source: <em>Wikipedia</em></p>
+    <p class="lead">Television was introduced to Costa Rica in 1960 with Teletica, the first experiments were conducted in October 1954, 
+        by technician Álvaro Zamora Dobles and businessmen Manuel Mendiola y Álvaro Zúñiga. The scuccess of this experiment 
+        led to the creation of Televisora Tica Limitada (Televitica), which in an initial phase only carried advertising slides for interested stores.</p>
+    <p class="lead">In October 1958, a new agreement led to the creation of a new company, Televisora de Costa Rica, Teletica. 
+        Its first regular broadcasts followed on May 9, 1960. New channels followed, starting with Tic-Tac Canal 9 on April 12, 1962, 
+        Telecentro Canal 6 on September 12, 1965, Canal 2 Telenac on August 28, 1966 and Televictoria Canal 11 in 1969.</p>
+    <p class="lead">Televictoria became the first television channel in Costa Rica to begin color broadcasts, which became regular in 1971 and full-time in 1974. 
+        Public television started in 1978, with financing from the Spanish state.</p>
+    <p class="lead">The 90s were marked by the creation of Representaciones Televisivas (Repretel) which was owned by Remigio Ángel González, 
+        who, in 2008, would create a new umbrella brand for his networks, Albavisión. Starting with his acquisition of channel 9, he acquired channels 6 and 11 in 1995; 
+        in 1997, Repretel 11 ended its relays of Repretel 6, gaining its own schedule. Mexican conglomerate TV Azteca acquired Canal 4 Multinoticias in 1998 
+        with the aim of building a Latin American network of channels, but sold it to Repretel in early 2000 due to financial difficulties.</p>
+    <p class="lead">Digital terrestrial television uses the ISDB-T standard in its Brazilian form; the last analog signals were switched off on January 31, 2023.</p>
+</section>
+<footer class="footer">
+    <div class="container-fluid text-center">
+        <span class="text-muted" id="date"></span>
+    </div>
+</footer>
+<script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script>
+    let today = new Date();
+    document.getElementById("date").innerHTML = "&copy; " + today.getFullYear() + ", Andor Salamon";
+</script>
+</body>
+</html>

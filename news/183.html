@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="This is a website dedicated to TV stations.">
+    <meta name="keywords" content="TV,news,stations,website">
+    <meta name="author" content="Salamon Andor">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>TV News</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="../css/index.css">
+</head>
+<body>
+<header>
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="nav">
+        <a class="navbar-brand" href="../index.html">TV NEWS</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar"
+                aria-controls="navbar" aria-expanded="false" aria-label="Toggle Navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbar">
+            <ul class="navbar-nav mr-auto">
+                <li class="navbar-item active">
+                    <a class="nav-link" href="../news.html">Latest News</a>
+                </li>
+                <li class="navbar-item">
+                    <a class="nav-link" href="../channels.html">TV Channels</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<section class="container-fluid text-center" id="section">
+    <h1 class="h1">Television in Panama</h1>
+    <p class="lead">Source: <em>Wikipedia</em></p>
+    <p class="lead">Television was introduced to Panama extra-officially in 1956 with the start of SCN in the Panama Canal Zone and officially on March 14, 1960, 
+        with the launch of RPC Televisión. Currently Corporación MEDCOM and TVN Media dominate the landscape.</p>
+    <h2 class="h2">History</h2>
+    <p class="lead">With the support of American engineers, RPC Televisión started broadcasting on March 14, 1960, owned by Radio Programas Continentales. 
+        Its inaugural acts had the participation of President Ernesto de la Guardia, as well as other political personalities of the time. 
+        It broadcast from 4:30pm to 11pm, with an abundant quantity of live programs and two news bulletins. 
+        There was also coverage of the 1960 presidential elections, held in May of that year.</p>
+    <p class="lead">Following the 1968 Panamanian coup d'état, new technologies were being implemented. In the early 1970s, 
+        live sporting events became a possibility thanks to satellite technologies, while TVN became the first in Panama to broadcast in color in 1972. 
+        That same year, the two Panamanian networks broadcast a sum of 180 hours and 45 minutes per week, with 71.6% consisting of imports 
+        and the remaining 28.4% produced in Panama. A closed circuit educational television station started operations 
+        in November 1973 in the University of Panama before becoming a channel in its own right, Televisión Educativa Experimental, 
+        the current SERTV, on January 22, 1978, on channel 6, later moving to channel 11.</p>
+    <p class="lead">Changes to the legislation were enacted in 1980, breaking the commercial monopoly of the Eleta and Chiari families. 
+        The passing of Law 36 in the Official Gazette in 1980 gave licenses to Panavisión del Istmo, of Vice-president Ricardo de la Espriella, 
+        on channel 5 in Panamá Province and Medios Panameños, of ex-chancellor Nicolás González Revilla, 
+        gained channel 13 in the metropolitan area of the capital, creating Telemetro. Telemetro started on October 13, 1981 
+        as a subscription television channel with a six-hour schedule of three movies, mostly vintage. A relay station in Colón was installed in 1983, 
+        before achieving total national coverage in 1992. Panavisión, on its hand, started broadcasting on October 21, 1983. 
+        Within a year, Panavisión had already set up relay stations to cover all nine provinces.</p>
+    <p class="lead">On December 25, 1989 (Christmas Day), RPC is authorized to return to the air, but its programming was limited to a special Christmas mass. 
+        In the days that followed, the only program that was broadcast was Los del Camino, a daily reflection produced by the Catholic Church. 
+        In April, TVN, Telecinco and Telemetro returned to the air, but with the same limitations imposed to RPC.</p>
+</section>
+<footer class="footer">
+    <div class="container-fluid text-center">
+        <span class="text-muted" id="date"></span>
+    </div>
+</footer>
+<script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script>
+    let today = new Date();
+    document.getElementById("date").innerHTML = "&copy; " + today.getFullYear() + ", Andor Salamon";
+</script>
+</body>
+</html>

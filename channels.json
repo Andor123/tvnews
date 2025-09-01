@@ -6298,5 +6298,197 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/La_Tele_2009.png",
     "channel_name": "La Tele",
     "country": "Ecuador"
+  },
+  {
+    "id": 1051,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoHlAqbhdAurVBxVLIVLSq3q1NZd5AIUQ3kQ&s",
+    "channel_name": "Canal 13",
+    "country": "Costa Rica"
+  },
+  {
+    "id": 1052,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/54/RepretelCanal62024.svg",
+    "channel_name": "Repretel 6",
+    "country": "Costa Rica"
+  },
+  {
+    "id": 1053,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/RepretelCanal42024.svg",
+    "channel_name": "Repretel 4",
+    "country": "Costa Rica"
+  },
+  {
+    "id": 1054,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/RepretelCanal112024.svg",
+    "channel_name": "Repretel 11",
+    "country": "Costa Rica"
+  },
+  {
+    "id": 1055,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/Repretel_2_CDR.png",
+    "channel_name": "CDR Canal 2",
+    "country": "Costa Rica"
+  },
+  {
+    "id": 1056,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Teletica_Logo.png",
+    "channel_name": "Teletica",
+    "country": "Costa Rica"
+  },
+  {
+    "id": 1057,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp4iF3_pUL_UA9pzq97MGNE-sQgsMdDWvlJA&s",
+    "channel_name": "XPERTV",
+    "country": "Costa Rica"
+  },
+  {
+    "id": 1058,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Logo_de_FUTV.svg",
+    "channel_name": "FUTV",
+    "country": "Costa Rica"
+  },
+  {
+    "id": 1059,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/CanalInstitucional2025.png",
+    "channel_name": "Canal Institucional",
+    "country": "Colombia"
+  },
+  {
+    "id": 1060,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Se%C3%B1al_Colombia_logo.svg",
+    "channel_name": "Señal Colombia",
+    "country": "Colombia"
+  },
+  {
+    "id": 1061,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Canal_Trece_logo.svg",
+    "channel_name": "Canal Trece",
+    "country": "Colombia"
+  },
+  {
+    "id": 1062,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Canal1Colombia2024.svg",
+    "channel_name": "Canal 1",
+    "country": "Colombia"
+  },
+  {
+    "id": 1063,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/CaracolTV2025.png",
+    "channel_name": "Caracol Televisión",
+    "country": "Colombia"
+  },
+  {
+    "id": 1064,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a3/CanalRCN2023.png",
+    "channel_name": "RCN Televisión",
+    "country": "Colombia"
+  },
+  {
+    "id": 1065,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_GyoOKPxm-w7c_t5ALiR4Krf-UU2h0i3y1A&s",
+    "channel_name": "SERTV",
+    "country": "Panama"
+  },
+  {
+    "id": 1066,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtx3nUKhpRW-Kh6LpHg6Ay8dFjuOwEXmiWjA&s",
+    "channel_name": "FETV",
+    "country": "Panama"
+  },
+  {
+    "id": 1067,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT60Cs6LC2KaMLKY8pviFFtPHLlqL3Gj89fog&s",
+    "channel_name": "ACP",
+    "country": "Panama"
+  },
+  {
+    "id": 1068,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Logo-telemetro.svg",
+    "channel_name": "Telemetro",
+    "country": "Panama"
+  },
+  {
+    "id": 1069,
+    "image": "https://upload.wikimedia.org/wikipedia/en/7/7e/RPCPanama2021.svg",
+    "channel_name": "RPC",
+    "country": "Panama"
+  },
+  {
+    "id": 1070,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYsaam0fB6zzSD7ts91CRyfkZm5ObTRAl6Gw&s",
+    "channel_name": "NEXtv",
+    "country": "Panama"
+  },
+  {
+    "id": 1071,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/TVN_Panama_logo.svg",
+    "channel_name": "TVN",
+    "country": "Panama"
+  },
+  {
+    "id": 1072,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_tvmax.png",
+    "channel_name": "TVMax",
+    "country": "Panama"
+  },
+  {
+    "id": 1073,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/42/Venezolana_de_Televisi%C3%B3n_2018.svg",
+    "channel_name": "Venezolana de Televisión",
+    "country": "Venezuela"
+  },
+  {
+    "id": 1074,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/fd/TVes_logo.PNG",
+    "channel_name": "TVes",
+    "country": "Venezuela"
+  },
+  {
+    "id": 1075,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Logotipo_de_Venevisi%C3%B3n.svg",
+    "channel_name": "Venevisión",
+    "country": "Venezuela"
+  },
+  {
+    "id": 1076,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Ve_Plus_Logo_2019.png",
+    "channel_name": "Ve Plus TV",
+    "country": "Venezuela"
+  },
+  {
+    "id": 1077,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Televen_logo.PNG",
+    "channel_name": "Televen",
+    "country": "Venezuela"
+  },
+  {
+    "id": 1078,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Vivetv.png",
+    "channel_name": "ViVe",
+    "country": "Venezuela"
+  },
+  {
+    "id": 1079,
+    "image": "https://upload.wikimedia.org/wikipedia/en/4/47/Globovisi%C3%B3n_logo_2013.png",
+    "channel_name": "Globovisión",
+    "country": "Venezuela"
+  },
+  {
+    "id": 1080,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/98/Logo_de_VALE_TV.png",
+    "channel_name": "Vale TV",
+    "country": "Venezuela"
+  },
+  {
+    "id": 1081,
+    "image": "https://upload.wikimedia.org/wikipedia/en/0/06/Logo_Meridiano_Televisi%C3%B3n_%28Venezuela%29.png",
+    "channel_name": "Meridiano Televisión",
+    "country": "Venezuela"
+  },
+  {
+    "id": 1082,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/bf/TeleSUR-Logo.svg",
+    "channel_name": "Telesur",
+    "country": "Venezuela"
   }
 ]
