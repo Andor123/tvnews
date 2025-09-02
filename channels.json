@@ -6490,5 +6490,149 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/bf/TeleSUR-Logo.svg",
     "channel_name": "Telesur",
     "country": "Venezuela"
+  },
+  {
+    "id": 1083,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Cubavisi%C3%B3n.png",
+    "channel_name": "Cubavisión",
+    "country": "Cuba"
+  },
+  {
+    "id": 1084,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Cvinternacional.png",
+    "channel_name": "Cubavisión Internacional",
+    "country": "Cuba"
+  },
+  {
+    "id": 1085,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Telerebelde.png",
+    "channel_name": "Tele Rebelde",
+    "country": "Cuba"
+  },
+  {
+    "id": 1086,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Educativo.png",
+    "channel_name": "Canal Educativo",
+    "country": "Cuba"
+  },
+  {
+    "id": 1087,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Multivisi%C3%B3n_Cuba.svg",
+    "channel_name": "Multivisión",
+    "country": "Cuba"
+  },
+  {
+    "id": 1088,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Canal-Habana.png",
+    "channel_name": "Canal Habana",
+    "country": "Cuba"
+  },
+  {
+    "id": 1089,
+    "image": "https://ncnguyana.com/2023/wp-content/uploads/2023/02/NCN-Logo-strap.png",
+    "channel_name": "NCN Television",
+    "country": "Guyana"
+  },
+  {
+    "id": 1090,
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_mLlkAJ5PUiMQJgu74KwyVNb3N661Kl-Xl1pwyCiwvIWR8=s160-c-k-c0x00ffffff-no-rj",
+    "channel_name": "Television Guyana",
+    "country": "Guyana"
+  },
+  {
+    "id": 1091,
+    "image": "https://upload.wikimedia.org/wikipedia/en/4/40/ZNS-TV_HD_2017.png",
+    "channel_name": "ZNS-TV",
+    "country": "Bahamas"
+  },
+  {
+    "id": 1092,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBzhGBngr-wR6_fIgy8if5YXgM-P8ph4B8ZA&s",
+    "channel_name": "JCN Channel 14",
+    "country": "Bahamas"
+  },
+  {
+    "id": 1093,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK_RQWYUW5oeRo-Dt7wNLdOuAndZBKzO5GCw&s",
+    "channel_name": "Our TV",
+    "country": "Bahamas"
+  },
+  {
+    "id": 1094,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH6VjvimLVgEs7S2dcAr0rNu_2t2c4zaLwZg&s",
+    "channel_name": "Eyewitness News",
+    "country": "Bahamas"
+  },
+  {
+    "id": 1095,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdZ1BwE7inpwcP3SA98N91ngXBWNEw8MDHXQ&s",
+    "channel_name": "STVS",
+    "country": "Suriname"
+  },
+  {
+    "id": 1096,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Apintie_Televisie_Logo.png",
+    "channel_name": "Apintie Televisie",
+    "country": "Suriname"
+  },
+  {
+    "id": 1097,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/ABC_Suriname_logo.png",
+    "channel_name": "ABC",
+    "country": "Suriname"
+  },
+  {
+    "id": 1098,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/86/Logo_ATV-2.png",
+    "channel_name": "ATV",
+    "country": "Suriname"
+  },
+  {
+    "id": 1099,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVmoHLzXxX5B5K367Wu5p6gngjreKmZtJDlg&s",
+    "channel_name": "TVJ",
+    "country": "Jamaica"
+  },
+  {
+    "id": 1100,
+    "image": "https://yt3.googleusercontent.com/UWhGiABbGsCN6YEgsOZEG65foPZGSlbdJsTXHWnFyvwanQvQGBsPxr276DBM5KqJG1yoPbJTHOE=s160-c-k-c0x00ffffff-no-rj",
+    "channel_name": "CVM TV",
+    "country": "Jamaica"
+  },
+  {
+    "id": 1101,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv4WJVMV8cbSBus4L4afgS1LDu_R_9d6juXg&s",
+    "channel_name": "Hype TV",
+    "country": "Jamaica"
+  },
+  {
+    "id": 1102,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTswbkQh0ifRYWVUA-oszvebVBKVwnZFLw_HQ&s",
+    "channel_name": "Love TV",
+    "country": "Jamaica"
+  },
+  {
+    "id": 1103,
+    "image": "https://upload.wikimedia.org/wikipedia/en/8/8d/Telemundo_Puerto_Rico.svg",
+    "channel_name": "Telemundo Puerto Rico",
+    "country": "Puerto Rico"
+  },
+  {
+    "id": 1104,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/WAPA-TV_logo.svg",
+    "channel_name": "WAPA-TV",
+    "country": "Puerto Rico"
+  },
+  {
+    "id": 1105,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/MegaTV.png",
+    "channel_name": "Mega TV",
+    "country": "Puerto Rico"
+  },
+  {
+    "id": 1106,
+    "image": "https://upload.wikimedia.org/wikipedia/en/a/af/Am%C3%A9rica_Tev%C3%A9_Logo.png",
+    "channel_name": "América Telé",
+    "country": "Puerto Rico"
   }
 ]

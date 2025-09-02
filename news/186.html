@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="This is a website dedicated to TV stations.">
+    <meta name="keywords" content="TV,news,stations,website">
+    <meta name="author" content="Salamon Andor">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>TV News</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="../css/index.css">
+</head>
+<body>
+<header>
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="nav">
+        <a class="navbar-brand" href="../index.html">TV NEWS</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar"
+                aria-controls="navbar" aria-expanded="false" aria-label="Toggle Navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbar">
+            <ul class="navbar-nav mr-auto">
+                <li class="navbar-item active">
+                    <a class="nav-link" href="../news.html">Latest News</a>
+                </li>
+                <li class="navbar-item">
+                    <a class="nav-link" href="../channels.html">TV Channels</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<section class="container-fluid text-center" id="section">
+    <h1 class="h1">Television in Guyana</h1>
+    <p class="lead">Source: <em>Wikipedia</em></p>
+    <p class="lead">Broadcast stations: government-dominated; the National Communications Network (NCN) TV is state-owned; 
+        a few private TV stations relay satellite services (2007).</p>
+    <p class="lead">Censorship: No government-imposed restrictions on television stations or suspensions of broadcasts in 2012. 
+        The government largely directs advertising to media houses aligned with the governing party. 
+        The government continues to exert heavy control over the content of the National Communications Network (TV), 
+        giving government spokespersons extended coverage, while limiting participation of opposition figures.</p>
+    <p class="lead">The first television station in Guyana was established in 1988, using a transmitter obtained from Canada. 
+        Many households already could watch TV programs from the US, through "pirate re-transmitting stations" and the use of receiving dishes. 
+        Guyana was the first English-speaking Caribbean country to install a USIA TVRO, which sent broadcast signals from Washington D.C. 
+        In the 70s and 80s, information dissemination continued to favor the North due to infrastructures established in the colonial period. 
+        The MacBride report in 1980 was an attempt to discuss the imbalance between advantaged countries such as the US and the UK, and 
+        developing states like Guyana, that don't have the capacity for controlling information flow between their borders.</p>
+    <p class="lead">Broadcasting is regulated by the Guyana National Broadcasting Authority (GNBA), a body established by the Broadcasting Act of 2011. 
+        The Broadcast (Amendment) Bill 2017 was made to guarantee a certain amount of broadcast hours to government public service announcements, 
+        however this was seen as a threat to free speech, since such PSAs were typically serving the political party in power, rather than the public.</p>
+</section>
+<footer class="footer">
+    <div class="container-fluid text-center">
+        <span class="text-muted" id="date"></span>
+    </div>
+</footer>
+<script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script>
+    let today = new Date();
+    document.getElementById("date").innerHTML = "&copy; " + today.getFullYear() + ", Andor Salamon";
+</script>
+</body>
+</html>

@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="This is a website dedicated to TV stations.">
+    <meta name="keywords" content="TV,news,stations,website">
+    <meta name="author" content="Salamon Andor">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>TV News</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="../css/index.css">
+</head>
+<body>
+<header>
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="nav">
+        <a class="navbar-brand" href="../index.html">TV NEWS</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar"
+                aria-controls="navbar" aria-expanded="false" aria-label="Toggle Navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbar">
+            <ul class="navbar-nav mr-auto">
+                <li class="navbar-item active">
+                    <a class="nav-link" href="../news.html">Latest News</a>
+                </li>
+                <li class="navbar-item">
+                    <a class="nav-link" href="../channels.html">TV Channels</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<section class="container-fluid text-center" id="section">
+    <h1 class="h1">Television in Cuba</h1>
+    <p class="lead">Source: <em>Wikipedia</em></p>
+    <p class="lead">Cuba was the first Latin American country to begin television testing in December 1946 when 
+        station CM-21P conducted an experimental multi-point live broadcast. The first regular commercial broadcasting began in October 1950 
+        by the small radio station Union Radio, soon followed by other stations. The broadcasts featured sport, soap operas, news, cooking shows, and comedy. 
+        Censorship was imposed following the 1952 coup by Fulgencio Batista, and again by the government of the Cuban revolution after their victory in 1959.</p>
+    <h2 class="h2">History</h2>
+    <p class="lead">Commercial television arrived in Cuba on October 25, 1950, the first in the Caribbean and second in Latin America. 
+        In the 1940s, Cuba's two largest radio stations, CMQ (which had begun testing in 1946) and RHC-Cadena Azul, 
+        announced they would soon start broadcasting television. Since building TV stations and broadcast networks from scratch 
+        was extremely expensive and complex, it took longer than expected.</p>
+    <p class="lead">They were both beaten to the air by the tiny radio station, Union Radio. Gaspar Pumarejo, owner of Union Radio, 
+        built the new station in the Havana home and garage of a family named Mestre. Pumarejo set the inauguration of his TV station for October 24, 1950, 
+        which was Journalists Day in Cuba. After honoring the journalist, Cuba's President Carlos Prío Socarrás was shown mugging 
+        it up for the camera and playing the role of cameraman. After this event Union Radio's slogan became 
+        Union Radio, primera en televisión, primera en popularidad ("Union Radio, first in television, first in popularity"). 
+        Union Radio was quickly followed by CMQ Television, which officially launched with its first broadcasts on December 18, 1950.</p>
+    <p class="lead">Soap operas ("telenovelas"), news, cooking shows, comedy shows and musical variety were shown. 
+        After Union Radio TV went on the air, Cuban demand for television sets soared. Luckily Cuban broadcasting coincided 
+        with a glut of sets in the US market. Despite the high cost, ranging $350 for a 16" set to $2,000 for a 30" set, 
+        the Cuban government's Imports and Exports Analysis Agency estimated that Cubans had imported more than 100,000 television receivers by 1952.</p>
+    <p class="lead">From its inception, Cuban television played a huge part in the social and political fiber of Cuban life. 
+        Extensive discussions about television began to unfold in the radio and entertainment sections of Cuban newspapers and 
+        magazines in the year leading up to October 14, 1950, the day Union Radio TV became the first television station to broadcast in Havana. 
+        Critics believed that US television set a level of excellence that they wanted to uphold. 
+        They believed the medium's primary purpose in Cuba would be to enhance the "high culture" education of the Cuban citizen.</p>
+</section>
+<footer class="footer">
+    <div class="container-fluid text-center">
+        <span class="text-muted" id="date"></span>
+    </div>
+</footer>
+<script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script>
+    let today = new Date();
+    document.getElementById("date").innerHTML = "&copy; " + today.getFullYear() + ", Andor Salamon";
+</script>
+</body>
+</html>
