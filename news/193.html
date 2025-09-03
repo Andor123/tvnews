@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="This is a website dedicated to TV stations.">
+    <meta name="keywords" content="TV,news,stations,website">
+    <meta name="author" content="Salamon Andor">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>TV News</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="../css/index.css">
+</head>
+<body>
+<header>
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="nav">
+        <a class="navbar-brand" href="../index.html">TV NEWS</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar"
+                aria-controls="navbar" aria-expanded="false" aria-label="Toggle Navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbar">
+            <ul class="navbar-nav mr-auto">
+                <li class="navbar-item active">
+                    <a class="nav-link" href="../news.html">Latest News</a>
+                </li>
+                <li class="navbar-item">
+                    <a class="nav-link" href="../channels.html">TV Channels</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<section class="container-fluid text-center" id="section">
+    <h1 class="h1">Television in Saint Kitts and Nevis</h1>
+    <p class="lead">Source: <em>Wikipedia</em></p>
+    <p class="lead">ZIZ launched a television division on 3 December 1972; during that decade, it operated one transmitter and four translators across the territory. 
+        Throughout the mid-1980s, the station aired 5½ hours of programming every weeknight, 
+        and ran a separate telex-based information channel on the island country's newly established cable system. 
+        In 2001, its lineup aired from 4:00 till 11:00 p.m., switching to Fox Family programming during off hours; in Nevis, the 7:00–11:00 
+        portion carried material from that island's Information Service. As of 2006, ZIZ was Saint Kitts and Nevis' sole national television channel. 
+        Foreign programming accounted for 90% of ZIZ Television's offerings in 1975; with regards to U.S. content, this figure became 60–65% in the 1980s. 
+        Around the turn of the 21st century, the local political opposition saw the station as a government mouthpiece and accused it of denying them airtime.</p>
+    <p class="lead">ZIZ's radio programming is broadcast across the FM frequencies 95.9, 96.1, 96.3, and 96.9. The AM feed began transmission on 570 kHz in the 1960s, 
+        and was also heard during that period across the British Leeward Islands as well as the neighbouring French and Dutch territories. 
+        It later moved to 555 kHz, and remained there as late as the 2010s. The television service, which airs on channel 5, served the entire Leeward archipelago in the 1970s 
+        and was included in the mid-1984 launch of the national cable system. In 1989, it was received on channel 9 in northern St. Kitts Island and channel 13 in Nevis.</p>
+</section>
+<footer class="footer">
+    <div class="container-fluid text-center">
+        <span class="text-muted" id="date"></span>
+    </div>
+</footer>
+<script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script>
+    let today = new Date();
+    document.getElementById("date").innerHTML = "&copy; " + today.getFullYear() + ", Andor Salamon";
+</script>
+</body>
+</html>

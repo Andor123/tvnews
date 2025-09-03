@@ -758,5 +758,45 @@
   {
     "id": 190,
     "news": "Television in Puerto Rico"
+  },
+  {
+    "id": 191,
+    "news": "Television in Haiti"
+  },
+  {
+    "id": 192,
+    "news": "Television in the Dominican Republic"
+  },
+  {
+    "id": 193,
+    "news": "Television in Saint Kitts and Nevis"
+  },
+  {
+    "id": 194,
+    "news": "Television in Antigua and Barbuda"
+  },
+  {
+    "id": 195,
+    "news": "Television in Dominica"
+  },
+  {
+    "id": 196,
+    "news": "Television in Saint Lucia"
+  },
+  {
+    "id": 197,
+    "news": "Television in Barbados"
+  },
+  {
+    "id": 198,
+    "news": "Television in Saint Vincent and the Grenadines"
+  },
+  {
+    "id": 199,
+    "news": "Television in Grenada"
+  },
+  {
+    "id": 200,
+    "news": "Television in Trinidad and Tobago"
   }
 ]

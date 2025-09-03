@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="This is a website dedicated to TV stations.">
+    <meta name="keywords" content="TV,news,stations,website">
+    <meta name="author" content="Salamon Andor">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>TV News</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="../css/index.css">
+</head>
+<body>
+<header>
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="nav">
+        <a class="navbar-brand" href="../index.html">TV NEWS</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar"
+                aria-controls="navbar" aria-expanded="false" aria-label="Toggle Navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbar">
+            <ul class="navbar-nav mr-auto">
+                <li class="navbar-item active">
+                    <a class="nav-link" href="../news.html">Latest News</a>
+                </li>
+                <li class="navbar-item">
+                    <a class="nav-link" href="../channels.html">TV Channels</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<section class="container-fluid text-center" id="section">
+    <h1 class="h1">Television in Trinidad and Tobago</h1>
+    <p class="lead">Source: <em>Wikipedia</em></p>
+    <p class="lead">Television in Trinidad and Tobago was introduced in 1962 beginning with Trinidad & Tobago Television. 
+        TTT was the sole television station for 29 years being operated by the state until the first independently operated television station, 
+        the Caribbean Communications Network, CCN TV6 was launched in 1991 breaking the television monopoly market. 
+        In 1992, a second independently operated station, AVM Television was launched. The first independently operated cable station, 
+        The Trinity Network (TTN) now Trinity TV began operations in 1993 broadcasting on weekends only.</p>
+    <p class="lead">AVM Television was acquired by the state in 1997 and renamed The Information Channel (TIC) until it was leased by 
+        the National Carnival Commission in 2005 and re-branded NCC4. Once the lease ended in 2011, the state began controlling 
+        the station once more under the Government Information Services Limited (GISL TV4) until 2017. The station was closed for 
+        three years and re-launched as the Education Channel in 2020.</p>
+    <p class="lead">TTT was shut down by the state on 14 January 2005 due to financial difficulties. In its place a new state entity was created, 
+        the Caribbean News Media Group (CNMG), where C Television (CTV) began broadcasting in 2006. Since the closure of TTT, 
+        new independently operated stations were launched, the most notable being the Cable News Channel 3 or CNC3. 
+        After several years of being off the air, it was found that TTT still had a strong brand identity among the population and a cult following on social media. 
+        On 30 August 2018, TTT was re-launched replacing CTV.</p>
+    <p class="lead">Broadcast networks in Trinidad and Tobago can be divided into three categories:</p>
+    <ul class="list-group">
+        <li class="list-group-item">Commercial broadcasting networks (which air English-language programming to a general audience). Example: CNC3</li>
+        <li class="list-group-item">Educational and other non-commercial broadcasting member stations (which air English- and some foreign-language television programming, 
+            intended to be educational television or otherwise of a sort not found on commercial television). Example: The Parliament Channel</li>
+        <li class="list-group-item">Religious broadcasting networks. Example: TV Jaagriti</li>
+    </ul>
+</section>
+<footer class="footer">
+    <div class="container-fluid text-center">
+        <span class="text-muted" id="date"></span>
+    </div>
+</footer>
+<script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script>
+    let today = new Date();
+    document.getElementById("date").innerHTML = "&copy; " + today.getFullYear() + ", Andor Salamon";
+</script>
+</body>
+</html>
